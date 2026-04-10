@@ -1,0 +1,6482 @@
+{
+    "2，3-diphosphoglycerate": {
+        "meaning": "2 ，3-二磷酸甘油酸",
+        "abbrev": "['2，3-DPG']",
+        "page": "154"
+    },
+    "phase 4 spontaneous depolarization": {
+        "meaning": "4 期自动去极化",
+        "abbrev": "无",
+        "page": "93"
+    },
+    "5-hydroxytryptamine": {
+        "meaning": "5-羟色胺",
+        "abbrev": "5-HT",
+        "page": "251, 297"
+    },
+    "α2-antiplasmin": {
+        "meaning": "α2-抗纤溶酶",
+        "abbrev": "α2-AP",
+        "page": "73"
+    },
+    "α-rigidity": {
+        "meaning": "α僵直",
+        "abbrev": "无",
+        "page": "313"
+    },
+    "alpha block": {
+        "meaning": "α阻断",
+        "abbrev": "无",
+        "page": "327"
+    },
+    "β-endorphin": {
+        "meaning": "β-内啡肽",
+        "abbrev": "无",
+        "page": "127"
+    },
+    "gamma aminobutyric acid": {
+        "meaning": "γ-氨基丁酸",
+        "abbrev": "GABA",
+        "page": "252"
+    },
+    "γ-rigidity": {
+        "meaning": "γ僵直",
+        "abbrev": "无",
+        "page": "312"
+    },
+    "calcium release channel": {
+        "meaning": "Ca2+释放通道",
+        "abbrev": "无",
+        "page": "26"
+    },
+    "Ca2+/CaM-dependent protein kinase": {
+        "meaning": "Ca2+-CaM 依赖性蛋白激酶",
+        "abbrev": "CaMK",
+        "page": "26"
+    },
+    "exchange protein activated by cAMP": {
+        "meaning": "cAMP 激活的交换蛋白",
+        "abbrev": "EPAC",
+        "page": "26"
+    },
+    "carbon dioxide dissociation curve": {
+        "meaning": "CO2解离曲线",
+        "abbrev": "无",
+        "page": "156"
+    },
+    "C peptide": {
+        "meaning": "C 肽",
+        "abbrev": "无",
+        "page": "373"
+    },
+    "C-type natriuretic peptide": {
+        "meaning": "C 型利尿钠肽",
+        "abbrev": "CNP",
+        "page": "127"
+    },
+    "G protein": {
+        "meaning": "G 蛋白",
+        "abbrev": "无",
+        "page": "24"
+    },
+    "G protein-coupled receptor": {
+        "meaning": "G 蛋白耦联受体",
+        "abbrev": "GPCR",
+        "page": "23"
+    },
+    "G protein effector": {
+        "meaning": "G 蛋白效应器",
+        "abbrev": "无",
+        "page": "24"
+    },
+    "oxygen saturation of Hb": {
+        "meaning": "Hb 氧饱和度",
+        "abbrev": "无",
+        "page": "152"
+    },
+    "oxygen content of Hb": {
+        "meaning": "Hb 氧含量",
+        "abbrev": "无",
+        "page": "152"
+    },
+    "oxygen capacity of Hb": {
+        "meaning": "Hb 氧容量",
+        "abbrev": "无",
+        "page": "152"
+    },
+    "IP3 receptor": {
+        "meaning": "IP3受体",
+        "abbrev": "IP3R",
+        "page": "26"
+    },
+    "K+ equilibrium potential": {
+        "meaning": "K+平衡电位",
+        "abbrev": "EK",
+        "page": "30"
+    },
+    "L tubule": {
+        "meaning": "L 管",
+        "abbrev": "无",
+        "page": "44"
+    },
+    "L-type calcium current": {
+        "meaning": "L 型钙电流",
+        "abbrev": "I Ca-L",
+        "page": "92"
+    },
+    "L-type calcium channel": {
+        "meaning": "L 型钙通道",
+        "abbrev": "无",
+        "page": "45"
+    },
+    "Mas-related G-protein-coupled receptor": {
+        "meaning": "Mas 相关 G 蛋白耦联受体",
+        "abbrev": "Mrgpr",
+        "page": "251"
+    },
+    "N2-ACh receptor cation channel": {
+        "meaning": "N2型 ACh 受体阳离子通道",
+        "abbrev": "无",
+        "page": "43"
+    },
+    "Na+-Ca2+ exchange current": {
+        "meaning": "Na+-Ca2+交换电流",
+        "abbrev": "INa-Ca",
+        "page": "92"
+    },
+    "Na+-Cl-cotransporter": {
+        "meaning": "Na+-Cl-共转运体",
+        "abbrev": "NCC",
+        "page": "222"
+    },
+    "Na+ equilibrium potential": {
+        "meaning": "Na+平衡电位",
+        "abbrev": "ENa",
+        "page": "30"
+    },
+    "sodium-glucose linked cotransporter": {
+        "meaning": "Na+-葡萄糖耦联转运体",
+        "abbrev": "SGLT",
+        "page": "225"
+    },
+    "P-R segment": {
+        "meaning": "PR 段",
+        "abbrev": "无",
+        "page": "103"
+    },
+    "P-R interval": {
+        "meaning": "PR 间期",
+        "abbrev": "无",
+        "page": "103"
+    },
+    "P wave": {
+        "meaning": "P 波",
+        "abbrev": "无",
+        "page": "102"
+    },
+    "substance P": {
+        "meaning": "P 物质",
+        "abbrev": "SP",
+        "page": "251"
+    },
+    "QRS complex": {
+        "meaning": "QRS 波群",
+        "abbrev": "无",
+        "page": "103"
+    },
+    "Q-T interval": {
+        "meaning": "QT 间期",
+        "abbrev": "无",
+        "page": "103"
+    },
+    "S-T segment": {
+        "meaning": "ST 段",
+        "abbrev": "无",
+        "page": "104"
+    },
+    "Toll-like receptor": {
+        "meaning": "Toll 样受体",
+        "abbrev": "TLR",
+        "page": "251"
+    },
+    "T wave": {
+        "meaning": "T 波",
+        "abbrev": "无",
+        "page": "103"
+    },
+    "T tubule": {
+        "meaning": "T 管",
+        "abbrev": "无",
+        "page": "44"
+    },
+    "T-type calcium current": {
+        "meaning": "T 型钙电流",
+        "abbrev": "I Ca-T",
+        "page": "94"
+    },
+    "U wave": {
+        "meaning": "U 波",
+        "abbrev": "无",
+        "page": "103"
+    },
+    "Alzheimer ’s disease": {
+        "meaning": "阿尔茨海默病",
+        "abbrev": "AD",
+        "page": "296"
+    },
+    "amiloride": {
+        "meaning": "阿米洛利",
+        "abbrev": "无",
+        "page": "278"
+    },
+    "opioid peptide": {
+        "meaning": "阿片肽",
+        "abbrev": "无",
+        "page": "127"
+    },
+    "atropine": {
+        "meaning": "阿托品",
+        "abbrev": "无",
+        "page": "296"
+    },
+    "carbaminohemoglobin": {
+        "meaning": "氨基甲酰血红蛋白",
+        "abbrev": "无",
+        "page": "154"
+    },
+    "amine hormone": {
+        "meaning": "胺类激素",
+        "abbrev": "无",
+        "page": "340"
+    },
+    "dark current": {
+        "meaning": "暗电流",
+        "abbrev": "无",
+        "page": "261"
+    },
+    "scotopic vision": {
+        "meaning": "暗视觉",
+        "abbrev": "无",
+        "page": "260"
+    },
+    "dark adaptation": {
+        "meaning": "暗适应",
+        "abbrev": "无",
+        "page": "265"
+    },
+    "Babinski sign": {
+        "meaning": "巴宾斯基征",
+        "abbrev": "无",
+        "page": "318"
+    },
+    "albuminuria": {
+        "meaning": "白蛋白尿",
+        "abbrev": "无",
+        "page": "216"
+    },
+    "leukotriene": {
+        "meaning": "白三烯",
+        "abbrev": "无",
+        "page": "379"
+    },
+    "corpus albicans": {
+        "meaning": "白体",
+        "abbrev": "无",
+        "page": "388"
+    },
+    "leukocyte； white blood cell": {
+        "meaning": "白细胞",
+        "abbrev": "WBC",
+        "page": "54"
+    },
+    "semicircular canal": {
+        "meaning": "半规管",
+        "abbrev": "无",
+        "page": "274"
+    },
+    "membrane receptor": {
+        "meaning": "胞膜受体",
+        "abbrev": "无",
+        "page": "22"
+    },
+    "intracrine": {
+        "meaning": "胞内分泌",
+        "abbrev": "无",
+        "page": "23"
+    },
+    "satiety center": {
+        "meaning": "饱中枢",
+        "abbrev": "无",
+        "page": "202"
+    },
+    "potassium sparing diuretic": {
+        "meaning": "保钾利尿剂",
+        "abbrev": "无",
+        "page": "225"
+    },
+    "dorsal respiratory group": {
+        "meaning": "背侧呼吸组",
+        "abbrev": "DRG",
+        "page": "157"
+    },
+    "dorsal root ganglia": {
+        "meaning": "背根神经节",
+        "abbrev": "DRG",
+        "page": "246"
+    },
+    "passive transport": {
+        "meaning": "被动转运",
+        "abbrev": "无",
+        "page": "15"
+    },
+    "instinctual behavior": {
+        "meaning": "本能行为",
+        "abbrev": "无",
+        "page": "324"
+    },
+    "proprioception": {
+        "meaning": "本体感觉",
+        "abbrev": "无",
+        "page": "249"
+    },
+    "proprioceptive reflex": {
+        "meaning": "本体感受性反射",
+        "abbrev": "无",
+        "page": "162"
+    },
+    "Biot breathing": {
+        "meaning": "比奥呼吸",
+        "abbrev": "无",
+        "page": "157"
+    },
+    "specific compliance": {
+        "meaning": "比顺应性　",
+        "abbrev": "无",
+        "page": "140"
+    },
+    "closed-loop system": {
+        "meaning": "闭环系统",
+        "abbrev": "无",
+        "page": "10"
+    },
+    "parietal cell": {
+        "meaning": "壁细胞",
+        "abbrev": "无",
+        "page": "171"
+    },
+    "contraception": {
+        "meaning": "避孕",
+        "abbrev": "无",
+        "page": "399"
+    },
+    "coding": {
+        "meaning": "编码",
+        "abbrev": "无",
+        "page": "244"
+    },
+    "inotropic state": {
+        "meaning": "变力状态",
+        "abbrev": "无",
+        "page": "86"
+    },
+    "surfactant-associated protein": {
+        "meaning": "表面活性物质蛋白",
+        "abbrev": "SP",
+        "page": "141"
+    },
+    "surface tension": {
+        "meaning": "表面张力",
+        "abbrev": "无",
+        "page": "140"
+    },
+    "epidermal  growth factor": {
+        "meaning": "表皮生长因子",
+        "abbrev": "EGF",
+        "page": "177"
+    },
+    "phenotype": {
+        "meaning": "表现型",
+        "abbrev": "无",
+        "page": "75"
+    },
+    "Bohr effect": {
+        "meaning": "波尔效应",
+        "abbrev": "无",
+        "page": "153"
+    },
+    "stroke volume reserve": {
+        "meaning": "搏出量储备",
+        "abbrev": "无",
+        "page": "83"
+    },
+    "supplementary motor area": {
+        "meaning": "补充运动区",
+        "abbrev": "无",
+        "page": "318"
+    },
+    "expiratory reserve volume": {
+        "meaning": "补呼气量",
+        "abbrev": "ERV",
+        "page": "144"
+    },
+    "inspiratory reserve volume": {
+        "meaning": "补吸气量",
+        "abbrev": "IRV",
+        "page": "144"
+    },
+    "insensible evaporation": {
+        "meaning": "不感蒸发",
+        "abbrev": "无",
+        "page": "208"
+    },
+    "incomplete tetanus": {
+        "meaning": "不完全强直收缩",
+        "abbrev": "无",
+        "page": "49"
+    },
+    "postprandial alkaline tide": {
+        "meaning": "餐后碱潮",
+        "abbrev": "无",
+        "page": "172"
+    },
+    "globus pallidus": {
+        "meaning": "苍白球",
+        "abbrev": "无",
+        "page": "314"
+    },
+    "lateral inhibition": {
+        "meaning": "侧向抑制",
+        "abbrev": "无",
+        "page": "245"
+    },
+    "heat production": {
+        "meaning": "产热",
+        "abbrev": "无",
+        "page": "206"
+    },
+    "length constant": {
+        "meaning": "长度常数",
+        "abbrev": "无",
+        "page": "40"
+    },
+    "length-tension relation curve": {
+        "meaning": "长度- 张力关系曲线",
+        "abbrev": "无",
+        "page": "48"
+    },
+    "long-loop feedback": {
+        "meaning": "长反馈",
+        "abbrev": "无",
+        "page": "346"
+    },
+    "long-term regulation": {
+        "meaning": "长期调节",
+        "abbrev": "无",
+        "page": "128"
+    },
+    "long-term memory": {
+        "meaning": "长时程记忆",
+        "abbrev": "无",
+        "page": "333"
+    },
+    "long-term depression": {
+        "meaning": "长时程抑制",
+        "abbrev": "LTD",
+        "page": "292"
+    },
+    "long-term potentiation": {
+        "meaning": "长时程增强",
+        "abbrev": "LTP",
+        "page": "291"
+    },
+    "apneusis": {
+        "meaning": "长吸式呼吸",
+        "abbrev": "无",
+        "page": "157"
+    },
+    "apneustic center": {
+        "meaning": "长吸中枢",
+        "abbrev": "无",
+        "page": "157"
+    },
+    "intestinal microecology": {
+        "meaning": "肠道微生态",
+        "abbrev": "无",
+        "page": "193"
+    },
+    "enterohepatic circulation": {
+        "meaning": "肠肝循环",
+        "abbrev": "无",
+        "page": "182"
+    },
+    "enterokinase": {
+        "meaning": "肠激酶",
+        "abbrev": "无",
+        "page": "180"
+    },
+    "entero-oxyntin": {
+        "meaning": "肠泌酸素",
+        "abbrev": "无",
+        "page": "175"
+    },
+    "intestinal barrier": {
+        "meaning": "肠屏障",
+        "abbrev": "无",
+        "page": "194"
+    },
+    "enteric nervous system": {
+        "meaning": "肠神经系统",
+        "abbrev": "ENS",
+        "page": "167"
+    },
+    "enterochromaffin-like cell": {
+        "meaning": "肠嗜铬样细胞",
+        "abbrev": "ECL cell",
+        "page": "171"
+    },
+    "entero-gastric reflex": {
+        "meaning": "肠- 胃反射　",
+        "abbrev": "无",
+        "page": "177"
+    },
+    "enteroinsular axis": {
+        "meaning": "肠- 胰岛轴　",
+        "abbrev": "无",
+        "page": "377"
+    },
+    "enterogastrone": {
+        "meaning": "肠抑胃素",
+        "abbrev": "无",
+        "page": "177"
+    },
+    "supranormal period": {
+        "meaning": "超常期",
+        "abbrev": "SNP",
+        "page": "96"
+    },
+    "ultrashort-loop feedback": {
+        "meaning": "超短反馈",
+        "abbrev": "无",
+        "page": "346"
+    },
+    "hyperpolarization": {
+        "meaning": "超极化",
+        "abbrev": "无",
+        "page": "29"
+    },
+    "hyperpolarization-activated cyclic nucleotide-gated cation channel": {
+        "meaning": "超极化激活的环核苷酸门控阳离子通道",
+        "abbrev": "HCN",
+        "page": "25"
+    },
+    "ultrafiltrate": {
+        "meaning": "超滤液",
+        "abbrev": "无",
+        "page": "218"
+    },
+    "overshoot": {
+        "meaning": "超射",
+        "abbrev": "无",
+        "page": "31"
+    },
+    "echocardiography": {
+        "meaning": "超声心动图",
+        "abbrev": "无",
+        "page": "88"
+    },
+    "overdrive suppression": {
+        "meaning": "超速驱动阻抑",
+        "abbrev": "无",
+        "page": "100"
+    },
+    "tidal volume": {
+        "meaning": "潮气量",
+        "abbrev": "TV",
+        "page": "144"
+    },
+    "Cheyne-Stokes respiration": {
+        "meaning": "陈- 施呼吸　",
+        "abbrev": "无",
+        "page": "157"
+    },
+    "declarative memory": {
+        "meaning": "陈述性记忆",
+        "abbrev": "无",
+        "page": "332"
+    },
+    "blood components transfusion": {
+        "meaning": "成分输血",
+        "abbrev": "无",
+        "page": "77"
+    },
+    "addiction": {
+        "meaning": "成瘾",
+        "abbrev": "无",
+        "page": "326"
+    },
+    "punishment system": {
+        "meaning": "惩罚系统",
+        "abbrev": "无",
+        "page": "325"
+    },
+    "flaccid paralysis": {
+        "meaning": "弛缓性瘫痪",
+        "abbrev": "无",
+        "page": "318"
+    },
+    "impulse": {
+        "meaning": "冲动",
+        "abbrev": "无",
+        "page": "37"
+    },
+    "resetting": {
+        "meaning": "重调定",
+        "abbrev": "无",
+        "page": "123"
+    },
+    "reuptake": {
+        "meaning": "重摄取",
+        "abbrev": "无",
+        "page": "289"
+    },
+    "reabsorption": {
+        "meaning": "重吸收",
+        "abbrev": "无",
+        "page": "117"
+    },
+    "exocytosis": {
+        "meaning": "出胞作用",
+        "abbrev": "无",
+        "page": "20"
+    },
+    "sweating": {
+        "meaning": "出汗",
+        "abbrev": "无",
+        "page": "208"
+    },
+    "bleeding time": {
+        "meaning": "出血时间",
+        "abbrev": "无",
+        "page": "66"
+    },
+    "primary hemostasis": {
+        "meaning": "初步止血",
+        "abbrev": "无",
+        "page": "67"
+    },
+    "primary follicle": {
+        "meaning": "初级卵泡",
+        "abbrev": "无",
+        "page": "387"
+    },
+    "primary motor cortex": {
+        "meaning": "初级运动皮层",
+        "abbrev": "无",
+        "page": "317"
+    },
+    "initial length": {
+        "meaning": "初长度",
+        "abbrev": "无",
+        "page": "48"
+    },
+    "touch point": {
+        "meaning": "触点",
+        "abbrev": "无",
+        "page": "246"
+    },
+    "tactile sensation threshold": {
+        "meaning": "触觉阈",
+        "abbrev": "无",
+        "page": "248"
+    },
+    "conduction": {
+        "meaning": "传导",
+        "abbrev": "无",
+        "page": "37"
+    },
+    "conductivity": {
+        "meaning": "传导性",
+        "abbrev": "无",
+        "page": "90"
+    },
+    "conduction aphasia": {
+        "meaning": "传导性失语症",
+        "abbrev": "无",
+        "page": "335"
+    },
+    "afferent collateral inhibition": {
+        "meaning": "传入侧支抑制",
+        "abbrev": "无",
+        "page": "302"
+    },
+    "gasping center": {
+        "meaning": "喘息中枢",
+        "abbrev": "无",
+        "page": "157"
+    },
+    "cross-talk": {
+        "meaning": "串话",
+        "abbrev": "无",
+        "page": "23"
+    },
+    "estradiol": {
+        "meaning": "雌二醇",
+        "abbrev": "E",
+        "page": "2"
+    },
+    "estrogen": {
+        "meaning": "雌激素",
+        "abbrev": "无",
+        "page": "388"
+    },
+    "estrone": {
+        "meaning": "雌酮",
+        "abbrev": "E",
+        "page": "1"
+    },
+    "secondary follicle": {
+        "meaning": "次级卵泡",
+        "abbrev": "无",
+        "page": "387"
+    },
+    "secondary motor cortex": {
+        "meaning": "次级运动皮层",
+        "abbrev": "无",
+        "page": "317"
+    },
+    "stimulus": {
+        "meaning": "刺激",
+        "abbrev": "无",
+        "page": "36"
+    },
+    "erythropoietin": {
+        "meaning": "促红细胞生成素",
+        "abbrev": "EPO",
+        "page": "59"
+    },
+    "trophic hormone": {
+        "meaning": "促激素",
+        "abbrev": "无",
+        "page": "349"
+    },
+    "TSH receptor": {
+        "meaning": "促甲状腺激素受体",
+        "abbrev": "无",
+        "page": "362"
+    },
+    "metabotropic receptor": {
+        "meaning": "促代谢型受体",
+        "abbrev": "无",
+        "page": "23"
+    },
+    "ionotropic receptor": {
+        "meaning": "促离子型受体",
+        "abbrev": "无",
+        "page": "23"
+    },
+    "ghrelin": {
+        "meaning": "促生长激素释放素",
+        "abbrev": "无",
+        "page": "202"
+    },
+    "orexin": {
+        "meaning": "促食欲素",
+        "abbrev": "无",
+        "page": "202"
+    },
+    "gastrin": {
+        "meaning": "促胃液素",
+        "abbrev": "无",
+        "page": "175"
+    },
+    "gastrin-releasing peptide": {
+        "meaning": "促胃液素释放肽　",
+        "abbrev": "GRP",
+        "page": "173"
+    },
+    "pancreozymin": {
+        "meaning": "促胰酶素",
+        "abbrev": "PZ",
+        "page": "181"
+    },
+    "size principle": {
+        "meaning": "大小原则",
+        "abbrev": "无",
+        "page": "49"
+    },
+    "compensatory pause": {
+        "meaning": "代偿间歇",
+        "abbrev": "无",
+        "page": "97"
+    },
+    "simple diffusion": {
+        "meaning": "单纯扩散",
+        "abbrev": "无",
+        "page": "14"
+    },
+    "single-unit smooth muscle": {
+        "meaning": "单个单位平滑肌",
+        "abbrev": "无",
+        "page": "50"
+    },
+    "mononuclear  phagocyte  system": {
+        "meaning": "单核吞噬细胞系统",
+        "abbrev": "无",
+        "page": "62"
+    },
+    "monocyte": {
+        "meaning": "单核细胞",
+        "abbrev": "无",
+        "page": "61"
+    },
+    "single twitch": {
+        "meaning": "单收缩",
+        "abbrev": "无",
+        "page": "49"
+    },
+    "monosynaptic reflex": {
+        "meaning": "单突触反射",
+        "abbrev": "无",
+        "page": "299"
+    },
+    "single-line connection": {
+        "meaning": "单线式联系",
+        "abbrev": "无",
+        "page": "299"
+    },
+    "one-way conduction": {
+        "meaning": "单向传播",
+        "abbrev": "无",
+        "page": "300"
+    },
+    "monocular vision": {
+        "meaning": "单眼视觉",
+        "abbrev": "无",
+        "page": "266"
+    },
+    "cholecalciferol": {
+        "meaning": "胆钙化醇",
+        "abbrev": "无",
+        "page": "365"
+    },
+    "cholinergic neuron": {
+        "meaning": "胆碱能神经元",
+        "abbrev": "无",
+        "page": "295"
+    },
+    "cholinergic receptor": {
+        "meaning": "胆碱能受体",
+        "abbrev": "无",
+        "page": "295"
+    },
+    "cholinergic system": {
+        "meaning": "胆碱能系统",
+        "abbrev": "无",
+        "page": "295"
+    },
+    "cholinergic fiber": {
+        "meaning": "胆碱能纤维",
+        "abbrev": "无",
+        "page": "295"
+    },
+    "bile": {
+        "meaning": "胆汁",
+        "abbrev": "无",
+        "page": "181"
+    },
+    "protein kinase": {
+        "meaning": "蛋白激酶",
+        "abbrev": "无",
+        "page": "25"
+    },
+    "protein kinase A": {
+        "meaning": "蛋白激酶A",
+        "abbrev": "PKA",
+        "page": "25"
+    },
+    "protein kinase C": {
+        "meaning": "蛋白激酶C",
+        "abbrev": "PKC",
+        "page": "25"
+    },
+    "protein kinase G": {
+        "meaning": "蛋白激酶G　",
+        "abbrev": "PKG",
+        "page": "27"
+    },
+    "protein phosphorylation": {
+        "meaning": "蛋白磷酸化",
+        "abbrev": "无",
+        "page": "25"
+    },
+    "protein phosphatase": {
+        "meaning": "蛋白磷酸酶",
+        "abbrev": "无",
+        "page": "25"
+    },
+    "protease activated receptor2": {
+        "meaning": "蛋白酶活化受体2",
+        "abbrev": "无",
+        "page": "251"
+    },
+    "proteinuria": {
+        "meaning": "蛋白尿",
+        "abbrev": "无",
+        "page": "216"
+    },
+    "protein C": {
+        "meaning": "蛋白质C",
+        "abbrev": "PC",
+        "page": "71"
+    },
+    "isovolumic contraction period": {
+        "meaning": "等容收缩期",
+        "abbrev": "无",
+        "page": "80"
+    },
+    "isovolumic relaxation period": {
+        "meaning": "等容舒张期",
+        "abbrev": "无",
+        "page": "81"
+    },
+    "iso-osmotic solution": {
+        "meaning": "等渗溶液",
+        "abbrev": "无",
+        "page": "55"
+    },
+    "isotonic solution": {
+        "meaning": "等张溶液",
+        "abbrev": "无",
+        "page": "55"
+    },
+    "isotonic contraction": {
+        "meaning": "等张收缩",
+        "abbrev": "无",
+        "page": "48"
+    },
+    "isometric contraction": {
+        "meaning": "等长收缩",
+        "abbrev": "无",
+        "page": "48"
+    },
+    "hypoosmotic urine": {
+        "meaning": "低渗尿",
+        "abbrev": "无",
+        "page": "227"
+    },
+    "hypoxia": {
+        "meaning": "低氧",
+        "abbrev": "无",
+        "page": "163"
+    },
+    "hypoxia-inducible  factor-1": {
+        "meaning": "低氧诱导因子-1",
+        "abbrev": "HIF-1",
+        "page": "60"
+    },
+    "neurotransmitter co-existence": {
+        "meaning": "递质共存",
+        "abbrev": "无",
+        "page": "293"
+    },
+    "second messenger": {
+        "meaning": "第二信使",
+        "abbrev": "无",
+        "page": "24"
+    },
+    "second  messenger  hypothesis": {
+        "meaning": "第二信使学说",
+        "abbrev": "无",
+        "page": "342"
+    },
+    "iodide trap": {
+        "meaning": "碘捕获",
+        "abbrev": "无",
+        "page": "357"
+    },
+    "iodine blocking effect": {
+        "meaning": "碘阻滞效应",
+        "abbrev": "无",
+        "page": "363"
+    },
+    "electrochemical  driving force": {
+        "meaning": "电- 化学驱动力　",
+        "abbrev": "无",
+        "page": "29"
+    },
+    "electromechanical coupling": {
+        "meaning": "电- 机械耦联　",
+        "abbrev": "无",
+        "page": "51"
+    },
+    "electrotonic potential": {
+        "meaning": "电紧张电位",
+        "abbrev": "无",
+        "page": "40"
+    },
+    "electrotonic coupling": {
+        "meaning": "电紧张耦联",
+        "abbrev": "无",
+        "page": "286"
+    },
+    "electrical synapse": {
+        "meaning": "电突触",
+        "abbrev": "无",
+        "page": "285"
+    },
+    "voltage-gated ion channel": {
+        "meaning": "电压门控通道",
+        "abbrev": "无",
+        "page": "15"
+    },
+    "voltage clamp": {
+        "meaning": "电压钳",
+        "abbrev": "无",
+        "page": "33"
+    },
+    "electrical threshold": {
+        "meaning": "电阈",
+        "abbrev": "无",
+        "page": "166"
+    },
+    "constant fraction reabsorption": {
+        "meaning": "定比重吸收",
+        "abbrev": "无",
+        "page": "226"
+    },
+    "directed  synapse； targeted  synapse": {
+        "meaning": "定向突触",
+        "abbrev": "无",
+        "page": "286"
+    },
+    "motivation": {
+        "meaning": "动机",
+        "abbrev": "无",
+        "page": "326"
+    },
+    "arterio-venous shunt": {
+        "meaning": "动静脉短路",
+        "abbrev": "无",
+        "page": "116"
+    },
+    "arterial pulse": {
+        "meaning": "动脉脉搏",
+        "abbrev": "无",
+        "page": "112"
+    },
+    "arterial blood pressure": {
+        "meaning": "动脉血压",
+        "abbrev": "无",
+        "page": "109"
+    },
+    "action potential": {
+        "meaning": "动作电位",
+        "abbrev": "无",
+        "page": "31"
+    },
+    "action  potential duration": {
+        "meaning": "动作电位时程",
+        "abbrev": "APD",
+        "page": "91"
+    },
+    "sinus rhythm": {
+        "meaning": "窦性节律",
+        "abbrev": "无",
+        "page": "99"
+    },
+    "muscarinic  receptor": {
+        "meaning": "毒蕈碱受体",
+        "abbrev": "M  receptor",
+        "page": "296"
+    },
+    "muscarine-like action": {
+        "meaning": "毒蕈碱样作用",
+        "abbrev": "无",
+        "page": "296"
+    },
+    "short-loop feedback": {
+        "meaning": "短反馈",
+        "abbrev": "无",
+        "page": "346"
+    },
+    "short-term regulation": {
+        "meaning": "短期调节",
+        "abbrev": "无",
+        "page": "128"
+    },
+    "short-term memory": {
+        "meaning": "短时程记忆",
+        "abbrev": "无",
+        "page": "332"
+    },
+    "opponent color theory": {
+        "meaning": "对比色学说",
+        "abbrev": "无",
+        "page": "262"
+    },
+    "crossed-extensor reflex": {
+        "meaning": "对侧伸肌反射",
+        "abbrev": "无",
+        "page": "310"
+    },
+    "dopamine": {
+        "meaning": "多巴胺",
+        "abbrev": "DA",
+        "page": "297"
+    },
+    "multiunit smooth muscle": {
+        "meaning": "多个单位平滑肌",
+        "abbrev": "无",
+        "page": "50"
+    },
+    "polymodal receptor": {
+        "meaning": "多觉型感受器",
+        "abbrev": "无",
+        "page": "249"
+    },
+    "polypeptide and protein hormone": {
+        "meaning": "多肽或蛋白质类激素",
+        "abbrev": "无",
+        "page": "340"
+    },
+    "polysynaptic reflex": {
+        "meaning": "多突触反射",
+        "abbrev": "无",
+        "page": "299"
+    },
+    "multiple fiber summation": {
+        "meaning": "多纤维总和",
+        "abbrev": "无",
+        "page": "49"
+    },
+    "polymorphonuclear leukocyte": {
+        "meaning": "多形核白细胞",
+        "abbrev": "无",
+        "page": "61"
+    },
+    "malignant hyperthermia": {
+        "meaning": "恶性高热",
+        "abbrev": "无",
+        "page": "48"
+    },
+    "vicious cycle": {
+        "meaning": "恶性循环",
+        "abbrev": "无",
+        "page": "11"
+    },
+    "catecholamine": {
+        "meaning": "儿茶酚胺",
+        "abbrev": "无",
+        "page": "296"
+    },
+    "cochlea": {
+        "meaning": "耳蜗",
+        "abbrev": "无",
+        "page": "268"
+    },
+    "endocochlear potential": {
+        "meaning": "耳蜗内电位",
+        "abbrev": "EP",
+        "page": "272"
+    },
+    "cochlear microphonic potential": {
+        "meaning": "耳蜗微音器电位",
+        "abbrev": "CMP",
+        "page": "272"
+    },
+    "diiodotyrosine": {
+        "meaning": "二碘酪氨酸",
+        "abbrev": "DIT",
+        "page": "357"
+    },
+    "divalent metal transporter1　": {
+        "meaning": "二价金属转运体1　",
+        "abbrev": "无",
+        "page": "190"
+    },
+    "diad": {
+        "meaning": "二联体",
+        "abbrev": "无",
+        "page": "45"
+    },
+    "secondary hemostasis": {
+        "meaning": "二期止血",
+        "abbrev": "无",
+        "page": "67"
+    },
+    "diacylglycerol": {
+        "meaning": "二酰甘油",
+        "abbrev": "DG",
+        "page": "25"
+    },
+    "cyanosis": {
+        "meaning": "发绀",
+        "abbrev": "无",
+        "page": "152"
+    },
+    "rage": {
+        "meaning": "发怒",
+        "abbrev": "无",
+        "page": "325"
+    },
+    "generator potential": {
+        "meaning": "发生器电位",
+        "abbrev": "无",
+        "page": "243"
+    },
+    "development": {
+        "meaning": "发育",
+        "abbrev": "无",
+        "page": "400"
+    },
+    "reverse polarization": {
+        "meaning": "反极化",
+        "abbrev": "无",
+        "page": "29"
+    },
+    "feedback": {
+        "meaning": "反馈",
+        "abbrev": "无",
+        "page": "10"
+    },
+    "inverse stretch reflex": {
+        "meaning": "反牵张反射",
+        "abbrev": "无",
+        "page": "311"
+    },
+    "reflex": {
+        "meaning": "反射",
+        "abbrev": "无",
+        "page": "9"
+    },
+    "reflex movement": {
+        "meaning": "反射运动",
+        "abbrev": "无",
+        "page": "308"
+    },
+    "reverse typing": {
+        "meaning": "反向定型",
+        "abbrev": "无",
+        "page": "75"
+    },
+    "antiport": {
+        "meaning": "反向转运",
+        "abbrev": "无",
+        "page": "20"
+    },
+    "antiporter": {
+        "meaning": "反向转运体",
+        "abbrev": "无",
+        "page": "20"
+    },
+    "defense reaction": {
+        "meaning": "防御反应",
+        "abbrev": "无",
+        "page": "325"
+    },
+    "atrioventricular delay": {
+        "meaning": "房室延搁",
+        "abbrev": "无",
+        "page": "98"
+    },
+    "placing response": {
+        "meaning": "放置反应",
+        "abbrev": "无",
+        "page": "319"
+    },
+    "nondeclarative memory": {
+        "meaning": "非陈述性记忆",
+        "abbrev": "无",
+        "page": "332"
+    },
+    "inelastic resistance": {
+        "meaning": "非弹性阻力",
+        "abbrev": "无",
+        "page": "142"
+    },
+    "non-protein respiratory quotient": {
+        "meaning": "非蛋白呼吸商",
+        "abbrev": "NPRQ",
+        "page": "199"
+    },
+    "non-directed synapse； non-targeted synapse": {
+        "meaning": "非定向突触",
+        "abbrev": "无",
+        "page": "286"
+    },
+    "nongenomic effect": {
+        "meaning": "非基因组效应",
+        "abbrev": "无",
+        "page": "343"
+    },
+    "nonassociative learning": {
+        "meaning": "非联合型学习",
+        "abbrev": "无",
+        "page": "332"
+    },
+    "non-specific projection system": {
+        "meaning": "非特异性投射系统",
+        "abbrev": "无",
+        "page": "305"
+    },
+    "unconditioned reflex": {
+        "meaning": "非条件反射",
+        "abbrev": "无",
+        "page": "299"
+    },
+    "non-synaptic chemical transmission": {
+        "meaning": "非突触性化学传递",
+        "abbrev": "无",
+        "page": "288"
+    },
+    "non-shivering thermogenesis": {
+        "meaning": "非战栗产热",
+        "abbrev": "无",
+        "page": "207"
+    },
+    "pulmonary surfactant": {
+        "meaning": "肺表面活性物质",
+        "abbrev": "无",
+        "page": "141"
+    },
+    "gas exchange in lungs": {
+        "meaning": "肺换气",
+        "abbrev": "无",
+        "page": "147"
+    },
+    "vital capacity": {
+        "meaning": "肺活量",
+        "abbrev": "VC",
+        "page": "144"
+    },
+    "pulmonary inflation reflex": {
+        "meaning": "肺扩张反射",
+        "abbrev": "无",
+        "page": "162"
+    },
+    "alveolar pressure； intrapulmonary pressure": {
+        "meaning": "肺内压",
+        "abbrev": "无",
+        "page": "136"
+    },
+    "alveolar ventilation": {
+        "meaning": "肺泡通气量",
+        "abbrev": "无",
+        "page": "146"
+    },
+    "alveolar dead space": {
+        "meaning": "肺泡无效腔",
+        "abbrev": "无",
+        "page": "146"
+    },
+    "pulmonary stretch reflex": {
+        "meaning": "肺牵张反射",
+        "abbrev": "无",
+        "page": "161"
+    },
+    "pulmonary volume": {
+        "meaning": "肺容积",
+        "abbrev": "无",
+        "page": "144"
+    },
+    "pulmonary capacity": {
+        "meaning": "肺容量",
+        "abbrev": "无",
+        "page": "144"
+    },
+    "pulmonary ventilation": {
+        "meaning": "肺通气",
+        "abbrev": "无",
+        "page": "135"
+    },
+    "pulmonary ventilation volume": {
+        "meaning": "肺通气量",
+        "abbrev": "无",
+        "page": "145"
+    },
+    "pulmonary deflation reflex": {
+        "meaning": "肺萎陷反射",
+        "abbrev": "无",
+        "page": "162"
+    },
+    "pulmonary circulation": {
+        "meaning": "肺循环",
+        "abbrev": "无",
+        "page": "131"
+    },
+    "total lung capacity": {
+        "meaning": "肺总量",
+        "abbrev": "TLC",
+        "page": "145"
+    },
+    "segmentation": {
+        "meaning": "分节运动",
+        "abbrev": "无",
+        "page": "183"
+    },
+    "secretion": {
+        "meaning": "分泌",
+        "abbrev": "无",
+        "page": "220"
+    },
+    "parturition": {
+        "meaning": "分娩",
+        "abbrev": "无",
+        "page": "396"
+    },
+    "partial pressure": {
+        "meaning": "分压",
+        "abbrev": "无",
+        "page": "147"
+    },
+    "molecular chaperone": {
+        "meaning": "分子伴娘",
+        "abbrev": "无",
+        "page": "27"
+    },
+    "molecular switch": {
+        "meaning": "分子开关",
+        "abbrev": "无",
+        "page": "24"
+    },
+    "spike potential": {
+        "meaning": "锋电位",
+        "abbrev": "无",
+        "page": "32"
+    },
+    "gap junction": {
+        "meaning": "缝隙连接",
+        "abbrev": "无",
+        "page": "38"
+    },
+    "furosemide": {
+        "meaning": "呋塞米",
+        "abbrev": "无",
+        "page": "222"
+    },
+    "convergence reflex": {
+        "meaning": "辐辏反射",
+        "abbrev": "无",
+        "page": "255"
+    },
+    "divergent connection": {
+        "meaning": "辐散式联系",
+        "abbrev": "无",
+        "page": "299"
+    },
+    "colipase": {
+        "meaning": "辅脂酶",
+        "abbrev": "无",
+        "page": "180"
+    },
+    "negative feedback": {
+        "meaning": "负反馈",
+        "abbrev": "无",
+        "page": "10"
+    },
+    "repolarization": {
+        "meaning": "复极化",
+        "abbrev": "无",
+        "page": "29"
+    },
+    "diplopia": {
+        "meaning": "复视",
+        "abbrev": "无",
+        "page": "266"
+    },
+    "replicative senescence": {
+        "meaning": "复制性衰老",
+        "abbrev": "无",
+        "page": "408"
+    },
+    "parasympathetic nervous system": {
+        "meaning": "副交感神经系统",
+        "abbrev": "无",
+        "page": "319"
+    },
+    "ventral respiratory group": {
+        "meaning": "腹侧呼吸组",
+        "abbrev": "VRG",
+        "page": "157"
+    },
+    "abdominal breathing": {
+        "meaning": "腹式呼吸",
+        "abbrev": "无",
+        "page": "136"
+    },
+    "hypogastric nerve": {
+        "meaning": "腹下神经",
+        "abbrev": "无",
+        "page": "239"
+    },
+    "calcium pump": {
+        "meaning": "钙泵",
+        "abbrev": "无",
+        "page": "19"
+    },
+    "calmodulin": {
+        "meaning": "钙调蛋白",
+        "abbrev": "CaM",
+        "page": "26"
+    },
+    "calcium regulating hormone": {
+        "meaning": "钙调节激素",
+        "abbrev": "无",
+        "page": "363"
+    },
+    "calcineurin": {
+        "meaning": "钙调磷酸酶",
+        "abbrev": "无",
+        "page": "26"
+    },
+    "calcium spark": {
+        "meaning": "钙火花",
+        "abbrev": "无",
+        "page": "26"
+    },
+    "calcium-binding protein": {
+        "meaning": "钙结合蛋白",
+        "abbrev": "CaBP； calbindin",
+        "page": "26"
+    },
+    "calcitriol": {
+        "meaning": "钙三醇",
+        "abbrev": "无",
+        "page": "341"
+    },
+    "calcium-induced calcium release": {
+        "meaning": "钙致钙释放",
+        "abbrev": "CICR",
+        "page": "47"
+    },
+    "glycine": {
+        "meaning": "甘氨酸",
+        "abbrev": "Gly",
+        "page": "252"
+    },
+    "hepatic insufficiency": {
+        "meaning": "肝功能不全",
+        "abbrev": "无",
+        "page": "186"
+    },
+    "hepatic failure": {
+        "meaning": "肝衰竭",
+        "abbrev": "无",
+        "page": "186"
+    },
+    "heparin": {
+        "meaning": "肝素",
+        "abbrev": "无",
+        "page": "72"
+    },
+    "sensation": {
+        "meaning": "感觉",
+        "abbrev": "无",
+        "page": "242"
+    },
+    "sensory unit": {
+        "meaning": "感觉单位",
+        "abbrev": "无",
+        "page": "244"
+    },
+    "sense organ": {
+        "meaning": "感觉器官",
+        "abbrev": "无",
+        "page": "242"
+    },
+    "sensory aphasia": {
+        "meaning": "感觉失语症",
+        "abbrev": "无",
+        "page": "335"
+    },
+    "sensorimotor area": {
+        "meaning": "感觉运动区",
+        "abbrev": "无",
+        "page": "306"
+    },
+    "sensory column": {
+        "meaning": "感觉柱",
+        "abbrev": "无",
+        "page": "306"
+    },
+    "sensory receptor": {
+        "meaning": "感受器",
+        "abbrev": "无",
+        "page": "242"
+    },
+    "receptor potential": {
+        "meaning": "感受器电位",
+        "abbrev": "无",
+        "page": "243"
+    },
+    "receptive field": {
+        "meaning": "感受野",
+        "abbrev": "无",
+        "page": "244"
+    },
+    "high frequency ventilation": {
+        "meaning": "高频通气",
+        "abbrev": "HFV",
+        "page": "146"
+    },
+    "hyperosmotic urine": {
+        "meaning": "高渗尿",
+        "abbrev": "无",
+        "page": "226"
+    },
+    "testosterone": {
+        "meaning": "睾酮　",
+        "abbrev": "无",
+        "page": "385"
+    },
+    "fight or flight reaction": {
+        "meaning": "格斗- 逃避反应",
+        "abbrev": "无",
+        "page": "325"
+    },
+    "working cell": {
+        "meaning": "工作细胞",
+        "abbrev": "无",
+        "page": "90"
+    },
+    "functional syncytium": {
+        "meaning": "功能性合胞体",
+        "abbrev": "无",
+        "page": "98"
+    },
+    "functional action": {
+        "meaning": "功能性作用",
+        "abbrev": "无",
+        "page": "283"
+    },
+    "functional residual capacity": {
+        "meaning": "功能余气量",
+        "abbrev": "FRC",
+        "page": "144"
+    },
+    "nucleus tractus solitarii": {
+        "meaning": "孤束核",
+        "abbrev": "NTS",
+        "page": "122"
+    },
+    "bone conduction": {
+        "meaning": "骨传导",
+        "abbrev": "无",
+        "page": "268"
+    },
+    "osteocalcin": {
+        "meaning": "骨钙素",
+        "abbrev": "OCN",
+        "page": "381"
+    },
+    "osteocrin": {
+        "meaning": "骨泌素",
+        "abbrev": "无",
+        "page": "381"
+    },
+    "osteopontin": {
+        "meaning": "骨桥蛋白",
+        "abbrev": "OPN",
+        "page": "381"
+    },
+    "bone resorption": {
+        "meaning": "骨吸收",
+        "abbrev": "无",
+        "page": "364"
+    },
+    "bone formation": {
+        "meaning": "骨形成",
+        "abbrev": "无",
+        "page": "364"
+    },
+    "sterol hormone": {
+        "meaning": "固醇激素",
+        "abbrev": "无",
+        "page": "341"
+    },
+    "coronary blood flow": {
+        "meaning": "冠脉血流量",
+        "abbrev": "CBF",
+        "page": "129"
+    },
+    "coronary circulation": {
+        "meaning": "冠脉循环",
+        "abbrev": "无",
+        "page": "129"
+    },
+    "tubulo-glomerular feedback": {
+        "meaning": "管- 球反馈",
+        "abbrev": "TGF",
+        "page": "217"
+    },
+    "inertial resistance": {
+        "meaning": "惯性阻力",
+        "abbrev": "无",
+        "page": "142"
+    },
+    "tetrodotoxin": {
+        "meaning": "河鲀毒素",
+        "abbrev": "TTX",
+        "page": "33"
+    },
+    "nuclear receptor": {
+        "meaning": "核受体",
+        "abbrev": "无",
+        "page": "27"
+    },
+    "brown adipose tissue": {
+        "meaning": "褐色脂肪组织",
+        "abbrev": "无",
+        "page": "201"
+    },
+    "substantia nigra": {
+        "meaning": "黑质",
+        "abbrev": "无",
+        "page": "314"
+    },
+    "Huntington ’s disease": {
+        "meaning": "亨廷顿病",
+        "abbrev": "无",
+        "page": "315"
+    },
+    "Huntington chorea": {
+        "meaning": "亨廷顿舞蹈症",
+        "abbrev": "无",
+        "page": "315"
+    },
+    "transverse tubule": {
+        "meaning": "横管",
+        "abbrev": "无",
+        "page": "44"
+    },
+    "cross-bridge": {
+        "meaning": "横桥",
+        "abbrev": "无",
+        "page": "45"
+    },
+    "cross-bridge cycle": {
+        "meaning": "横桥周期",
+        "abbrev": "无",
+        "page": "46"
+    },
+    "colony-forming unit-erythroid": {
+        "meaning": "红系集落形成单位",
+        "abbrev": "CFU-E",
+        "page": "56"
+    },
+    "erythrocyte； red blood cell": {
+        "meaning": "红细胞",
+        "abbrev": "RBC",
+        "page": "54"
+    },
+    "erythrocyte  sedimentation rate": {
+        "meaning": "红细胞沉降率",
+        "abbrev": "ESR",
+        "page": "58"
+    },
+    "erythrocyte rouleaux formation": {
+        "meaning": "红细胞叠连",
+        "abbrev": "无",
+        "page": "58"
+    },
+    "osmotic fragility of erythrocyte": {
+        "meaning": "红细胞渗透脆性",
+        "abbrev": "无",
+        "page": "58"
+    },
+    "after-hyperpolarization": {
+        "meaning": "后超极化",
+        "abbrev": "无",
+        "page": "32"
+    },
+    "after discharge": {
+        "meaning": "后发放",
+        "abbrev": "无",
+        "page": "299"
+    },
+    "afterload": {
+        "meaning": "后负荷",
+        "abbrev": "无",
+        "page": "48"
+    },
+    "expiration": {
+        "meaning": "呼气",
+        "abbrev": "无",
+        "page": "137"
+    },
+    "expiratory movement": {
+        "meaning": "呼气运动",
+        "abbrev": "无",
+        "page": "136"
+    },
+    "respiration": {
+        "meaning": "呼吸",
+        "abbrev": "无",
+        "page": "135"
+    },
+    "work of breathing": {
+        "meaning": "呼吸功",
+        "abbrev": "无",
+        "page": "147"
+    },
+    "respiratory rhythm": {
+        "meaning": "呼吸节律",
+        "abbrev": "无",
+        "page": "156"
+    },
+    "dyspnea": {
+        "meaning": "呼吸困难",
+        "abbrev": "无",
+        "page": "137"
+    },
+    "respiratory membrane": {
+        "meaning": "呼吸膜",
+        "abbrev": "无",
+        "page": "148"
+    },
+    "respiratory quotient": {
+        "meaning": "呼吸商",
+        "abbrev": "RQ",
+        "page": "198"
+    },
+    "respiratory neuron": {
+        "meaning": "呼吸神经元",
+        "abbrev": "无",
+        "page": "157"
+    },
+    "pneumotaxic center": {
+        "meaning": "呼吸调整中枢",
+        "abbrev": "PC",
+        "page": "157"
+    },
+    "respiratory system": {
+        "meaning": "呼吸系统",
+        "abbrev": "无",
+        "page": "135"
+    },
+    "respiratory-related neuron": {
+        "meaning": "呼吸相关神经元",
+        "abbrev": "无",
+        "page": "157"
+    },
+    "respiratory movement": {
+        "meaning": "呼吸运动",
+        "abbrev": "无",
+        "page": "136"
+    },
+    "respiratory center": {
+        "meaning": "呼吸中枢",
+        "abbrev": "无",
+        "page": "156"
+    },
+    "crista ampullaris": {
+        "meaning": "壶腹嵴",
+        "abbrev": "无",
+        "page": "274"
+    },
+    "consensual light reflex": {
+        "meaning": "互感性对光反射",
+        "abbrev": "无",
+        "page": "256"
+    },
+    "osteoprotegerin": {
+        "meaning": "护骨因子",
+        "abbrev": "OPG",
+        "page": "381"
+    },
+    "arachidonic acid": {
+        "meaning": "花生四烯酸",
+        "abbrev": "AA",
+        "page": "25"
+    },
+    "chemoreceptor": {
+        "meaning": "化学感受器",
+        "abbrev": "无",
+        "page": "158"
+    },
+    "chemoreceptor reflex": {
+        "meaning": "化学感受性反射",
+        "abbrev": "无",
+        "page": "123"
+    },
+    "chemical-gated ion channel": {
+        "meaning": "化学门控通道",
+        "abbrev": "无",
+        "page": "16"
+    },
+    "chemical synapse": {
+        "meaning": "化学突触",
+        "abbrev": "无",
+        "page": "285"
+    },
+    "chemical digestion": {
+        "meaning": "化学性消化",
+        "abbrev": "无",
+        "page": "165"
+    },
+    "cyclic guanosine monophosphate": {
+        "meaning": "环磷酸鸟苷",
+        "abbrev": "cGMP",
+        "page": "25"
+    },
+    "cyclic adenosine monophosphate": {
+        "meaning": "环磷酸腺苷",
+        "abbrev": "cAMP",
+        "page": "24"
+    },
+    "cyclooxygenase": {
+        "meaning": "环氧合酶",
+        "abbrev": "COX",
+        "page": "65"
+    },
+    "bradykinin": {
+        "meaning": "缓激肽",
+        "abbrev": "无",
+        "page": "127"
+    },
+    "bradykinin receptor": {
+        "meaning": "缓激肽受体",
+        "abbrev": "无",
+        "page": "127"
+    },
+    "transducer function": {
+        "meaning": "换能作用",
+        "abbrev": "无",
+        "page": "243"
+    },
+    "corpus luteum": {
+        "meaning": "黄体",
+        "abbrev": "无",
+        "page": "388"
+    },
+    "recurrent connection": {
+        "meaning": "回返式联系",
+        "abbrev": "无",
+        "page": "299"
+    },
+    "recurrent inhibition": {
+        "meaning": "回返性抑制",
+        "abbrev": "无",
+        "page": "302"
+    },
+    "undershoot": {
+        "meaning": "回射",
+        "abbrev": "无",
+        "page": "32"
+    },
+    "mixed micelle": {
+        "meaning": "混合微胶粒",
+        "abbrev": "无",
+        "page": "182"
+    },
+    "Haldane effect": {
+        "meaning": "霍尔丹效应",
+        "abbrev": "无",
+        "page": "156"
+    },
+    "mechanically-gated ion channel": {
+        "meaning": "机械门控通道",
+        "abbrev": "无",
+        "page": "16"
+    },
+    "mechanical digestion": {
+        "meaning": "机械性消化",
+        "abbrev": "无",
+        "page": "165"
+    },
+    "mechanical threshold": {
+        "meaning": "机械阈",
+        "abbrev": "无",
+        "page": "166"
+    },
+    "actin": {
+        "meaning": "肌动蛋白",
+        "abbrev": "无",
+        "page": "45"
+    },
+    "troponin": {
+        "meaning": "肌钙蛋白",
+        "abbrev": "无",
+        "page": "45"
+    },
+    "troponin C": {
+        "meaning": "肌钙蛋白C",
+        "abbrev": "TnC",
+        "page": "45"
+    },
+    "troponin I": {
+        "meaning": "肌钙蛋白I　",
+        "abbrev": "TnI",
+        "page": "45"
+    },
+    "troponin T": {
+        "meaning": "肌钙蛋白T　",
+        "abbrev": "TnT",
+        "page": "45"
+    },
+    "myenteric plexus": {
+        "meaning": "肌间神经丛",
+        "abbrev": "无",
+        "page": "167"
+    },
+    "sarcomere": {
+        "meaning": "肌节",
+        "abbrev": "无",
+        "page": "44"
+    },
+    "muscle tonus": {
+        "meaning": "肌紧张",
+        "abbrev": "无",
+        "page": "311"
+    },
+    "myosin": {
+        "meaning": "肌球蛋白",
+        "abbrev": "无",
+        "page": "45"
+    },
+    "myosin light chain": {
+        "meaning": "肌球蛋白轻链",
+        "abbrev": "MLC",
+        "page": "52"
+    },
+    "myosin light chain kinase": {
+        "meaning": "肌球蛋白轻链激酶",
+        "abbrev": "MLCK",
+        "page": "51"
+    },
+    "MLC phosphatase": {
+        "meaning": "肌球蛋白轻链磷酸酶",
+        "abbrev": "MLCP",
+        "page": "52"
+    },
+    "musclin": {
+        "meaning": "肌肉素",
+        "abbrev": "无",
+        "page": "381"
+    },
+    "muscle-type nicotinic receptor": {
+        "meaning": "肌肉型烟碱受体",
+        "abbrev": "无",
+        "page": "296"
+    },
+    "myostatin": {
+        "meaning": "肌肉抑制素　",
+        "abbrev": "无",
+        "page": "381"
+    },
+    "sliding filament theory": {
+        "meaning": "肌丝滑行学说",
+        "abbrev": "无",
+        "page": "45"
+    },
+    "muscle spindle": {
+        "meaning": "肌梭",
+        "abbrev": "无",
+        "page": "249"
+    },
+    "myogenic activity": {
+        "meaning": "肌源性活动",
+        "abbrev": "无",
+        "page": "128"
+    },
+    "myogenic mechanism": {
+        "meaning": "肌源性机制",
+        "abbrev": "无",
+        "page": "217"
+    },
+    "sarcoplasmic reticulum": {
+        "meaning": "肌质网",
+        "abbrev": "SR",
+        "page": "44"
+    },
+    "elementary unit": {
+        "meaning": "基本单元",
+        "abbrev": "无",
+        "page": "26"
+    },
+    "basic electrical rhythm": {
+        "meaning": "基本电节律",
+        "abbrev": "BER",
+        "page": "166"
+    },
+    "basal metabolism": {
+        "meaning": "基础代谢",
+        "abbrev": "无",
+        "page": "202"
+    },
+    "basal metabolism rate": {
+        "meaning": "基础代谢率",
+        "abbrev": "BMR",
+        "page": "202"
+    },
+    "basic secretion": {
+        "meaning": "基础分泌",
+        "abbrev": "无",
+        "page": "169"
+    },
+    "basal ganglia": {
+        "meaning": "基底神经节",
+        "abbrev": "无",
+        "page": "314"
+    },
+    "gene expression hypothesis": {
+        "meaning": "基因表达学说",
+        "abbrev": "无",
+        "page": "343"
+    },
+    "genotype": {
+        "meaning": "基因型",
+        "abbrev": "无",
+        "page": "75"
+    },
+    "genomic effect": {
+        "meaning": "基因组效应",
+        "abbrev": "无",
+        "page": "369"
+    },
+    "agonist": {
+        "meaning": "激动剂",
+        "abbrev": "无",
+        "page": "293"
+    },
+    "activated state": {
+        "meaning": "激活态",
+        "abbrev": "无",
+        "page": "36"
+    },
+    "hormone": {
+        "meaning": "激素",
+        "abbrev": "无",
+        "page": "337"
+    },
+    "hormone response element": {
+        "meaning": "激素反应元件",
+        "abbrev": "HRE",
+        "page": "27"
+    },
+    "kinin": {
+        "meaning": "激肽",
+        "abbrev": "无",
+        "page": "127"
+    },
+    "kallikrein": {
+        "meaning": "激肽释放酶",
+        "abbrev": "无",
+        "page": "127"
+    },
+    "kininogen": {
+        "meaning": "激肽原",
+        "abbrev": "无",
+        "page": "127"
+    },
+    "polarization": {
+        "meaning": "极化",
+        "abbrev": "无",
+        "page": "29"
+    },
+    "acute experiment": {
+        "meaning": "急性实验",
+        "abbrev": "无",
+        "page": "4"
+    },
+    "colony forming unit": {
+        "meaning": "集落形成单位",
+        "abbrev": "CFU",
+        "page": "56"
+    },
+    "mass peristalsis": {
+        "meaning": "集团蠕动",
+        "abbrev": "无",
+        "page": "187"
+    },
+    "spinal animal": {
+        "meaning": "脊髓动物",
+        "abbrev": "无",
+        "page": "309"
+    },
+    "spinocerebellum": {
+        "meaning": "脊髓小脑",
+        "abbrev": "无",
+        "page": "316"
+    },
+    "spinal shock": {
+        "meaning": "脊髓休克",
+        "abbrev": "无",
+        "page": "309"
+    },
+    "memory": {
+        "meaning": "记忆",
+        "abbrev": "无",
+        "page": "332"
+    },
+    "secondary active transport": {
+        "meaning": "继发性主动转运",
+        "abbrev": "无",
+        "page": "20"
+    },
+    "parathyroid hormone": {
+        "meaning": "甲状旁腺激素",
+        "abbrev": "PTH",
+        "page": "363"
+    },
+    "thyroid peroxidase": {
+        "meaning": "甲状腺过氧化物酶",
+        "abbrev": "TPO",
+        "page": "356"
+    },
+    "thyroid hormone": {
+        "meaning": "甲状腺激素",
+        "abbrev": "TH",
+        "page": "356"
+    },
+    "thyroid hormone receptor": {
+        "meaning": "甲状腺激素受体",
+        "abbrev": "TR",
+        "page": "358"
+    },
+    "thyroxin": {
+        "meaning": "甲状腺素",
+        "abbrev": "无",
+        "page": "356"
+    },
+    "thyroxine  binding globulin": {
+        "meaning": "甲状腺素结合球蛋白",
+        "abbrev": "TBG",
+        "page": "358"
+    },
+    "transthyretin": {
+        "meaning": "甲状腺素转运蛋白",
+        "abbrev": "TTR",
+        "page": "358"
+    },
+    "potassium leak channel": {
+        "meaning": "钾漏通道",
+        "abbrev": "无",
+        "page": "16"
+    },
+    "sham rage": {
+        "meaning": "假怒",
+        "abbrev": "无",
+        "page": "325"
+    },
+    "sham feeding": {
+        "meaning": "假饲",
+        "abbrev": "无",
+        "page": "174"
+    },
+    "indirect calorimetry": {
+        "meaning": "间接测热法",
+        "abbrev": "无",
+        "page": "198"
+    },
+    "indirect pathway": {
+        "meaning": "间接通路",
+        "abbrev": "无",
+        "page": "314"
+    },
+    "period of reduced filling": {
+        "meaning": "减慢充盈期",
+        "abbrev": "无",
+        "page": "81"
+    },
+    "period of reduced ejection": {
+        "meaning": "减慢射血期",
+        "abbrev": "无",
+        "page": "80"
+    },
+    "shearing motion": {
+        "meaning": "剪切运动",
+        "abbrev": "无",
+        "page": "269"
+    },
+    "reduced eye": {
+        "meaning": "简化眼",
+        "abbrev": "无",
+        "page": "254"
+    },
+    "tendon reflex": {
+        "meaning": "腱反射",
+        "abbrev": "无",
+        "page": "311"
+    },
+    "tendon organ": {
+        "meaning": "腱器官",
+        "abbrev": "无",
+        "page": "249"
+    },
+    "reward system": {
+        "meaning": "奖赏系统",
+        "abbrev": "无",
+        "page": "325"
+    },
+    "calcitonin": {
+        "meaning": "降钙素",
+        "abbrev": "CT",
+        "page": "363"
+    },
+    "calcitonin gene-related peptide": {
+        "meaning": "降钙素基因相关肽",
+        "abbrev": "CGRP",
+        "page": "127"
+    },
+    "depressor reflex": {
+        "meaning": "降压反射",
+        "abbrev": "无",
+        "page": "122"
+    },
+    "cross-match test": {
+        "meaning": "交叉配血试验",
+        "abbrev": "无",
+        "page": "77"
+    },
+    "sympathetic nervous system": {
+        "meaning": "交感神经系统",
+        "abbrev": "无",
+        "page": "319"
+    },
+    "sympathetic vasoconstrictor tone": {
+        "meaning": "交感缩血管紧张",
+        "abbrev": "无",
+        "page": "121"
+    },
+    "reciprocal synapses": {
+        "meaning": "交互性突触",
+        "abbrev": "无",
+        "page": "300"
+    },
+    "reciprocal inhibition": {
+        "meaning": "交互抑制",
+        "abbrev": "无",
+        "page": "302"
+    },
+    "exchange vessel": {
+        "meaning": "交换血管",
+        "abbrev": "无",
+        "page": "106"
+    },
+    "colloid osmotic pressure": {
+        "meaning": "胶体渗透压",
+        "abbrev": "无",
+        "page": "54"
+    },
+    "anxiety": {
+        "meaning": "焦虑",
+        "abbrev": "无",
+        "page": "325"
+    },
+    "junction potential": {
+        "meaning": "接头电位",
+        "abbrev": "无",
+        "page": "285"
+    },
+    "postjunctional membrane": {
+        "meaning": "接头后膜",
+        "abbrev": "无",
+        "page": "43"
+    },
+    "junctional cleft": {
+        "meaning": "接头间隙",
+        "abbrev": "无",
+        "page": "43"
+    },
+    "prejunctional membrane": {
+        "meaning": "接头前膜",
+        "abbrev": "无",
+        "page": "43"
+    },
+    "intersegmental reflex": {
+        "meaning": "节间反射",
+        "abbrev": "无",
+        "page": "311"
+    },
+    "rhythmic movement": {
+        "meaning": "节律运动",
+        "abbrev": "无",
+        "page": "308"
+    },
+    "antagonist": {
+        "meaning": "拮抗剂",
+        "abbrev": "无",
+        "page": "293"
+    },
+    "antagonistic action": {
+        "meaning": "拮抗作用",
+        "abbrev": "无",
+        "page": "344"
+    },
+    "uncoupling protein": {
+        "meaning": "解耦联蛋白",
+        "abbrev": "UCP",
+        "page": "207"
+    },
+    "anatomical dead space": {
+        "meaning": "解剖无效腔",
+        "abbrev": "无",
+        "page": "145"
+    },
+    "tonic contraction": {
+        "meaning": "紧张性收缩",
+        "abbrev": "无",
+        "page": "177"
+    },
+    "near reflex": {
+        "meaning": "近反射",
+        "abbrev": "无",
+        "page": "255"
+    },
+    "proximal convoluted tubule": {
+        "meaning": "近曲小管",
+        "abbrev": "无",
+        "page": "213"
+    },
+    "myopia": {
+        "meaning": "近视",
+        "abbrev": "无",
+        "page": "256"
+    },
+    "juxtamedullary nephron": {
+        "meaning": "近髓肾单位",
+        "abbrev": "无",
+        "page": "214"
+    },
+    "facilitated diffusion via channel": {
+        "meaning": "经通道易化扩散",
+        "abbrev": "无",
+        "page": "15"
+    },
+    "facilitated diffusion via carrier": {
+        "meaning": "经载体易化扩散",
+        "abbrev": "无",
+        "page": "17"
+    },
+    "crystal osmotic pressure": {
+        "meaning": "晶体渗透压",
+        "abbrev": "无",
+        "page": "54"
+    },
+    "arginine vasopressin": {
+        "meaning": "精氨酸升压素",
+        "abbrev": "AVP",
+        "page": "231"
+    },
+    "semen": {
+        "meaning": "精液",
+        "abbrev": "无",
+        "page": "384"
+    },
+    "spermatozoon": {
+        "meaning": "精子",
+        "abbrev": "无",
+        "page": "384"
+    },
+    "spermatogenesis": {
+        "meaning": "精子发生",
+        "abbrev": "无",
+        "page": "383"
+    },
+    "spermatid": {
+        "meaning": "精子细胞",
+        "abbrev": "无",
+        "page": "384"
+    },
+    "neck mucous cell": {
+        "meaning": "颈黏液细胞",
+        "abbrev": "无",
+        "page": "171"
+    },
+    "spastic paralysis": {
+        "meaning": "痉挛性瘫痪",
+        "abbrev": "无",
+        "page": "318"
+    },
+    "competitive inhibition": {
+        "meaning": "竞争性抑制",
+        "abbrev": "无",
+        "page": "18"
+    },
+    "competitive action": {
+        "meaning": "竞争作用",
+        "abbrev": "无",
+        "page": "344"
+    },
+    "static compliance": {
+        "meaning": "静态顺应性",
+        "abbrev": "无",
+        "page": "140"
+    },
+    "resting potential": {
+        "meaning": "静息电位　",
+        "abbrev": "无",
+        "page": "29"
+    },
+    "resting membrane potential": {
+        "meaning": "静息膜电位",
+        "abbrev": "无",
+        "page": "29"
+    },
+    "resting state": {
+        "meaning": "静息态",
+        "abbrev": "无",
+        "page": "36"
+    },
+    "static tremor": {
+        "meaning": "静止性震颤",
+        "abbrev": "无",
+        "page": "315"
+    },
+    "local current": {
+        "meaning": "局部电流",
+        "abbrev": "无",
+        "page": "37"
+    },
+    "local potential": {
+        "meaning": "局部电位",
+        "abbrev": "无",
+        "page": "41"
+    },
+    "local response period": {
+        "meaning": "局部反应期",
+        "abbrev": "LRP",
+        "page": "95"
+    },
+    "local circuit neuron": {
+        "meaning": "局部回路神经元",
+        "abbrev": "无",
+        "page": "300"
+    },
+    "local neuronal circuit": {
+        "meaning": "局部神经元回路",
+        "abbrev": "无",
+        "page": "300"
+    },
+    "mastication": {
+        "meaning": "咀嚼",
+        "abbrev": "无",
+        "page": "170"
+    },
+    "megakaryocyte": {
+        "meaning": "巨核细胞",
+        "abbrev": "无",
+        "page": "66"
+    },
+    "gigantism": {
+        "meaning": "巨人症",
+        "abbrev": "无",
+        "page": "349"
+    },
+    "macrophage": {
+        "meaning": "巨噬细胞",
+        "abbrev": "无",
+        "page": "62"
+    },
+    "megaloblastic anemia": {
+        "meaning": "巨幼细胞贫血",
+        "abbrev": "无",
+        "page": "59"
+    },
+    "convergent connection": {
+        "meaning": "聚合式联系",
+        "abbrev": "无",
+        "page": "299"
+    },
+    "wakefulness": {
+        "meaning": "觉醒",
+        "abbrev": "无",
+        "page": "328"
+    },
+    "absolute refractory period": {
+        "meaning": "绝对不应期",
+        "abbrev": "ARP",
+        "page": "39"
+    },
+    "menopause": {
+        "meaning": "绝经期",
+        "abbrev": "无",
+        "page": "392"
+    },
+    "interstitial cell of Cajal": {
+        "meaning": "卡哈尔间质细胞",
+        "abbrev": "ICC",
+        "page": "166"
+    },
+    "antidiuretic  hormone": {
+        "meaning": "抗利尿激素",
+        "abbrev": "ADH",
+        "page": "126"
+    },
+    "antithrombin": {
+        "meaning": "抗凝血酶",
+        "abbrev": "无",
+        "page": "71"
+    },
+    "organ of Corti": {
+        "meaning": "科蒂器",
+        "abbrev": "无",
+        "page": "269"
+    },
+    "granular cell": {
+        "meaning": "颗粒细胞",
+        "abbrev": "无",
+        "page": "214"
+    },
+    "putamen": {
+        "meaning": "壳核",
+        "abbrev": "无",
+        "page": "314"
+    },
+    "cough reflex": {
+        "meaning": "咳嗽反射",
+        "abbrev": "无",
+        "page": "162"
+    },
+    "sensible evaporation": {
+        "meaning": "可感蒸发",
+        "abbrev": "无",
+        "page": "208"
+    },
+    "plastic deformation": {
+        "meaning": "可塑变形性",
+        "abbrev": "无",
+        "page": "57"
+    },
+    "excitable cell": {
+        "meaning": "可兴奋细胞",
+        "abbrev": "无",
+        "page": "39"
+    },
+    "space constant": {
+        "meaning": "空间常数",
+        "abbrev": "无",
+        "page": "40"
+    },
+    "spatial summation": {
+        "meaning": "空间总和",
+        "abbrev": "无",
+        "page": "42"
+    },
+    "fear": {
+        "meaning": "恐惧",
+        "abbrev": "无",
+        "page": "325"
+    },
+    "oral temperature": {
+        "meaning": "口腔温度",
+        "abbrev": "无",
+        "page": "205"
+    },
+    "Kupffer cell": {
+        "meaning": "库普弗细胞",
+        "abbrev": "无",
+        "page": "186"
+    },
+    "transmembrane potential": {
+        "meaning": "跨膜电位",
+        "abbrev": "无",
+        "page": "28"
+    },
+    "transmembrane signal transduction": {
+        "meaning": "跨膜信号转导",
+        "abbrev": "无",
+        "page": "22"
+    },
+    "fast wave sleep": {
+        "meaning": "快波睡眠",
+        "abbrev": "FWS",
+        "page": "329"
+    },
+    "quick component": {
+        "meaning": "快动相",
+        "abbrev": "无",
+        "page": "275"
+    },
+    "fast response cell": {
+        "meaning": "快反应细胞",
+        "abbrev": "无",
+        "page": "90"
+    },
+    "period of rapid filling": {
+        "meaning": "快速充盈期",
+        "abbrev": "无",
+        "page": "81"
+    },
+    "period of rapid ejection": {
+        "meaning": "快速射血期",
+        "abbrev": "无",
+        "page": "80"
+    },
+    "rapid  eye movement  sleep": {
+        "meaning": "快速眼动睡眠",
+        "abbrev": "REM  sleep",
+        "page": "328"
+    },
+    "fast channel": {
+        "meaning": "快通道",
+        "abbrev": "无",
+        "page": "91"
+    },
+    "fast pain": {
+        "meaning": "快痛",
+        "abbrev": "无",
+        "page": "249"
+    },
+    "diffusion": {
+        "meaning": "扩散",
+        "abbrev": "无",
+        "page": "147"
+    },
+    "diffusion rate": {
+        "meaning": "扩散速率",
+        "abbrev": "D",
+        "page": "147"
+    },
+    "diffusion coefficient": {
+        "meaning": "扩散系数",
+        "abbrev": "无",
+        "page": "148"
+    },
+    "node of Ranvier": {
+        "meaning": "郎飞结",
+        "abbrev": "无",
+        "page": "38"
+    },
+    "presbyopia": {
+        "meaning": "老视",
+        "abbrev": "无",
+        "page": "255"
+    },
+    "tyrosine kinase receptor": {
+        "meaning": "酪氨酸激酶受体",
+        "abbrev": "TKR",
+        "page": "27"
+    },
+    "ryanodine receptor": {
+        "meaning": "雷诺丁受体",
+        "abbrev": "RyR",
+        "page": "44"
+    },
+    "Reynolds number": {
+        "meaning": "雷诺数",
+        "abbrev": "Re",
+        "page": "108"
+    },
+    "steroid hormone": {
+        "meaning": "类固醇激素",
+        "abbrev": "无",
+        "page": "340"
+    },
+    "retinoid X receptor": {
+        "meaning": "类视黄醇X 受体　",
+        "abbrev": "RXR",
+        "page": "358"
+    },
+    "cold acclimatization": {
+        "meaning": "冷习服",
+        "abbrev": "无",
+        "page": "211"
+    },
+    "ion pump": {
+        "meaning": "离子泵",
+        "abbrev": "无",
+        "page": "18"
+    },
+    "ion channel receptor": {
+        "meaning": "离子通道型受体",
+        "abbrev": "无",
+        "page": "23"
+    },
+    "stereoscopic vision": {
+        "meaning": "立体视觉",
+        "abbrev": "无",
+        "page": "266"
+    },
+    "natriuretic peptide": {
+        "meaning": "利尿钠肽",
+        "abbrev": "NP",
+        "page": "127"
+    },
+    "granulocyte": {
+        "meaning": "粒细胞",
+        "abbrev": "无",
+        "page": "61"
+    },
+    "junctional sarcoplasmic reticulum": {
+        "meaning": "连接肌质网",
+        "abbrev": "JSR",
+        "page": "44"
+    },
+    "connecting peptide": {
+        "meaning": "连接肽",
+        "abbrev": "无",
+        "page": "373"
+    },
+    "associative learning": {
+        "meaning": "联合型学习",
+        "abbrev": "无",
+        "page": "332"
+    },
+    "threshold of two-point discrimination": {
+        "meaning": "两点辨别阈",
+        "abbrev": "无",
+        "page": "248"
+    },
+    "quantal release": {
+        "meaning": "量子式释放",
+        "abbrev": "无",
+        "page": "44"
+    },
+    "nephrin": {
+        "meaning": "裂孔素",
+        "abbrev": "无",
+        "page": "215"
+    },
+    "slit": {
+        "meaning": "裂隙",
+        "abbrev": "无",
+        "page": "215"
+    },
+    "critical  fusion frequency": {
+        "meaning": "临界融合频率",
+        "abbrev": "CFF",
+        "page": "266"
+    },
+    "lymphatic system": {
+        "meaning": "淋巴系统",
+        "abbrev": "无",
+        "page": "79"
+    },
+    "lymphocyte": {
+        "meaning": "淋巴细胞",
+        "abbrev": "无",
+        "page": "61"
+    },
+    "phosphodiesterase": {
+        "meaning": "磷酸二酯酶",
+        "abbrev": "PDE",
+        "page": "24"
+    },
+    "phosphorylation cascade": {
+        "meaning": "磷酸化级联反应",
+        "abbrev": "无",
+        "page": "25"
+    },
+    "phospholipase A2": {
+        "meaning": "磷脂酶A2",
+        "abbrev": "无",
+        "page": "24"
+    },
+    "phospholipase C": {
+        "meaning": "磷脂酶C　",
+        "abbrev": "PLC",
+        "page": "24"
+    },
+    "fluent aphasia": {
+        "meaning": "流畅失语症",
+        "abbrev": "无",
+        "page": "335"
+    },
+    "hydrogen sulfide": {
+        "meaning": "硫化氢",
+        "abbrev": "H",
+        "page": "2"
+    },
+    "chloride current": {
+        "meaning": "氯电流",
+        "abbrev": "ICl",
+        "page": "92"
+    },
+    "chloride shift": {
+        "meaning": "氯转移",
+        "abbrev": "无",
+        "page": "155"
+    },
+    "filtration": {
+        "meaning": "滤过",
+        "abbrev": "无",
+        "page": "117"
+    },
+    "filtration fraction": {
+        "meaning": "滤过分数",
+        "abbrev": "FF",
+        "page": "218"
+    },
+    "filtration membrane": {
+        "meaning": "滤过膜",
+        "abbrev": "无",
+        "page": "215"
+    },
+    "filtration equilibrium": {
+        "meaning": "滤过平衡",
+        "abbrev": "无",
+        "page": "219"
+    },
+    "filtration coefficient": {
+        "meaning": "滤过系数　",
+        "abbrev": "Kf",
+        "page": "219"
+    },
+    "follicular atresia": {
+        "meaning": "卵泡闭锁",
+        "abbrev": "无",
+        "page": "388"
+    },
+    "spiral organ": {
+        "meaning": "螺旋器",
+        "abbrev": "无",
+        "page": "269"
+    },
+    "pulse pressure": {
+        "meaning": "脉搏压",
+        "abbrev": "无",
+        "page": "111"
+    },
+    "slow wave": {
+        "meaning": "慢波",
+        "abbrev": "无",
+        "page": "166"
+    },
+    "slow component": {
+        "meaning": "慢动相",
+        "abbrev": "无",
+        "page": "275"
+    },
+    "slow response cell": {
+        "meaning": "慢反应细胞",
+        "abbrev": "无",
+        "page": "90"
+    },
+    "slow channel": {
+        "meaning": "慢通道",
+        "abbrev": "无",
+        "page": "92"
+    },
+    "slow pain": {
+        "meaning": "慢痛",
+        "abbrev": "无",
+        "page": "249"
+    },
+    "chronic experiment": {
+        "meaning": "慢性实验",
+        "abbrev": "无",
+        "page": "4"
+    },
+    "blind spot": {
+        "meaning": "盲点",
+        "abbrev": "无",
+        "page": "259"
+    },
+    "enzyme-linked receptor": {
+        "meaning": "酶联型受体",
+        "abbrev": "无",
+        "page": "26"
+    },
+    "stroke work": {
+        "meaning": "每搏功",
+        "abbrev": "无",
+        "page": "88"
+    },
+    "stroke volume": {
+        "meaning": "每搏输出量",
+        "abbrev": "无",
+        "page": "82"
+    },
+    "minute work": {
+        "meaning": "每分功",
+        "abbrev": "无",
+        "page": "89"
+    },
+    "gating": {
+        "meaning": "门控",
+        "abbrev": "无",
+        "page": "15"
+    },
+    "vago-vagal reflex": {
+        "meaning": "迷走- 迷走反射　",
+        "abbrev": "无",
+        "page": "175"
+    },
+    "dorsal nucleus of vagus nerve": {
+        "meaning": "迷走神经背核",
+        "abbrev": "无",
+        "page": "122"
+    },
+    "chymotrypsin": {
+        "meaning": "糜蛋白酶",
+        "abbrev": "无",
+        "page": "180"
+    },
+    "chymotrypsinogen": {
+        "meaning": "糜蛋白酶原",
+        "abbrev": "无",
+        "page": "180"
+    },
+    "prosopagnosia": {
+        "meaning": "面容失认症",
+        "abbrev": "无",
+        "page": "336"
+    },
+    "sensitization": {
+        "meaning": "敏感化",
+        "abbrev": "无",
+        "page": "291"
+    },
+    "photopic vision": {
+        "meaning": "明视觉",
+        "abbrev": "无",
+        "page": "260"
+    },
+    "light adaptation": {
+        "meaning": "明适应",
+        "abbrev": "无",
+        "page": "265"
+    },
+    "membrane potential": {
+        "meaning": "膜电位",
+        "abbrev": "无",
+        "page": "28"
+    },
+    "vesicular transport": {
+        "meaning": "膜泡运输",
+        "abbrev": "无",
+        "page": "20"
+    },
+    "patch clamp": {
+        "meaning": "膜片钳",
+        "abbrev": "无",
+        "page": "35"
+    },
+    "sodium-iodide symporter": {
+        "meaning": "钠碘同向转运体",
+        "abbrev": "NIS",
+        "page": "357"
+    },
+    "sodium-potassium pump": {
+        "meaning": "钠- 钾泵　",
+        "abbrev": "无",
+        "page": "18"
+    },
+    "brain-gut peptide": {
+        "meaning": "脑- 肠肽　",
+        "abbrev": "无",
+        "page": "169"
+    },
+    "electroencephalogram": {
+        "meaning": "脑电图",
+        "abbrev": "EEG",
+        "page": "326"
+    },
+    "brain natriuretic peptide": {
+        "meaning": "脑利尿钠肽",
+        "abbrev": "BNP",
+        "page": "127"
+    },
+    "pontine respiratory group": {
+        "meaning": "脑桥呼吸组",
+        "abbrev": "PRG",
+        "page": "157"
+    },
+    "cerebral ischemic response": {
+        "meaning": "脑缺血反应",
+        "abbrev": "无",
+        "page": "124"
+    },
+    "endorphin": {
+        "meaning": "内啡肽",
+        "abbrev": "END",
+        "page": "251"
+    },
+    "endocrine": {
+        "meaning": "内分泌",
+        "abbrev": "无",
+        "page": "337"
+    },
+    "endocrine gland": {
+        "meaning": "内分泌腺",
+        "abbrev": "无",
+        "page": "337"
+    },
+    "internal respiration": {
+        "meaning": "内呼吸",
+        "abbrev": "无",
+        "page": "135"
+    },
+    "internalization": {
+        "meaning": "内化",
+        "abbrev": "无",
+        "page": "295"
+    },
+    "internal environment": {
+        "meaning": "内环境",
+        "abbrev": "无",
+        "page": "7"
+    },
+    "endolymphatic potential": {
+        "meaning": "内淋巴电位",
+        "abbrev": "无",
+        "page": "272"
+    },
+    "endothelium-derived relaxing factor": {
+        "meaning": "内皮舒张因子",
+        "abbrev": "EDRF",
+        "page": "126"
+    },
+    "endothelin receptor": {
+        "meaning": "内皮素受体",
+        "abbrev": "ETR",
+        "page": "126"
+    },
+    "endogenous creatinine": {
+        "meaning": "内生肌酐",
+        "abbrev": "无",
+        "page": "237"
+    },
+    "inward rectification": {
+        "meaning": "内向整流",
+        "abbrev": "无",
+        "page": "91"
+    },
+    "intrinsic factor": {
+        "meaning": "内因子",
+        "abbrev": "无",
+        "page": "59"
+    },
+    "intrinsic pathway": {
+        "meaning": "内源性凝血途径",
+        "abbrev": "无",
+        "page": "69"
+    },
+    "visceral sense": {
+        "meaning": "内脏感觉",
+        "abbrev": "无",
+        "page": "252"
+    },
+    "visceral smooth muscle": {
+        "meaning": "内脏平滑肌",
+        "abbrev": "无",
+        "page": "50"
+    },
+    "visceral pain": {
+        "meaning": "内脏痛",
+        "abbrev": "无",
+        "page": "252"
+    },
+    "energy metabolism": {
+        "meaning": "能量代谢",
+        "abbrev": "无",
+        "page": "196"
+    },
+    "energy metabolic rate": {
+        "meaning": "能量代谢率",
+        "abbrev": "无",
+        "page": "197"
+    },
+    "energy balance": {
+        "meaning": "能量平衡",
+        "abbrev": "无",
+        "page": "202"
+    },
+    "countercurrent multiplication": {
+        "meaning": "逆流倍增",
+        "abbrev": "无",
+        "page": "227"
+    },
+    "countercurrent exchange": {
+        "meaning": "逆流交换",
+        "abbrev": "无",
+        "page": "227"
+    },
+    "retrograde transport": {
+        "meaning": "逆向运输",
+        "abbrev": "无",
+        "page": "282"
+    },
+    "retrograde amnesia": {
+        "meaning": "逆行性遗忘症",
+        "abbrev": "无",
+        "page": "333"
+    },
+    "submucosal plexus": {
+        "meaning": "黏膜下神经丛",
+        "abbrev": "无",
+        "page": "167"
+    },
+    "mucus-bicarbonate barrier": {
+        "meaning": "黏液- 碳酸氢盐屏障　",
+        "abbrev": "无",
+        "page": "173"
+    },
+    "viscous resistance": {
+        "meaning": "黏滞阻力",
+        "abbrev": "无",
+        "page": "143"
+    },
+    "guanylyl cyclase": {
+        "meaning": "鸟苷酸环化酶",
+        "abbrev": "GC",
+        "page": "27"
+    },
+    "guanine nucleotide-binding protein": {
+        "meaning": "鸟苷酸结合蛋白",
+        "abbrev": "无",
+        "page": "24"
+    },
+    "diabetes insipidus": {
+        "meaning": "尿崩症",
+        "abbrev": "无",
+        "page": "231"
+    },
+    "urine incontinence": {
+        "meaning": "尿失禁",
+        "abbrev": "无",
+        "page": "240"
+    },
+    "urine  concentration  and dilution": {
+        "meaning": "尿液的浓缩和稀释",
+        "abbrev": "无",
+        "page": "226"
+    },
+    "urine retention": {
+        "meaning": "尿潴留",
+        "abbrev": "无",
+        "page": "240"
+    },
+    "agglutination": {
+        "meaning": "凝集",
+        "abbrev": "无",
+        "page": "73"
+    },
+    "agglutinin": {
+        "meaning": "凝集素",
+        "abbrev": "无",
+        "page": "73"
+    },
+    "agglutinogen": {
+        "meaning": "凝集原",
+        "abbrev": "无",
+        "page": "73"
+    },
+    "thrombin": {
+        "meaning": "凝血酶",
+        "abbrev": "无",
+        "page": "69"
+    },
+    "thrombomodulin": {
+        "meaning": "凝血酶调节蛋白",
+        "abbrev": "TM",
+        "page": "71"
+    },
+    "prothrombinase complex": {
+        "meaning": "凝血酶原酶复合物",
+        "abbrev": "无",
+        "page": "70"
+    },
+    "prothrombin time": {
+        "meaning": "凝血酶原时间",
+        "abbrev": "PT",
+        "page": "70"
+    },
+    "clotting time": {
+        "meaning": "凝血时间",
+        "abbrev": "CT",
+        "page": "70"
+    },
+    "coagulation factor； clotting factor": {
+        "meaning": "凝血因子",
+        "abbrev": "无",
+        "page": "68"
+    },
+    "pus": {
+        "meaning": "脓",
+        "abbrev": "无",
+        "page": "62"
+    },
+    "vomiting": {
+        "meaning": "呕吐",
+        "abbrev": "无",
+        "page": "179"
+    },
+    "Parkinson ’s disease": {
+        "meaning": "帕金森病",
+        "abbrev": "无",
+        "page": "315"
+    },
+    "defecation reflex": {
+        "meaning": "排便反射",
+        "abbrev": "无",
+        "page": "187"
+    },
+    "ovulation": {
+        "meaning": "排卵",
+        "abbrev": "无",
+        "page": "388"
+    },
+    "micturition": {
+        "meaning": "排尿",
+        "abbrev": "无",
+        "page": "238"
+    },
+    "micturition reflex": {
+        "meaning": "排尿反射",
+        "abbrev": "无",
+        "page": "239"
+    },
+    "excretion": {
+        "meaning": "排泄",
+        "abbrev": "无",
+        "page": "220"
+    },
+    "paracrine": {
+        "meaning": "旁分泌",
+        "abbrev": "无",
+        "page": "9"
+    },
+    "ligand": {
+        "meaning": "配体",
+        "abbrev": "无",
+        "page": "22"
+    },
+    "ligand-gated ion channel": {
+        "meaning": "配体门控通道",
+        "abbrev": "无",
+        "page": "16"
+    },
+    "projectile vomiting": {
+        "meaning": "喷射性呕吐",
+        "abbrev": "无",
+        "page": "179"
+    },
+    "sneezing reflex": {
+        "meaning": "喷嚏反射",
+        "abbrev": "无",
+        "page": "162"
+    },
+    "pelvic nerve": {
+        "meaning": "盆神经",
+        "abbrev": "无",
+        "page": "239"
+    },
+    "corticospinal tract": {
+        "meaning": "皮层脊髓束",
+        "abbrev": "无",
+        "page": "318"
+    },
+    "corticobulbar tract": {
+        "meaning": "皮层脑干束",
+        "abbrev": "无",
+        "page": "318"
+    },
+    "cerebrocerebellum": {
+        "meaning": "皮层小脑",
+        "abbrev": "无",
+        "page": "317"
+    },
+    "evoked cortical potential": {
+        "meaning": "皮层诱发电位",
+        "abbrev": "无",
+        "page": "328"
+    },
+    "cortical column": {
+        "meaning": "皮层柱",
+        "abbrev": "无",
+        "page": "306"
+    },
+    "cortisol": {
+        "meaning": "皮质醇",
+        "abbrev": "无",
+        "page": "368"
+    },
+    "cortical nephron": {
+        "meaning": "皮质肾单位",
+        "abbrev": "无",
+        "page": "214"
+    },
+    "corticosterone": {
+        "meaning": "皮质酮",
+        "abbrev": "无",
+        "page": "369"
+    },
+    "anemia": {
+        "meaning": "贫血",
+        "abbrev": "无",
+        "page": "57"
+    },
+    "frequency summation": {
+        "meaning": "频率总和",
+        "abbrev": "无",
+        "page": "49"
+    },
+    "equilibrium potential": {
+        "meaning": "平衡电位",
+        "abbrev": "无",
+        "page": "29"
+    },
+    "equilibrium sensation": {
+        "meaning": "平衡感觉",
+        "abbrev": "无",
+        "page": "273"
+    },
+    "eupnea": {
+        "meaning": "平静呼吸",
+        "abbrev": "无",
+        "page": "136"
+    },
+    "mean arterial pressure": {
+        "meaning": "平均动脉压",
+        "abbrev": "无",
+        "page": "111"
+    },
+    "average evoked potential": {
+        "meaning": "平均诱发电位",
+        "abbrev": "无",
+        "page": "328"
+    },
+    "plateau": {
+        "meaning": "平台期",
+        "abbrev": "无",
+        "page": "92"
+    },
+    "maximal rate of glucose transport": {
+        "meaning": "葡萄糖的最大转运率",
+        "abbrev": "无",
+        "page": "225"
+    },
+    "glucose transporter": {
+        "meaning": "葡萄糖转运体",
+        "abbrev": "GLUT",
+        "page": "17"
+    },
+    "glucose transporter-2": {
+        "meaning": "葡萄糖转运体-2",
+        "abbrev": "GLUT-2",
+        "page": "191"
+    },
+    "premature systole": {
+        "meaning": "期前收缩",
+        "abbrev": "无",
+        "page": "97"
+    },
+    "premature excitation": {
+        "meaning": "期前兴奋",
+        "abbrev": "无",
+        "page": "97"
+    },
+    "theory of pacemaker": {
+        "meaning": "起搏细胞学说",
+        "abbrev": "无",
+        "page": "158"
+    },
+    "air conduction": {
+        "meaning": "气传导",
+        "abbrev": "无",
+        "page": "268"
+    },
+    "airway resistance": {
+        "meaning": "气道阻力",
+        "abbrev": "无",
+        "page": "143"
+    },
+    "odorant": {
+        "meaning": "气味物质",
+        "abbrev": "无",
+        "page": "276"
+    },
+    "odorant receptor": {
+        "meaning": "气味物质受体",
+        "abbrev": "无",
+        "page": "276"
+    },
+    "pneumothorax": {
+        "meaning": "气胸",
+        "abbrev": "无",
+        "page": "139"
+    },
+    "referred pain": {
+        "meaning": "牵涉痛",
+        "abbrev": "无",
+        "page": "253"
+    },
+    "stretch reflex": {
+        "meaning": "牵张反射",
+        "abbrev": "无",
+        "page": "310"
+    },
+    "preload": {
+        "meaning": "前负荷",
+        "abbrev": "无",
+        "page": "48"
+    },
+    "feed-forward": {
+        "meaning": "前馈",
+        "abbrev": "无",
+        "page": "11"
+    },
+    "prostacyclin": {
+        "meaning": "前列环素",
+        "abbrev": "PGI",
+        "page": "2"
+    },
+    "prostaglandin": {
+        "meaning": "前列腺素",
+        "abbrev": "PG",
+        "page": "128"
+    },
+    "precursor cell": {
+        "meaning": "前体细胞",
+        "abbrev": "无",
+        "page": "56"
+    },
+    "vestibular apparatus": {
+        "meaning": "前庭器官",
+        "abbrev": "无",
+        "page": "268"
+    },
+    "vestibulocerebellum": {
+        "meaning": "前庭小脑",
+        "abbrev": "无",
+        "page": "316"
+    },
+    "vestibular autonomic reaction": {
+        "meaning": "前庭自主神经反应",
+        "abbrev": "无",
+        "page": "275"
+    },
+    "preproinsulin": {
+        "meaning": "前胰岛素原",
+        "abbrev": "无",
+        "page": "373"
+    },
+    "premotor cortex": {
+        "meaning": "前运动皮层",
+        "abbrev": "无",
+        "page": "318"
+    },
+    "latent pacemaker": {
+        "meaning": "潜在起搏点",
+        "abbrev": "无",
+        "page": "99"
+    },
+    "solinocrine": {
+        "meaning": "腔分泌",
+        "abbrev": "无",
+        "page": "337"
+    },
+    "dynorphin": {
+        "meaning": "强啡肽",
+        "abbrev": "DYN",
+        "page": "250"
+    },
+    "post-tetanic potentiation": {
+        "meaning": "强直后增强",
+        "abbrev": "PTP",
+        "page": "44"
+    },
+    "capture": {
+        "meaning": "抢先占领",
+        "abbrev": "无",
+        "page": "99"
+    },
+    "shear rate": {
+        "meaning": "切率",
+        "abbrev": "无",
+        "page": "108"
+    },
+    "adolescence": {
+        "meaning": "青春期",
+        "abbrev": "无",
+        "page": "400"
+    },
+    "glaucoma": {
+        "meaning": "青光眼",
+        "abbrev": "无",
+        "page": "257"
+    },
+    "paresis": {
+        "meaning": "轻瘫",
+        "abbrev": "无",
+        "page": "318"
+    },
+    "hydrocortisone": {
+        "meaning": "氢化可的松",
+        "abbrev": "无",
+        "page": "369"
+    },
+    "clearance rate": {
+        "meaning": "清除率",
+        "abbrev": "C",
+        "page": "236"
+    },
+    "emotion": {
+        "meaning": "情绪",
+        "abbrev": "无",
+        "page": "324"
+    },
+    "emotional physiological reaction": {
+        "meaning": "情绪的生理反应",
+        "abbrev": "无",
+        "page": "326"
+    },
+    "subthalamic nucleus": {
+        "meaning": "丘脑底核",
+        "abbrev": "无",
+        "page": "314"
+    },
+    "glomerulo-tubular balance": {
+        "meaning": "球- 管平衡",
+        "abbrev": "无",
+        "page": "226"
+    },
+    "saccule": {
+        "meaning": "球囊",
+        "abbrev": "无",
+        "page": "274"
+    },
+    "juxtaglomerular apparatus": {
+        "meaning": "球旁器",
+        "abbrev": "无",
+        "page": "214"
+    },
+    "juxtaglomerular cell": {
+        "meaning": "球旁细胞",
+        "abbrev": "无",
+        "page": "214"
+    },
+    "bulbogastrone": {
+        "meaning": "球抑胃素",
+        "abbrev": "无",
+        "page": "177"
+    },
+    "varicosity": {
+        "meaning": "曲张体",
+        "abbrev": "无",
+        "page": "281"
+    },
+    "ametropia": {
+        "meaning": "屈光不正",
+        "abbrev": "无",
+        "page": "256"
+    },
+    "flexor reflex": {
+        "meaning": "屈肌反射",
+        "abbrev": "无",
+        "page": "310"
+    },
+    "somatic sense": {
+        "meaning": "躯体感觉",
+        "abbrev": "无",
+        "page": "246"
+    },
+    "chemotaxis": {
+        "meaning": "趋化性",
+        "abbrev": "无",
+        "page": "61"
+    },
+    "chemokine": {
+        "meaning": "趋化因子",
+        "abbrev": "无",
+        "page": "61"
+    },
+    "decerebrate rigidity": {
+        "meaning": "去大脑僵直",
+        "abbrev": "无",
+        "page": "312"
+    },
+    "depolarization": {
+        "meaning": "去极化",
+        "abbrev": "无",
+        "page": "29"
+    },
+    "norepinephrine": {
+        "meaning": "去甲肾上腺素",
+        "abbrev": "NE",
+        "page": "125"
+    },
+    "decorticate rigidity": {
+        "meaning": "去皮层僵直",
+        "abbrev": "无",
+        "page": "312"
+    },
+    "desynchronization": {
+        "meaning": "去同步化　",
+        "abbrev": "无",
+        "page": "327"
+    },
+    "disinhibition": {
+        "meaning": "去抑制",
+        "abbrev": "无",
+        "page": "314"
+    },
+    "all-or-none": {
+        "meaning": "全或无",
+        "abbrev": "无",
+        "page": "32"
+    },
+    "aldosterone": {
+        "meaning": "醛固酮",
+        "abbrev": "无",
+        "page": "368"
+    },
+    "iron deficiency anemia": {
+        "meaning": "缺铁性贫血",
+        "abbrev": "无",
+        "page": "59"
+    },
+    "caloric restriction": {
+        "meaning": "热量限制",
+        "abbrev": "CR",
+        "page": "408"
+    },
+    "thermal comfort": {
+        "meaning": "热舒适",
+        "abbrev": "无",
+        "page": "211"
+    },
+    "heat acclimatization": {
+        "meaning": "热习服",
+        "abbrev": "无",
+        "page": "211"
+    },
+    "human prolactin": {
+        "meaning": "人催乳素",
+        "abbrev": "hPRL",
+        "page": "351"
+    },
+    "artificial respiration": {
+        "meaning": "人工呼吸",
+        "abbrev": "无",
+        "page": "138"
+    },
+    "human chorionic gonadotropin": {
+        "meaning": "人绒毛膜促性腺激素",
+        "abbrev": "hCG",
+        "page": "394"
+    },
+    "human growth hormone": {
+        "meaning": "人生长激素",
+        "abbrev": "hGH",
+        "page": "349"
+    },
+    "human placental lactogen": {
+        "meaning": "人胎盘催乳素",
+        "abbrev": "hPL",
+        "page": "395"
+    },
+    "pregnancy": {
+        "meaning": "妊娠",
+        "abbrev": "无",
+        "page": "392"
+    },
+    "volume receptor reflex": {
+        "meaning": "容量感受性反射",
+        "abbrev": "无",
+        "page": "124"
+    },
+    "capacitance vessel": {
+        "meaning": "容量血管",
+        "abbrev": "无",
+        "page": "106"
+    },
+    "receptive relaxation": {
+        "meaning": "容受性舒张",
+        "abbrev": "无",
+        "page": "177"
+    },
+    "solvent drag": {
+        "meaning": "溶剂拖曳",
+        "abbrev": "无",
+        "page": "225"
+    },
+    "fusion phenomenon": {
+        "meaning": "融合现象",
+        "abbrev": "无",
+        "page": "266"
+    },
+    "peristalsis": {
+        "meaning": "蠕动",
+        "abbrev": "无",
+        "page": "170"
+    },
+    "peristaltic rush": {
+        "meaning": "蠕动冲",
+        "abbrev": "无",
+        "page": "184"
+    },
+    "endocytosis": {
+        "meaning": "入胞作用",
+        "abbrev": "无",
+        "page": "21"
+    },
+    "triad": {
+        "meaning": "三联体",
+        "abbrev": "无",
+        "page": "45"
+    },
+    "inositol triphosphate": {
+        "meaning": "三磷酸肌醇",
+        "abbrev": "IP",
+        "page": "3"
+    },
+    "trichromatic theory": {
+        "meaning": "三原色学说",
+        "abbrev": "无",
+        "page": "262"
+    },
+    "astigmatism": {
+        "meaning": "散光",
+        "abbrev": "无",
+        "page": "256"
+    },
+    "heat loss": {
+        "meaning": "散热",
+        "abbrev": "无",
+        "page": "206"
+    },
+    "scratching reflex": {
+        "meaning": "搔爬反射",
+        "abbrev": "无",
+        "page": "311"
+    },
+    "color vision": {
+        "meaning": "色觉",
+        "abbrev": "无",
+        "page": "262"
+    },
+    "color blindness": {
+        "meaning": "色盲",
+        "abbrev": "无",
+        "page": "263"
+    },
+    "color weekness": {
+        "meaning": "色弱",
+        "abbrev": "无",
+        "page": "263"
+    },
+    "nociceptor": {
+        "meaning": "伤害性感受器",
+        "abbrev": "无",
+        "page": "249"
+    },
+    "epithelial  sodium channel": {
+        "meaning": "上皮钠通道",
+        "abbrev": "ENaC",
+        "page": "222"
+    },
+    "up-regulation": {
+        "meaning": "上调",
+        "abbrev": "无",
+        "page": "295"
+    },
+    "ascending inhibitory system": {
+        "meaning": "上行抑制系统",
+        "abbrev": "无",
+        "page": "331"
+    },
+    "oligodendrocyte": {
+        "meaning": "少突胶质细胞",
+        "abbrev": "无",
+        "page": "281"
+    },
+    "milk ejection reflex": {
+        "meaning": "射乳反射",
+        "abbrev": "无",
+        "page": "355"
+    },
+    "ejection fraction": {
+        "meaning": "射血分数",
+        "abbrev": "无",
+        "page": "82"
+    },
+    "ejection period": {
+        "meaning": "射血期",
+        "abbrev": "无",
+        "page": "80"
+    },
+    "feeding center": {
+        "meaning": "摄食中枢",
+        "abbrev": "无",
+        "page": "202"
+    },
+    "body mass index": {
+        "meaning": "身体质量指数",
+        "abbrev": "BMI",
+        "page": "202"
+    },
+    "inspiratory capacity": {
+        "meaning": "深吸气量",
+        "abbrev": "IC",
+        "page": "144"
+    },
+    "neurotransmitter": {
+        "meaning": "神经递质",
+        "abbrev": "无",
+        "page": "292"
+    },
+    "neurocrine": {
+        "meaning": "神经分泌",
+        "abbrev": "无",
+        "page": "9"
+    },
+    "neuromuscular junction": {
+        "meaning": "神经肌肉接头",
+        "abbrev": "无",
+        "page": "43"
+    },
+    "neuroglial cell": {
+        "meaning": "神经胶质细胞",
+        "abbrev": "无",
+        "page": "280"
+    },
+    "neuroendocrine": {
+        "meaning": "神经内分泌",
+        "abbrev": "无",
+        "page": "337"
+    },
+    "neuropeptide Y": {
+        "meaning": "神经肽Y　",
+        "abbrev": "NPY",
+        "page": "251"
+    },
+    "neurohumoral regulation": {
+        "meaning": "神经- 体液调节　",
+        "abbrev": "无",
+        "page": "9"
+    },
+    "nervous regulation": {
+        "meaning": "神经调节",
+        "abbrev": "无",
+        "page": "9"
+    },
+    "neuromodulator": {
+        "meaning": "神经调质",
+        "abbrev": "无",
+        "page": "292"
+    },
+    "nervous system": {
+        "meaning": "神经系统",
+        "abbrev": "无",
+        "page": "280"
+    },
+    "nerve cell": {
+        "meaning": "神经细胞",
+        "abbrev": "无",
+        "page": "280"
+    },
+    "nerve fiber": {
+        "meaning": "神经纤维",
+        "abbrev": "无",
+        "page": "281"
+    },
+    "neurotrophic factor； neurotrophin": {
+        "meaning": "神经营养因子",
+        "abbrev": "NT",
+        "page": "284"
+    },
+    "neuron": {
+        "meaning": "神经元",
+        "abbrev": "无",
+        "page": "280"
+    },
+    "theory of neuronal network": {
+        "meaning": "神经元网络学说",
+        "abbrev": "无",
+        "page": "158"
+    },
+    "neuron-type nicotinic receptor": {
+        "meaning": "神经元型烟碱受体",
+        "abbrev": "无",
+        "page": "296"
+    },
+    "nephron": {
+        "meaning": "肾单位",
+        "abbrev": "无",
+        "page": "213"
+    },
+    "intrarenal urea recycling": {
+        "meaning": "肾内尿素再循环",
+        "abbrev": "无",
+        "page": "226"
+    },
+    "adrenarche": {
+        "meaning": "肾上腺（皮质） 功能初现",
+        "abbrev": "无",
+        "page": "371"
+    },
+    "adrenocortical hormone； corticoid": {
+        "meaning": "肾上腺皮质激素",
+        "abbrev": "无",
+        "page": "368"
+    },
+    "epinephrine": {
+        "meaning": "肾上腺素",
+        "abbrev": "E",
+        "page": "125"
+    },
+    "adrenergic neuron": {
+        "meaning": "肾上腺素能神经元",
+        "abbrev": "无",
+        "page": "296"
+    },
+    "adrenergic receptor": {
+        "meaning": "肾上腺素能受体",
+        "abbrev": "无",
+        "page": "297"
+    },
+    "adrenergic fiber": {
+        "meaning": "肾上腺素能纤维",
+        "abbrev": "无",
+        "page": "297"
+    },
+    "adrenomedullin": {
+        "meaning": "肾上腺髓质素",
+        "abbrev": "ADM",
+        "page": "372"
+    },
+    "renin": {
+        "meaning": "肾素",
+        "abbrev": "无",
+        "page": "124"
+    },
+    "renin-angiotensin system": {
+        "meaning": "肾素- 血管紧张素系统　",
+        "abbrev": "RAS",
+        "page": "124"
+    },
+    "renal glucose threshold": {
+        "meaning": "肾糖阈",
+        "abbrev": "无",
+        "page": "225"
+    },
+    "renal-body fluid control system": {
+        "meaning": "肾- 体液控制系统　",
+        "abbrev": "无",
+        "page": "129"
+    },
+    "glomerulus": {
+        "meaning": "肾小球",
+        "abbrev": "无",
+        "page": "213"
+    },
+    "glomerular filtration rate": {
+        "meaning": "肾小球滤过率",
+        "abbrev": "GFR",
+        "page": "218"
+    },
+    "renal blood flow": {
+        "meaning": "肾血流量",
+        "abbrev": "RBF",
+        "page": "216"
+    },
+    "renal potassium channel": {
+        "meaning": "肾脏钾通道",
+        "abbrev": "无",
+        "page": "224"
+    },
+    "osmotic diuresis": {
+        "meaning": "渗透性利尿",
+        "abbrev": "无",
+        "page": "226"
+    },
+    "osmotic pressure": {
+        "meaning": "渗透压",
+        "abbrev": "无",
+        "page": "54"
+    },
+    "osmoreceptor": {
+        "meaning": "渗透压感受器",
+        "abbrev": "无",
+        "page": "231"
+    },
+    "physiological dead space": {
+        "meaning": "生理无效腔",
+        "abbrev": "无",
+        "page": "146"
+    },
+    "physiology": {
+        "meaning": "生理学",
+        "abbrev": "无",
+        "page": "1"
+    },
+    "physiology experiment": {
+        "meaning": "生理学实验",
+        "abbrev": "无",
+        "page": "3"
+    },
+    "bioelectricity": {
+        "meaning": "生物电",
+        "abbrev": "无",
+        "page": "28"
+    },
+    "biorhythm": {
+        "meaning": "生物节律",
+        "abbrev": "无",
+        "page": "8"
+    },
+    "growth": {
+        "meaning": "生长",
+        "abbrev": "无",
+        "page": "400"
+    },
+    "somatostatin": {
+        "meaning": "生长抑素",
+        "abbrev": "SST",
+        "page": "175"
+    },
+    "reproduction": {
+        "meaning": "生殖",
+        "abbrev": "无",
+        "page": "6"
+    },
+    "acoustic impedance": {
+        "meaning": "声阻抗",
+        "abbrev": "无",
+        "page": "268"
+    },
+    "alexia": {
+        "meaning": "失读症",
+        "abbrev": "无",
+        "page": "335"
+    },
+    "inactivated state": {
+        "meaning": "失活态　",
+        "abbrev": "无",
+        "page": "36"
+    },
+    "acalculia": {
+        "meaning": "失算症",
+        "abbrev": "无",
+        "page": "336"
+    },
+    "agraphia": {
+        "meaning": "失写症",
+        "abbrev": "无",
+        "page": "335"
+    },
+    "apraxia": {
+        "meaning": "失用症",
+        "abbrev": "无",
+        "page": "335"
+    },
+    "Schwann cell": {
+        "meaning": "施万细胞",
+        "abbrev": "无",
+        "page": "281"
+    },
+    "time constant": {
+        "meaning": "时间常数",
+        "abbrev": "无",
+        "page": "40"
+    },
+    "temporal summation": {
+        "meaning": "时间总和",
+        "abbrev": "无",
+        "page": "42"
+    },
+    "lower esophageal sphincter": {
+        "meaning": "食管下括约肌",
+        "abbrev": "LES",
+        "page": "171"
+    },
+    "bolus": {
+        "meaning": "食团",
+        "abbrev": "无",
+        "page": "170"
+    },
+    "thermal equivalent of food": {
+        "meaning": "食物的热价",
+        "abbrev": "无",
+        "page": "198"
+    },
+    "specific  dynamic action of food": {
+        "meaning": "食物的特殊动力作用",
+        "abbrev": "无",
+        "page": "201"
+    },
+    "initial segment": {
+        "meaning": "始段",
+        "abbrev": "无",
+        "page": "281"
+    },
+    "opsin": {
+        "meaning": "视蛋白",
+        "abbrev": "无",
+        "page": "260"
+    },
+    "rod cell": {
+        "meaning": "视杆细胞",
+        "abbrev": "无",
+        "page": "257"
+    },
+    "afterimage": {
+        "meaning": "视后像",
+        "abbrev": "无",
+        "page": "266"
+    },
+    "retinene": {
+        "meaning": "视黄醛",
+        "abbrev": "无",
+        "page": "260"
+    },
+    "suprachiasmatic nucleus": {
+        "meaning": "视交叉上核",
+        "abbrev": "SCN",
+        "page": "323"
+    },
+    "visual angle": {
+        "meaning": "视角",
+        "abbrev": "无",
+        "page": "265"
+    },
+    "visual acuity": {
+        "meaning": "视敏度",
+        "abbrev": "无",
+        "page": "265"
+    },
+    "visual pigment": {
+        "meaning": "视色素",
+        "abbrev": "无",
+        "page": "257"
+    },
+    "supraoptic nucleus": {
+        "meaning": "视上核",
+        "abbrev": "无",
+        "page": "231"
+    },
+    "retina": {
+        "meaning": "视网膜",
+        "abbrev": "无",
+        "page": "257"
+    },
+    "visual field": {
+        "meaning": "视野",
+        "abbrev": "无",
+        "page": "265"
+    },
+    "cone cell": {
+        "meaning": "视锥细胞",
+        "abbrev": "无",
+        "page": "257"
+    },
+    "adequate stimulus": {
+        "meaning": "适宜刺激",
+        "abbrev": "无",
+        "page": "242"
+    },
+    "adaptation": {
+        "meaning": "适应",
+        "abbrev": "无",
+        "page": "6"
+    },
+    "adaptability": {
+        "meaning": "适应性",
+        "abbrev": "无",
+        "page": "6"
+    },
+    "adaptive cytoprotection": {
+        "meaning": "适应性细胞保护作用",
+        "abbrev": "无",
+        "page": "174"
+    },
+    "paraventricular nucleus": {
+        "meaning": "室旁核",
+        "abbrev": "无",
+        "page": "231"
+    },
+    "releasing hormone": {
+        "meaning": "释放激素",
+        "abbrev": "无",
+        "page": "348"
+    },
+    "release-inhibiting hormone": {
+        "meaning": "释放抑制激素",
+        "abbrev": "无",
+        "page": "348"
+    },
+    "basophil": {
+        "meaning": "嗜碱性粒细胞",
+        "abbrev": "无",
+        "page": "61"
+    },
+    "eosinophil": {
+        "meaning": "嗜酸性粒细胞",
+        "abbrev": "无",
+        "page": "61"
+    },
+    "contractile protein": {
+        "meaning": "收缩蛋白",
+        "abbrev": "无",
+        "page": "46"
+    },
+    "contractility": {
+        "meaning": "收缩性",
+        "abbrev": "无",
+        "page": "90"
+    },
+    "systole": {
+        "meaning": "收缩期",
+        "abbrev": "无",
+        "page": "79"
+    },
+    "end-systolic volume": {
+        "meaning": "收缩期末容积",
+        "abbrev": "ESV",
+        "page": "82"
+    },
+    "performance of contraction": {
+        "meaning": "收缩效能",
+        "abbrev": "无",
+        "page": "48"
+    },
+    "systolic pressure": {
+        "meaning": "收缩压",
+        "abbrev": "无",
+        "page": "110"
+    },
+    "summation of contraction": {
+        "meaning": "收缩总和",
+        "abbrev": "无",
+        "page": "49"
+    },
+    "fertilization": {
+        "meaning": "受精",
+        "abbrev": "无",
+        "page": "393"
+    },
+    "receptor": {
+        "meaning": "受体",
+        "abbrev": "无",
+        "page": "22"
+    },
+    "receptor-mediated  endocytosis": {
+        "meaning": "受体介导入胞",
+        "abbrev": "无",
+        "page": "21"
+    },
+    "receptor tyrosine kinase": {
+        "meaning": "受体酪氨酸激酶",
+        "abbrev": "RTK",
+        "page": "27"
+    },
+    "leptin": {
+        "meaning": "瘦素",
+        "abbrev": "无",
+        "page": "128"
+    },
+    "vasodilator nerve": {
+        "meaning": "舒血管神经",
+        "abbrev": "无",
+        "page": "120"
+    },
+    "diastole": {
+        "meaning": "舒张期",
+        "abbrev": "无",
+        "page": "79"
+    },
+    "end-diastolic volume": {
+        "meaning": "舒张期末容积",
+        "abbrev": "EDV",
+        "page": "82"
+    },
+    "diastolic pressure": {
+        "meaning": "舒张压",
+        "abbrev": "无",
+        "page": "110"
+    },
+    "dendrite": {
+        "meaning": "树突",
+        "abbrev": "无",
+        "page": "280"
+    },
+    "dendritic spine": {
+        "meaning": "树突棘",
+        "abbrev": "无",
+        "page": "280"
+    },
+    "aging": {
+        "meaning": "衰老",
+        "abbrev": "无",
+        "page": "7"
+    },
+    "binocular vision": {
+        "meaning": "双眼视觉",
+        "abbrev": "无",
+        "page": "266"
+    },
+    "water diuresis": {
+        "meaning": "水利尿",
+        "abbrev": "无",
+        "page": "232"
+    },
+    "water channel": {
+        "meaning": "水通道",
+        "abbrev": "无",
+        "page": "17"
+    },
+    "aquaporin": {
+        "meaning": "水通道蛋白",
+        "abbrev": "AQP",
+        "page": "17"
+    },
+    "sleep": {
+        "meaning": "睡眠",
+        "abbrev": "无",
+        "page": "328"
+    },
+    "anterograde transport": {
+        "meaning": "顺向运输",
+        "abbrev": "无",
+        "page": "282"
+    },
+    "anterograde amnesia": {
+        "meaning": "顺行性遗忘症",
+        "abbrev": "无",
+        "page": "333"
+    },
+    "compliance": {
+        "meaning": "顺应性",
+        "abbrev": "无",
+        "page": "139"
+    },
+    "transient receptor potential": {
+        "meaning": "瞬时受体电位",
+        "abbrev": "TRP",
+        "page": "243"
+    },
+    "tetraethylammonium": {
+        "meaning": "四乙铵",
+        "abbrev": "TEA",
+        "page": "33"
+    },
+    "relaxin": {
+        "meaning": "松弛素",
+        "abbrev": "无",
+        "page": "396"
+    },
+    "voluntary movement": {
+        "meaning": "随意运动",
+        "abbrev": "无",
+        "page": "308"
+    },
+    "loop of henle": {
+        "meaning": "髓袢",
+        "abbrev": "无",
+        "page": "213"
+    },
+    "intrafusal fiber": {
+        "meaning": "梭内肌纤维",
+        "abbrev": "无",
+        "page": "310"
+    },
+    "extrafusal fiber": {
+        "meaning": "梭外肌纤维",
+        "abbrev": "无",
+        "page": "310"
+    },
+    "cholecystokinin": {
+        "meaning": "缩胆囊素",
+        "abbrev": "CCK",
+        "page": "177"
+    },
+    "oxytocin": {
+        "meaning": "缩宫素",
+        "abbrev": "OT",
+        "page": "353"
+    },
+    "vasoconstrictor nerve": {
+        "meaning": "缩血管神经",
+        "abbrev": "无",
+        "page": "120"
+    },
+    "placenta": {
+        "meaning": "胎盘",
+        "abbrev": "无",
+        "page": "394"
+    },
+    "placental barrier": {
+        "meaning": "胎盘屏障",
+        "abbrev": "无",
+        "page": "395"
+    },
+    "elastic resistance": {
+        "meaning": "弹性阻力",
+        "abbrev": "无",
+        "page": "139"
+    },
+    "carbonic anhydrase": {
+        "meaning": "碳酸酐酶",
+        "abbrev": "CA",
+        "page": "154"
+    },
+    "bicarbonate": {
+        "meaning": "碳酸氢盐",
+        "abbrev": "无",
+        "page": "154"
+    },
+    "diabetes mellitus": {
+        "meaning": "糖尿病",
+        "abbrev": "无",
+        "page": "375"
+    },
+    "glucocorticoid": {
+        "meaning": "糖皮质激素",
+        "abbrev": "GC",
+        "page": "368"
+    },
+    "law of specific nerve energy": {
+        "meaning": "特异神经能量定律",
+        "abbrev": "无",
+        "page": "245"
+    },
+    "specific projection system": {
+        "meaning": "特异性投射系统",
+        "abbrev": "无",
+        "page": "305"
+    },
+    "somatosensory evoked potential": {
+        "meaning": "体感诱发电位",
+        "abbrev": "SEP",
+        "page": "328"
+    },
+    "body temperature": {
+        "meaning": "体温",
+        "abbrev": "无",
+        "page": "205"
+    },
+    "hypothermia": {
+        "meaning": "体温过低",
+        "abbrev": "无",
+        "page": "206"
+    },
+    "humoral regulation": {
+        "meaning": "体液调节",
+        "abbrev": "无",
+        "page": "9"
+    },
+    "aspartic acid； aspartate": {
+        "meaning": "天冬氨酸　",
+        "abbrev": "Asp",
+        "page": "297"
+    },
+    "conditioned reflex": {
+        "meaning": "条件反射",
+        "abbrev": "无",
+        "page": "299"
+    },
+    "set point theory": {
+        "meaning": "调定点学说",
+        "abbrev": "无",
+        "page": "210"
+    },
+    "regulatory protein": {
+        "meaning": "调节蛋白",
+        "abbrev": "无",
+        "page": "46"
+    },
+    "hopping reaction": {
+        "meaning": "跳跃反应",
+        "abbrev": "无",
+        "page": "319"
+    },
+    "saltatory conduction": {
+        "meaning": "跳跃式传导",
+        "abbrev": "无",
+        "page": "38"
+    },
+    "ferritin": {
+        "meaning": "铁蛋白",
+        "abbrev": "无",
+        "page": "190"
+    },
+    "iron overload": {
+        "meaning": "铁过载",
+        "abbrev": "无",
+        "page": "190"
+    },
+    "ferroportin1　": {
+        "meaning": "铁转运蛋白1　",
+        "abbrev": "无",
+        "page": "190"
+    },
+    "hearing span": {
+        "meaning": "听域",
+        "abbrev": "无",
+        "page": "266"
+    },
+    "hearing threshold": {
+        "meaning": "听阈",
+        "abbrev": "无",
+        "page": "266"
+    },
+    "ventilation/perfusion ratio": {
+        "meaning": "通气/ 血流比值　",
+        "abbrev": "无",
+        "page": "149"
+    },
+    "synchronization": {
+        "meaning": "同步化",
+        "abbrev": "无",
+        "page": "327"
+    },
+    "symport": {
+        "meaning": "同向转运",
+        "abbrev": "无",
+        "page": "20"
+    },
+    "symporter": {
+        "meaning": "同向转运体",
+        "abbrev": "无",
+        "page": "20"
+    },
+    "pupillary accommodation reflex": {
+        "meaning": "瞳孔调节反射",
+        "abbrev": "无",
+        "page": "255"
+    },
+    "pupillary light reflex": {
+        "meaning": "瞳孔对光反射",
+        "abbrev": "无",
+        "page": "256"
+    },
+    "near reflex of the pupil": {
+        "meaning": "瞳孔近反射",
+        "abbrev": "无",
+        "page": "255"
+    },
+    "tubocurarine": {
+        "meaning": "筒箭毒碱",
+        "abbrev": "无",
+        "page": "289"
+    },
+    "pain sensation": {
+        "meaning": "痛觉",
+        "abbrev": "无",
+        "page": "249"
+    },
+    "agony": {
+        "meaning": "痛苦",
+        "abbrev": "无",
+        "page": "325"
+    },
+    "synapse": {
+        "meaning": "突触",
+        "abbrev": "无",
+        "page": "280"
+    },
+    "postsynaptic potential": {
+        "meaning": "突触后电位",
+        "abbrev": "无",
+        "page": "288"
+    },
+    "postsynaptic inhibition": {
+        "meaning": "突触后抑制",
+        "abbrev": "无",
+        "page": "301"
+    },
+    "synaptic plasticity": {
+        "meaning": "突触可塑性",
+        "abbrev": "无",
+        "page": "290"
+    },
+    "synaptic vesicle": {
+        "meaning": "突触囊泡",
+        "abbrev": "无",
+        "page": "43"
+    },
+    "presynaptic receptor": {
+        "meaning": "突触前受体",
+        "abbrev": "无",
+        "page": "294"
+    },
+    "presynaptic inhibition": {
+        "meaning": "突触前抑制",
+        "abbrev": "无",
+        "page": "303"
+    },
+    "presynaptic facilitation": {
+        "meaning": "突触前易化",
+        "abbrev": "无",
+        "page": "303"
+    },
+    "synaptic efficiency": {
+        "meaning": "突触效能",
+        "abbrev": "无",
+        "page": "289"
+    },
+    "synaptic depression": {
+        "meaning": "突触压抑",
+        "abbrev": "无",
+        "page": "290"
+    },
+    "synaptic facilitation": {
+        "meaning": "突触易化",
+        "abbrev": "无",
+        "page": "290"
+    },
+    "phagocytosis": {
+        "meaning": "吞噬作用",
+        "abbrev": "无",
+        "page": "21"
+    },
+    "deglutition； swallowing": {
+        "meaning": "吞咽",
+        "abbrev": "无",
+        "page": "170"
+    },
+    "pinocytosis": {
+        "meaning": "吞饮作用",
+        "abbrev": "无",
+        "page": "21"
+    },
+    "deiodinase": {
+        "meaning": "脱碘酶",
+        "abbrev": "无",
+        "page": "358"
+    },
+    "dehydroepiandrosterone": {
+        "meaning": "脱氢表雄酮",
+        "abbrev": "DHEA",
+        "page": "371"
+    },
+    "apoferritin": {
+        "meaning": "脱铁铁蛋白",
+        "abbrev": "无",
+        "page": "190"
+    },
+    "utricle": {
+        "meaning": "椭圆囊",
+        "abbrev": "无",
+        "page": "274"
+    },
+    "saliva": {
+        "meaning": "唾液",
+        "abbrev": "无",
+        "page": "169"
+    },
+    "salivary amylase": {
+        "meaning": "唾液淀粉酶",
+        "abbrev": "无",
+        "page": "169"
+    },
+    "external respiration": {
+        "meaning": "外呼吸",
+        "abbrev": "无",
+        "page": "135"
+    },
+    "exosome": {
+        "meaning": "外泌体",
+        "abbrev": "无",
+        "page": "23"
+    },
+    "extrinsic pathway": {
+        "meaning": "外源性凝血途径",
+        "abbrev": "无",
+        "page": "69"
+    },
+    "peripheral chemoreceptor": {
+        "meaning": "外周化学感受器",
+        "abbrev": "无",
+        "page": "158"
+    },
+    "peripheral venous pressure": {
+        "meaning": "外周静脉压",
+        "abbrev": "无",
+        "page": "113"
+    },
+    "peripheral thermoreceptor": {
+        "meaning": "外周温度感受器",
+        "abbrev": "无",
+        "page": "210"
+    },
+    "complete tetanus": {
+        "meaning": "完全强直收缩",
+        "abbrev": "无",
+        "page": "49"
+    },
+    "reticulocyte": {
+        "meaning": "网织红细胞",
+        "abbrev": "无",
+        "page": "59"
+    },
+    "micelle": {
+        "meaning": "微胶粒",
+        "abbrev": "无",
+        "page": "182"
+    },
+    "microcirculation": {
+        "meaning": "微循环",
+        "abbrev": "无",
+        "page": "115"
+    },
+    "peri-menopausal period": {
+        "meaning": "围绝经期",
+        "abbrev": "无",
+        "page": "392"
+    },
+    "vitamin D receptor": {
+        "meaning": "维生素D 受体　",
+        "abbrev": "VDR",
+        "page": "365"
+    },
+    "urocortin3": {
+        "meaning": "尾促皮质素3　",
+        "abbrev": "无",
+        "page": "252"
+    },
+    "caudate nucleus": {
+        "meaning": "尾状核",
+        "abbrev": "无",
+        "page": "314"
+    },
+    "positional nystagmus": {
+        "meaning": "位置性眼震颤",
+        "abbrev": "无",
+        "page": "316"
+    },
+    "gustation": {
+        "meaning": "味觉",
+        "abbrev": "无",
+        "page": "277"
+    },
+    "tastant": {
+        "meaning": "味觉物质",
+        "abbrev": "无",
+        "page": "278"
+    },
+    "taste bud": {
+        "meaning": "味蕾",
+        "abbrev": "无",
+        "page": "277"
+    },
+    "gastrointestinal hormone": {
+        "meaning": "胃肠激素",
+        "abbrev": "无",
+        "page": "167"
+    },
+    "pepsin": {
+        "meaning": "胃蛋白酶",
+        "abbrev": "无",
+        "page": "172"
+    },
+    "pepsinogen": {
+        "meaning": "胃蛋白酶原",
+        "abbrev": "无",
+        "page": "172"
+    },
+    "gastric mucosal barrier": {
+        "meaning": "胃黏膜屏障",
+        "abbrev": "无",
+        "page": "173"
+    },
+    "gastric emptying": {
+        "meaning": "胃排空",
+        "abbrev": "无",
+        "page": "178"
+    },
+    "gastric acid": {
+        "meaning": "胃酸",
+        "abbrev": "无",
+        "page": "171"
+    },
+    "gastric juice": {
+        "meaning": "胃液",
+        "abbrev": "无",
+        "page": "171"
+    },
+    "homeostasis": {
+        "meaning": "稳态",
+        "abbrev": "无",
+        "page": "7"
+    },
+    "free water reabsorption": {
+        "meaning": "无溶质水重吸收量",
+        "abbrev": "无",
+        "page": "238"
+    },
+    "unmyelinated nerve fiber": {
+        "meaning": "无髓鞘神经纤维",
+        "abbrev": "无",
+        "page": "281"
+    },
+    "atonic bladder": {
+        "meaning": "无张力膀胱",
+        "abbrev": "无",
+        "page": "240"
+    },
+    "inspiration": {
+        "meaning": "吸气",
+        "abbrev": "无",
+        "page": "136"
+    },
+    "inspiratory off-switch mechanism": {
+        "meaning": "吸气切断机制",
+        "abbrev": "无",
+        "page": "158"
+    },
+    "inspiratory movement": {
+        "meaning": "吸气运动",
+        "abbrev": "无",
+        "page": "136"
+    },
+    "absorption": {
+        "meaning": "吸收",
+        "abbrev": "无",
+        "page": "165"
+    },
+    "acclimatization": {
+        "meaning": "习服",
+        "abbrev": "无",
+        "page": "6"
+    },
+    "habituation": {
+        "meaning": "习惯化",
+        "abbrev": "无",
+        "page": "291"
+    },
+    "cytoprotection": {
+        "meaning": "细胞保护作用",
+        "abbrev": "无",
+        "page": "173"
+    },
+    "intracellular fluid": {
+        "meaning": "细胞内液",
+        "abbrev": "无",
+        "page": "7"
+    },
+    "cell senescence": {
+        "meaning": "细胞衰老",
+        "abbrev": "无",
+        "page": "405"
+    },
+    "extracellular fluid": {
+        "meaning": "细胞外液",
+        "abbrev": "无",
+        "page": "7"
+    },
+    "hypothalamic hypophysiotropic area": {
+        "meaning": "下丘脑促垂体区",
+        "abbrev": "无",
+        "page": "347"
+    },
+    "hypothalamic regulatory peptide": {
+        "meaning": "下丘脑调节肽　",
+        "abbrev": "HRP",
+        "page": "348"
+    },
+    "down-regulation": {
+        "meaning": "下调",
+        "abbrev": "无",
+        "page": "295"
+    },
+    "congenital megacolon": {
+        "meaning": "先天性巨结肠",
+        "abbrev": "无",
+        "page": "167"
+    },
+    "plasmin": {
+        "meaning": "纤溶酶",
+        "abbrev": "无",
+        "page": "72"
+    },
+    "plasminogen activator": {
+        "meaning": "纤溶酶原激活物",
+        "abbrev": "无",
+        "page": "72"
+    },
+    "fibrin": {
+        "meaning": "纤维蛋白",
+        "abbrev": "无",
+        "page": "69"
+    },
+    "fibrin degradation product": {
+        "meaning": "纤维蛋白降解产物",
+        "abbrev": "FDP",
+        "page": "73"
+    },
+    "fibrinolysis": {
+        "meaning": "纤维蛋白溶解",
+        "abbrev": "无",
+        "page": "72"
+    },
+    "plasminogen": {
+        "meaning": "纤维蛋白溶解酶原",
+        "abbrev": "无",
+        "page": "72"
+    },
+    "fibrinogen": {
+        "meaning": "纤维蛋白原",
+        "abbrev": "无",
+        "page": "69"
+    },
+    "restrictive hypoventilation": {
+        "meaning": "限制性通气不足",
+        "abbrev": "无",
+        "page": "143"
+    },
+    "adenosine": {
+        "meaning": "腺苷",
+        "abbrev": "无",
+        "page": "298"
+    },
+    "adenylyl cyclase": {
+        "meaning": "腺苷酸环化酶",
+        "abbrev": "AC",
+        "page": "24"
+    },
+    "relative refractory period": {
+        "meaning": "相对不应期",
+        "abbrev": "RRP",
+        "page": "39"
+    },
+    "digestion": {
+        "meaning": "消化",
+        "abbrev": "无",
+        "page": "165"
+    },
+    "tubular fluid": {
+        "meaning": "小管液",
+        "abbrev": "无",
+        "page": "220"
+    },
+    "microglia": {
+        "meaning": "小胶质细胞",
+        "abbrev": "无",
+        "page": "284"
+    },
+    "cerebellar ataxia": {
+        "meaning": "小脑性共济失调",
+        "abbrev": "无",
+        "page": "317"
+    },
+    "miniature end-plate potential": {
+        "meaning": "小终板电位",
+        "abbrev": "mEPP",
+        "page": "44"
+    },
+    "synergistic action": {
+        "meaning": "协同作用",
+        "abbrev": "无",
+        "page": "344"
+    },
+    "cardiac pump function": {
+        "meaning": "心泵功能",
+        "abbrev": "无",
+        "page": "79"
+    },
+    "cardiac catheterization": {
+        "meaning": "心导管检查",
+        "abbrev": "无",
+        "page": "87"
+    },
+    "electrocardiogram": {
+        "meaning": "心电图",
+        "abbrev": "ECG",
+        "page": "101"
+    },
+    "cardiac cycle": {
+        "meaning": "心动周期",
+        "abbrev": "无",
+        "page": "79"
+    },
+    "atrial natriuretic peptide": {
+        "meaning": "心房利尿钠肽",
+        "abbrev": "ANP",
+        "page": "127"
+    },
+    "period of atrial systole": {
+        "meaning": "心房收缩期",
+        "abbrev": "无",
+        "page": "80"
+    },
+    "cardiopulmonary receptor": {
+        "meaning": "心肺感受器",
+        "abbrev": "无",
+        "page": "123"
+    },
+    "myocardial homometric regulation": {
+        "meaning": "心肌等长调节",
+        "abbrev": "无",
+        "page": "86"
+    },
+    "cardiac contractility": {
+        "meaning": "心肌收缩能力",
+        "abbrev": "无",
+        "page": "86"
+    },
+    "myocardial heterometric autoregulation": {
+        "meaning": "心肌异长自身调节",
+        "abbrev": "无",
+        "page": "84"
+    },
+    "cardiac sympathetic afferent reflex": {
+        "meaning": "心交感传入反射",
+        "abbrev": "无",
+        "page": "124"
+    },
+    "cardiac sympathetic tone": {
+        "meaning": "心交感紧张",
+        "abbrev": "无",
+        "page": "120"
+    },
+    "cardiac reserve": {
+        "meaning": "心力储备",
+        "abbrev": "无",
+        "page": "82"
+    },
+    "heart rate": {
+        "meaning": "心率",
+        "abbrev": "无",
+        "page": "86"
+    },
+    "heart rate reserve": {
+        "meaning": "心率储备",
+        "abbrev": "无",
+        "page": "83"
+    },
+    "cardiac vagal tone": {
+        "meaning": "心迷走紧张",
+        "abbrev": "无",
+        "page": "120"
+    },
+    "period of ventricular filling": {
+        "meaning": "心室充盈期",
+        "abbrev": "无",
+        "page": "81"
+    },
+    "ventricular function curve": {
+        "meaning": "心室功能曲线",
+        "abbrev": "无",
+        "page": "83"
+    },
+    "ventricular stiffness": {
+        "meaning": "心室僵硬度",
+        "abbrev": "无",
+        "page": "85"
+    },
+    "period of ventricular systole": {
+        "meaning": "心室收缩期",
+        "abbrev": "无",
+        "page": "80"
+    },
+    "period of ventricular diastole": {
+        "meaning": "心室舒张期",
+        "abbrev": "无",
+        "page": "80"
+    },
+    "end-diastolic pressure": {
+        "meaning": "心室舒张期末压",
+        "abbrev": "EDP",
+        "page": "83"
+    },
+    "ventricular compliance": {
+        "meaning": "心室顺应性",
+        "abbrev": "无",
+        "page": "85"
+    },
+    "ventricular pressure-volume loop": {
+        "meaning": "心室压力- 容积环",
+        "abbrev": "无",
+        "page": "89"
+    },
+    "cardiac output": {
+        "meaning": "心输出量",
+        "abbrev": "无",
+        "page": "82"
+    },
+    "cardiovascular reflex": {
+        "meaning": "心血管反射",
+        "abbrev": "无",
+        "page": "122"
+    },
+    "cardiovascular system": {
+        "meaning": "心血管系统",
+        "abbrev": "无",
+        "page": "79"
+    },
+    "cardiovascular center": {
+        "meaning": "心血管中枢",
+        "abbrev": "无",
+        "page": "121"
+    },
+    "heart sound": {
+        "meaning": "心音",
+        "abbrev": "无",
+        "page": "90"
+    },
+    "phonocardiogram": {
+        "meaning": "心音图",
+        "abbrev": "无",
+        "page": "90"
+    },
+    "cardiac index": {
+        "meaning": "心指数",
+        "abbrev": "无",
+        "page": "82"
+    },
+    "metabolism": {
+        "meaning": "新陈代谢",
+        "abbrev": "无",
+        "page": "5"
+    },
+    "signal molecule": {
+        "meaning": "信号分子",
+        "abbrev": "无",
+        "page": "22"
+    },
+    "signal transduction": {
+        "meaning": "信号转导",
+        "abbrev": "无",
+        "page": "22"
+    },
+    "messenger molecule": {
+        "meaning": "信使分子",
+        "abbrev": "无",
+        "page": "22"
+    },
+    "astrocyte": {
+        "meaning": "星形胶质细胞",
+        "abbrev": "无",
+        "page": "284"
+    },
+    "travelling wave": {
+        "meaning": "行波",
+        "abbrev": "无",
+        "page": "269"
+    },
+    "behavioral thermoregulation": {
+        "meaning": "行为性体温调节",
+        "abbrev": "无",
+        "page": "209"
+    },
+    "excitation": {
+        "meaning": "兴奋",
+        "abbrev": "无",
+        "page": "6"
+    },
+    "excitation-contraction coupling": {
+        "meaning": "兴奋- 收缩耦联　",
+        "abbrev": "无",
+        "page": "47"
+    },
+    "excitability": {
+        "meaning": "兴奋性",
+        "abbrev": "无",
+        "page": "6"
+    },
+    "excitatory postsynaptic potential": {
+        "meaning": "兴奋性突触后电位",
+        "abbrev": "EPSP",
+        "page": "289"
+    },
+    "sexual maturity": {
+        "meaning": "性成熟",
+        "abbrev": "无",
+        "page": "397"
+    },
+    "sexual behavior": {
+        "meaning": "性行为",
+        "abbrev": "无",
+        "page": "398"
+    },
+    "sexual excitation": {
+        "meaning": "性兴奋",
+        "abbrev": "无",
+        "page": "398"
+    },
+    "pleural cavity": {
+        "meaning": "胸膜腔",
+        "abbrev": "无",
+        "page": "138"
+    },
+    "intrapleural pressure": {
+        "meaning": "胸膜腔内压",
+        "abbrev": "无",
+        "page": "138"
+    },
+    "thoracic breathing": {
+        "meaning": "胸式呼吸",
+        "abbrev": "无",
+        "page": "136"
+    },
+    "androgen-binding protein": {
+        "meaning": "雄激素结合蛋白",
+        "abbrev": "ABP",
+        "page": "384"
+    },
+    "androgen receptor": {
+        "meaning": "雄激素受体",
+        "abbrev": "AR",
+        "page": "385"
+    },
+    "androstenedione": {
+        "meaning": "雄烯二酮",
+        "abbrev": "无",
+        "page": "371"
+    },
+    "olfaction": {
+        "meaning": "嗅觉",
+        "abbrev": "无",
+        "page": "276"
+    },
+    "olfactory acuity": {
+        "meaning": "嗅敏度",
+        "abbrev": "无",
+        "page": "277"
+    },
+    "suspension stability": {
+        "meaning": "悬浮稳定性",
+        "abbrev": "无",
+        "page": "58"
+    },
+    "learning": {
+        "meaning": "学习",
+        "abbrev": "无",
+        "page": "332"
+    },
+    "blood-testis barrier": {
+        "meaning": "血- 睾屏障　",
+        "abbrev": "无",
+        "page": "384"
+    },
+    "vasoactive intestinal peptide": {
+        "meaning": "血管活性肠肽",
+        "abbrev": "VIP",
+        "page": "373"
+    },
+    "angiotensin  receptor": {
+        "meaning": "血管紧张素受体",
+        "abbrev": "AT  receptor",
+        "page": "124"
+    },
+    "angiotensinogen": {
+        "meaning": "血管紧张素原",
+        "abbrev": "无",
+        "page": "124"
+    },
+    "angiotensin-converting enzyme": {
+        "meaning": "血管紧张素转换酶",
+        "abbrev": "ACE",
+        "page": "124"
+    },
+    "vasopressin": {
+        "meaning": "中英文名词对照索引",
+        "abbrev": "VP",
+        "page": "126"
+    },
+    "von Willebrand factor": {
+        "meaning": "血管性血友病因子",
+        "abbrev": "vWF",
+        "page": "63"
+    },
+    "vasomotor nerve": {
+        "meaning": "血管运动神经",
+        "abbrev": "无",
+        "page": "120"
+    },
+    "hemoglobin": {
+        "meaning": "血红蛋白",
+        "abbrev": "Hb",
+        "page": "56"
+    },
+    "plasma": {
+        "meaning": "血浆",
+        "abbrev": "无",
+        "page": "53"
+    },
+    "plasma protein": {
+        "meaning": "血浆蛋白",
+        "abbrev": "无",
+        "page": "53"
+    },
+    "blood volume": {
+        "meaning": "血量",
+        "abbrev": "无",
+        "page": "76"
+    },
+    "hemodynamics": {
+        "meaning": "血流动力学",
+        "abbrev": "无",
+        "page": "107"
+    },
+    "blood flow": {
+        "meaning": "血流量",
+        "abbrev": "无",
+        "page": "107"
+    },
+    "resistance to blood flow": {
+        "meaning": "血流阻力",
+        "abbrev": "无",
+        "page": "108"
+    },
+    "blood-cerebrospinal fluid barrier": {
+        "meaning": "血- 脑脊液屏障",
+        "abbrev": "无",
+        "page": "133"
+    },
+    "blood-brain barrier": {
+        "meaning": "血- 脑屏障　",
+        "abbrev": "无",
+        "page": "133"
+    },
+    "serum": {
+        "meaning": "血清",
+        "abbrev": "无",
+        "page": "70"
+    },
+    "serotonin": {
+        "meaning": "血清素",
+        "abbrev": "无",
+        "page": "297"
+    },
+    "thromboxane A2": {
+        "meaning": "血栓烷A",
+        "abbrev": "TXA2",
+        "page": "64"
+    },
+    "blood cell": {
+        "meaning": "血细胞",
+        "abbrev": "无",
+        "page": "53"
+    },
+    "hematocrit": {
+        "meaning": "血细胞比容",
+        "abbrev": "Hct",
+        "page": "54"
+    },
+    "diapedesis": {
+        "meaning": "血细胞渗出",
+        "abbrev": "无",
+        "page": "61"
+    },
+    "platelet； thrombocyte": {
+        "meaning": "血小板",
+        "abbrev": "无",
+        "page": "54"
+    },
+    "platelet secretion": {
+        "meaning": "血小板分泌",
+        "abbrev": "无",
+        "page": "64"
+    },
+    "platelet aggregation": {
+        "meaning": "血小板聚集",
+        "abbrev": "无",
+        "page": "64"
+    },
+    "platelet adhesion": {
+        "meaning": "血小板黏附",
+        "abbrev": "无",
+        "page": "64"
+    },
+    "thrombopoietin": {
+        "meaning": "血小板生成素",
+        "abbrev": "TPO",
+        "page": "66"
+    },
+    "platelet release": {
+        "meaning": "血小板释放",
+        "abbrev": "无",
+        "page": "64"
+    },
+    "blood group": {
+        "meaning": "血型",
+        "abbrev": "无",
+        "page": "73"
+    },
+    "blood pressure": {
+        "meaning": "血压",
+        "abbrev": "无",
+        "page": "109"
+    },
+    "oxygen saturation of blood": {
+        "meaning": "血氧饱和度",
+        "abbrev": "无",
+        "page": "152"
+    },
+    "oxygen content of blood": {
+        "meaning": "血氧含量",
+        "abbrev": "无",
+        "page": "152"
+    },
+    "oxygen capacity of blood": {
+        "meaning": "血氧容量",
+        "abbrev": "无",
+        "page": "152"
+    },
+    "blood viscosity": {
+        "meaning": "血液黏滞度",
+        "abbrev": "无",
+        "page": "54"
+    },
+    "blood coagulation": {
+        "meaning": "血液凝固",
+        "abbrev": "无",
+        "page": "67"
+    },
+    "blood circulation": {
+        "meaning": "血液循环",
+        "abbrev": "无",
+        "page": "79"
+    },
+    "hemophilia": {
+        "meaning": "血友病",
+        "abbrev": "无",
+        "page": "69"
+    },
+    "circulation system": {
+        "meaning": "循环系统",
+        "abbrev": "无",
+        "page": "79"
+    },
+    "mean circulatory filling pressure": {
+        "meaning": "循环系统平均充盈压",
+        "abbrev": "无",
+        "page": "109"
+    },
+    "baroreceptor": {
+        "meaning": "压力感受器",
+        "abbrev": "无",
+        "page": "122"
+    },
+    "baroreceptor reflex": {
+        "meaning": "压力感受性反射",
+        "abbrev": "无",
+        "page": "122"
+    },
+    "pressure-volume curve": {
+        "meaning": "压力- 容积曲线　",
+        "abbrev": "无",
+        "page": "140"
+    },
+    "pressure diuresis": {
+        "meaning": "压力性利尿",
+        "abbrev": "无",
+        "page": "129"
+    },
+    "nicotinic receptor": {
+        "meaning": "烟碱受体",
+        "abbrev": "N receptor",
+        "page": "296"
+    },
+    "nicotine-like action": {
+        "meaning": "烟碱样作用",
+        "abbrev": "无",
+        "page": "296"
+    },
+    "rostral ventrolateral medulla": {
+        "meaning": "延髓头端腹外侧区",
+        "abbrev": "RVLM",
+        "page": "121"
+    },
+    "caudal ventrolateral medulla": {
+        "meaning": "延髓尾端腹外侧区",
+        "abbrev": "CVLM",
+        "page": "122"
+    },
+    "mineralocorticoid": {
+        "meaning": "盐皮质激素",
+        "abbrev": "MC",
+        "page": "368"
+    },
+    "hydrochloric acid": {
+        "meaning": "盐酸",
+        "abbrev": "HCl",
+        "page": "171"
+    },
+    "intra ocular pressure": {
+        "meaning": "眼内压",
+        "abbrev": "无",
+        "page": "257"
+    },
+    "nystagmus": {
+        "meaning": "眼震颤",
+        "abbrev": "无",
+        "page": "275"
+    },
+    "oxygenation": {
+        "meaning": "氧合",
+        "abbrev": "无",
+        "page": "152"
+    },
+    "oxyhemoglobin": {
+        "meaning": "氧合血红蛋白",
+        "abbrev": "HbO",
+        "page": "2"
+    },
+    "oxyhemoglobin dissociation curve": {
+        "meaning": "氧合血红蛋白解离曲线",
+        "abbrev": "无",
+        "page": "152"
+    },
+    "oxidation": {
+        "meaning": "氧化",
+        "abbrev": "无",
+        "page": "152"
+    },
+    "oxygen dissociation curve": {
+        "meaning": "氧解离曲线",
+        "abbrev": "无",
+        "page": "152"
+    },
+    "thermal equivalent of oxygen": {
+        "meaning": "氧热价",
+        "abbrev": "无",
+        "page": "198"
+    },
+    "oxygen debt": {
+        "meaning": "氧债",
+        "abbrev": "无",
+        "page": "163"
+    },
+    "itch sensation": {
+        "meaning": "痒觉",
+        "abbrev": "无",
+        "page": "251"
+    },
+    "pharmacomechanical coupling": {
+        "meaning": "药物- 机械耦联　",
+        "abbrev": "无",
+        "page": "51"
+    },
+    "nyctalopia": {
+        "meaning": "夜盲症",
+        "abbrev": "无",
+        "page": "261"
+    },
+    "fluid mosaic model": {
+        "meaning": "液态镶嵌模型",
+        "abbrev": "无",
+        "page": "13"
+    },
+    "fluid-phase endocytosis": {
+        "meaning": "液相入胞",
+        "abbrev": "无",
+        "page": "21"
+    },
+    "axillary temperature": {
+        "meaning": "腋下温度",
+        "abbrev": "无",
+        "page": "205"
+    },
+    "monoiodotyrosine": {
+        "meaning": "一碘酪氨酸",
+        "abbrev": "MIT",
+        "page": "357"
+    },
+    "first hemostasis": {
+        "meaning": "一期止血",
+        "abbrev": "无",
+        "page": "67"
+    },
+    "nitric oxide": {
+        "meaning": "一氧化氮",
+        "abbrev": "NO",
+        "page": "27"
+    },
+    "nitric oxide synthase": {
+        "meaning": "一氧化氮合酶",
+        "abbrev": "NOS",
+        "page": "126"
+    },
+    "carbon monoxide": {
+        "meaning": "一氧化碳",
+        "abbrev": "CO",
+        "page": "128"
+    },
+    "ethacrynic acid": {
+        "meaning": "依他尼酸",
+        "abbrev": "无",
+        "page": "222"
+    },
+    "trypsin": {
+        "meaning": "胰蛋白酶",
+        "abbrev": "无",
+        "page": "180"
+    },
+    "trypsinogen": {
+        "meaning": "胰蛋白酶原",
+        "abbrev": "无",
+        "page": "180"
+    },
+    "insulin": {
+        "meaning": "胰岛素",
+        "abbrev": "无",
+        "page": "373"
+    },
+    "insulin resistance": {
+        "meaning": "胰岛素抵抗",
+        "abbrev": "无",
+        "page": "374"
+    },
+    "insulin receptor": {
+        "meaning": "胰岛素受体",
+        "abbrev": "无",
+        "page": "373"
+    },
+    "insulin receptor substrate": {
+        "meaning": "胰岛素受体底物",
+        "abbrev": "IRS",
+        "page": "373"
+    },
+    "insulin-like growth factor": {
+        "meaning": "胰岛素样生长因子",
+        "abbrev": "IGF",
+        "page": "349"
+    },
+    "proinsulin": {
+        "meaning": "胰岛素原",
+        "abbrev": "无",
+        "page": "373"
+    },
+    "pancreatic amylase": {
+        "meaning": "胰淀粉酶",
+        "abbrev": "无",
+        "page": "180"
+    },
+    "pancreatic polypeptide": {
+        "meaning": "胰多肽",
+        "abbrev": "PP",
+        "page": "373"
+    },
+    "glucagon": {
+        "meaning": "胰高血糖素",
+        "abbrev": "无",
+        "page": "373"
+    },
+    "glucagon-like peptide-1": {
+        "meaning": "胰高血糖素样肽-1",
+        "abbrev": "GLP-1",
+        "page": "377"
+    },
+    "pancreatic juice": {
+        "meaning": "胰液",
+        "abbrev": "无",
+        "page": "180"
+    },
+    "pancreatic lipase": {
+        "meaning": "胰脂肪酶",
+        "abbrev": "无",
+        "page": "180"
+    },
+    "migrating motor complex": {
+        "meaning": "移行性复合运动",
+        "abbrev": "MMC",
+        "page": "178"
+    },
+    "loss of memory": {
+        "meaning": "遗忘",
+        "abbrev": "无",
+        "page": "333"
+    },
+    "nucleus ambiguus": {
+        "meaning": "疑核",
+        "abbrev": "无",
+        "page": "122"
+    },
+    "acetylcholine": {
+        "meaning": "乙酰胆碱",
+        "abbrev": "ACh",
+        "page": "43"
+    },
+    "acetylcholine-sensitive neuron": {
+        "meaning": "乙酰胆碱敏感神经元",
+        "abbrev": "无",
+        "page": "295"
+    },
+    "acetylcholinesterase": {
+        "meaning": "乙酰胆碱酯酶　",
+        "abbrev": "AChE",
+        "page": "43"
+    },
+    "acetazolamide": {
+        "meaning": "乙酰唑胺",
+        "abbrev": "无",
+        "page": "224"
+    },
+    "ectopic pacemaker": {
+        "meaning": "异位起搏点",
+        "abbrev": "无",
+        "page": "99"
+    },
+    "paradoxical sleep": {
+        "meaning": "异相睡眠",
+        "abbrev": "PS",
+        "page": "329"
+    },
+    "heteroreceptor": {
+        "meaning": "异源性受体",
+        "abbrev": "无",
+        "page": "294"
+    },
+    "depression": {
+        "meaning": "抑郁",
+        "abbrev": "无",
+        "page": "325"
+    },
+    "inhibition": {
+        "meaning": "抑制",
+        "abbrev": "无",
+        "page": "6"
+    },
+    "inhibiting hormone": {
+        "meaning": "抑制激素",
+        "abbrev": "无",
+        "page": "348"
+    },
+    "inhibitory area": {
+        "meaning": "抑制区",
+        "abbrev": "无",
+        "page": "311"
+    },
+    "inhibin": {
+        "meaning": "抑制素",
+        "abbrev": "无",
+        "page": "385"
+    },
+    "inhibitory postsynaptic potential": {
+        "meaning": "抑制性突触后电位",
+        "abbrev": "IPSP",
+        "page": "289"
+    },
+    "facilitated diffusion": {
+        "meaning": "易化扩散",
+        "abbrev": "无",
+        "page": "15"
+    },
+    "facilitatory area": {
+        "meaning": "易化区",
+        "abbrev": "无",
+        "page": "311"
+    },
+    "intention tremor": {
+        "meaning": "意向性震颤",
+        "abbrev": "无",
+        "page": "317"
+    },
+    "tenase complex": {
+        "meaning": "酶复合物",
+        "abbrev": "无",
+        "page": "69"
+    },
+    "pudendal nerve": {
+        "meaning": "阴部神经",
+        "abbrev": "无",
+        "page": "239"
+    },
+    "emergency reaction": {
+        "meaning": "应急反应",
+        "abbrev": "无",
+        "page": "372"
+    },
+    "infancy": {
+        "meaning": "婴儿期",
+        "abbrev": "无",
+        "page": "400"
+    },
+    "trophic action": {
+        "meaning": "营养性作用",
+        "abbrev": "无",
+        "page": "283"
+    },
+    "forced vital capacity": {
+        "meaning": "用力肺活量",
+        "abbrev": "FVC",
+        "page": "144"
+    },
+    "forced expiratory volume": {
+        "meaning": "用力呼气量",
+        "abbrev": "FEV",
+        "page": "144"
+    },
+    "forced breathing": {
+        "meaning": "用力呼吸",
+        "abbrev": "无",
+        "page": "136"
+    },
+    "dominant hemisphere": {
+        "meaning": "优势半球",
+        "abbrev": "无",
+        "page": "334"
+    },
+    "preferential pathway": {
+        "meaning": "优势传导通路",
+        "abbrev": "无",
+        "page": "98"
+    },
+    "dominant follicle": {
+        "meaning": "优势卵泡",
+        "abbrev": "无",
+        "page": "388"
+    },
+    "myelinated nerve fiber": {
+        "meaning": "有髓鞘神经纤维",
+        "abbrev": "无",
+        "page": "281"
+    },
+    "effective refractory period": {
+        "meaning": "有效不应期",
+        "abbrev": "ERP",
+        "page": "95"
+    },
+    "effective  filtration pressure": {
+        "meaning": "有效滤过压",
+        "abbrev": "EFP",
+        "page": "117"
+    },
+    "circuitous channel": {
+        "meaning": "迂回通路",
+        "abbrev": "无",
+        "page": "115"
+    },
+    "residual volume": {
+        "meaning": "余气量",
+        "abbrev": "RV",
+        "page": "144"
+    },
+    "pleasure": {
+        "meaning": "愉快",
+        "abbrev": "无",
+        "page": "325"
+    },
+    "threshold stimulus": {
+        "meaning": "阈刺激",
+        "abbrev": "无",
+        "page": "37"
+    },
+    "threshold potential": {
+        "meaning": "阈电位",
+        "abbrev": "无",
+        "page": "37"
+    },
+    "threshold intensity": {
+        "meaning": "阈强度",
+        "abbrev": "无",
+        "page": "6"
+    },
+    "threshold": {
+        "meaning": "阈值",
+        "abbrev": "无",
+        "page": "6"
+    },
+    "irisin": {
+        "meaning": "鸢尾素",
+        "abbrev": "无",
+        "page": "381"
+    },
+    "primary force": {
+        "meaning": "原动力",
+        "abbrev": "无",
+        "page": "136"
+    },
+    "primary active transport": {
+        "meaning": "原发性主动转运",
+        "abbrev": "无",
+        "page": "18"
+    },
+    "tropomyosin": {
+        "meaning": "原肌球蛋白",
+        "abbrev": "无",
+        "page": "45"
+    },
+    "primordial follicle": {
+        "meaning": "原始卵泡",
+        "abbrev": "无",
+        "page": "387"
+    },
+    "far point": {
+        "meaning": "远点",
+        "abbrev": "无",
+        "page": "255"
+    },
+    "telecrine": {
+        "meaning": "远距分泌",
+        "abbrev": "无",
+        "page": "9"
+    },
+    "distal convoluted tubule": {
+        "meaning": "远曲小管",
+        "abbrev": "无",
+        "page": "213"
+    },
+    "hyperopia": {
+        "meaning": "远视",
+        "abbrev": "无",
+        "page": "256"
+    },
+    "menstruation": {
+        "meaning": "月经",
+        "abbrev": "无",
+        "page": "390"
+    },
+    "menstrual cycle": {
+        "meaning": "月经周期",
+        "abbrev": "无",
+        "page": "390"
+    },
+    "permissive action": {
+        "meaning": "允许作用",
+        "abbrev": "无",
+        "page": "344"
+    },
+    "progestin": {
+        "meaning": "孕激素",
+        "abbrev": "无",
+        "page": "388"
+    },
+    "progesterone": {
+        "meaning": "孕酮",
+        "abbrev": "P",
+        "page": "388"
+    },
+    "motor unit": {
+        "meaning": "运动单位",
+        "abbrev": "无",
+        "page": "49"
+    },
+    "premotor area": {
+        "meaning": "运动前区",
+        "abbrev": "无",
+        "page": "317"
+    },
+    "motor aphasia": {
+        "meaning": "运动失语症",
+        "abbrev": "无",
+        "page": "335"
+    },
+    "motor column": {
+        "meaning": "运动柱",
+        "abbrev": "无",
+        "page": "318"
+    },
+    "aplastic anemia": {
+        "meaning": "再生障碍性贫血",
+        "abbrev": "无",
+        "page": "56"
+    },
+    "carrier": {
+        "meaning": "载体",
+        "abbrev": "无",
+        "page": "17"
+    },
+    "hemopoiesis": {
+        "meaning": "造血",
+        "abbrev": "无",
+        "page": "56"
+    },
+    "hemopoietic stem cell": {
+        "meaning": "造血干细胞",
+        "abbrev": "HSC",
+        "page": "56"
+    },
+    "hemopoietic microenvironment": {
+        "meaning": "造血微环境",
+        "abbrev": "无",
+        "page": "56"
+    },
+    "hematopoietic progenitor cell": {
+        "meaning": "造血祖细胞",
+        "abbrev": "无",
+        "page": "56"
+    },
+    "gate control theory": {
+        "meaning": "闸门控制理论",
+        "abbrev": "无",
+        "page": "250"
+    },
+    "shivering thermogenesis": {
+        "meaning": "战栗产热",
+        "abbrev": "无",
+        "page": "207"
+    },
+    "tension-velocity relation curve": {
+        "meaning": "张力- 速度关系曲线　",
+        "abbrev": "无",
+        "page": "48"
+    },
+    "recruitment receptor": {
+        "meaning": "招募型受体",
+        "abbrev": "无",
+        "page": "27"
+    },
+    "acupuncture": {
+        "meaning": "针刺",
+        "abbrev": "无",
+        "page": "251"
+    },
+    "integration": {
+        "meaning": "整合",
+        "abbrev": "无",
+        "page": "122"
+    },
+    "normal pacemaker": {
+        "meaning": "正常起搏点",
+        "abbrev": "无",
+        "page": "99"
+    },
+    "positive feedback": {
+        "meaning": "正反馈",
+        "abbrev": "无",
+        "page": "10"
+    },
+    "emmetropia": {
+        "meaning": "正视眼",
+        "abbrev": "无",
+        "page": "256"
+    },
+    "forward typing": {
+        "meaning": "正向定型",
+        "abbrev": "无",
+        "page": "75"
+    },
+    "positive  dromotropic  action": {
+        "meaning": "正性变传导作用",
+        "abbrev": "无",
+        "page": "119"
+    },
+    "positive inotropic action": {
+        "meaning": "正性变力作用",
+        "abbrev": "无",
+        "page": "119"
+    },
+    "positive chronotropic action": {
+        "meaning": "正性变时作用",
+        "abbrev": "无",
+        "page": "119"
+    },
+    "bronchial provocation test": {
+        "meaning": "支气管激发试验",
+        "abbrev": "BPT",
+        "page": "146"
+    },
+    "acromegaly": {
+        "meaning": "肢端肥大症",
+        "abbrev": "无",
+        "page": "350"
+    },
+    "lipid hormone": {
+        "meaning": "脂类激素",
+        "abbrev": "无",
+        "page": "340"
+    },
+    "adiponectin": {
+        "meaning": "脂联素",
+        "abbrev": "无",
+        "page": "128"
+    },
+    "lipoxygenase": {
+        "meaning": "脂氧合酶",
+        "abbrev": "LOX",
+        "page": "379"
+    },
+    "rectal temperature": {
+        "meaning": "直肠温度",
+        "abbrev": "无",
+        "page": "205"
+    },
+    "direct calorimetry": {
+        "meaning": "直接测热法",
+        "abbrev": "无",
+        "page": "197"
+    },
+    "direct force": {
+        "meaning": "直接动力",
+        "abbrev": "无",
+        "page": "136"
+    },
+    "direct pathway": {
+        "meaning": "直接通路",
+        "abbrev": "无",
+        "page": "314"
+    },
+    "thoroughfare channel": {
+        "meaning": "直捷通路",
+        "abbrev": "无",
+        "page": "116"
+    },
+    "vasa recta": {
+        "meaning": "直小血管",
+        "abbrev": "无",
+        "page": "214"
+    },
+    "hemostasis": {
+        "meaning": "止血",
+        "abbrev": "无",
+        "page": "66"
+    },
+    "proton pump": {
+        "meaning": "质子泵",
+        "abbrev": "无",
+        "page": "19"
+    },
+    "macula densa": {
+        "meaning": "致密斑",
+        "abbrev": "无",
+        "page": "214"
+    },
+    "central chemoreceptor": {
+        "meaning": "中枢化学感受器",
+        "abbrev": "无",
+        "page": "158"
+    },
+    "central nervous system": {
+        "meaning": "中枢神经系统",
+        "abbrev": "无",
+        "page": "280"
+    },
+    "central thermoreceptor": {
+        "meaning": "中枢温度感受器",
+        "abbrev": "无",
+        "page": "210"
+    },
+    "central inspiratory activity generator": {
+        "meaning": "中枢吸气活动发生器",
+        "abbrev": "无",
+        "page": "158"
+    },
+    "central delay": {
+        "meaning": "中枢延搁　",
+        "abbrev": "无",
+        "page": "300"
+    },
+    "central venous pressure": {
+        "meaning": "中心静脉压",
+        "abbrev": "无",
+        "page": "113"
+    },
+    "medium spiny neuron": {
+        "meaning": "中型多棘神经元",
+        "abbrev": "MSN",
+        "page": "315"
+    },
+    "neutrophil": {
+        "meaning": "中性粒细胞",
+        "abbrev": "无",
+        "page": "61"
+    },
+    "end-plate potential": {
+        "meaning": "终板电位",
+        "abbrev": "EPP",
+        "page": "43"
+    },
+    "end-plate membrane": {
+        "meaning": "终板膜",
+        "abbrev": "无",
+        "page": "43"
+    },
+    "terminal cisterna": {
+        "meaning": "终池",
+        "abbrev": "无",
+        "page": "44"
+    },
+    "intensive care unit": {
+        "meaning": "重症监护病房",
+        "abbrev": "ICU",
+        "page": "163"
+    },
+    "cyclic recruitment": {
+        "meaning": "周期募集",
+        "abbrev": "无",
+        "page": "388"
+    },
+    "peripheral nervous system": {
+        "meaning": "周围神经系统",
+        "abbrev": "无",
+        "page": "280"
+    },
+    "axoplasm": {
+        "meaning": "轴浆",
+        "abbrev": "无",
+        "page": "282"
+    },
+    "axoplasmic transport": {
+        "meaning": "轴浆运输",
+        "abbrev": "无",
+        "page": "282"
+    },
+    "axial flow": {
+        "meaning": "轴流",
+        "abbrev": "无",
+        "page": "108"
+    },
+    "axon hillock": {
+        "meaning": "轴丘",
+        "abbrev": "无",
+        "page": "281"
+    },
+    "axial cord": {
+        "meaning": "轴索",
+        "abbrev": "无",
+        "page": "281"
+    },
+    "axon": {
+        "meaning": "轴突",
+        "abbrev": "无",
+        "page": "280"
+    },
+    "dwarfism": {
+        "meaning": "侏儒症",
+        "abbrev": "无",
+        "page": "349"
+    },
+    "active transport": {
+        "meaning": "主动转运",
+        "abbrev": "无",
+        "page": "18"
+    },
+    "chief cell": {
+        "meaning": "主细胞",
+        "abbrev": "无",
+        "page": "171"
+    },
+    "adaptor protein": {
+        "meaning": "转接蛋白",
+        "abbrev": "无",
+        "page": "27"
+    },
+    "catch-up growth": {
+        "meaning": "追赶生长",
+        "abbrev": "无",
+        "page": "401"
+    },
+    "implantation": {
+        "meaning": "着床",
+        "abbrev": "无",
+        "page": "393"
+    },
+    "postural reflex": {
+        "meaning": "姿势反射",
+        "abbrev": "无",
+        "page": "309"
+    },
+    "spontaneous  electrical  activity of brain": {
+        "meaning": "自发脑电活动",
+        "abbrev": "无",
+        "page": "326"
+    },
+    "autocrine": {
+        "meaning": "自分泌",
+        "abbrev": "无",
+        "page": "9"
+    },
+    "autorhythmic cell": {
+        "meaning": "自律细胞",
+        "abbrev": "无",
+        "page": "90"
+    },
+    "automaticity": {
+        "meaning": "自律性",
+        "abbrev": "无",
+        "page": "90"
+    },
+    "natural killer cell": {
+        "meaning": "自然杀伤细胞",
+        "abbrev": "NK cell",
+        "page": "63"
+    },
+    "autoregulation": {
+        "meaning": "自身调节",
+        "abbrev": "无",
+        "page": "9"
+    },
+    "autoreceptor": {
+        "meaning": "自身受体",
+        "abbrev": "无",
+        "page": "294"
+    },
+    "autologous blood transfusion": {
+        "meaning": "自体输血",
+        "abbrev": "无",
+        "page": "77"
+    },
+    "self renewal": {
+        "meaning": "自我更新",
+        "abbrev": "无",
+        "page": "56"
+    },
+    "autonomic nervous system": {
+        "meaning": "自主神经系统",
+        "abbrev": "无",
+        "page": "319"
+    },
+    "autonomic thermoregulation": {
+        "meaning": "自主性体温调节",
+        "abbrev": "无",
+        "page": "209"
+    },
+    "longitudinal tubule": {
+        "meaning": "纵管",
+        "abbrev": "无",
+        "page": "44"
+    },
+    "longitudinal sarcoplasmic reticulum": {
+        "meaning": "纵行肌质网",
+        "abbrev": "LSR",
+        "page": "44"
+    },
+    "blocker": {
+        "meaning": "阻断剂",
+        "abbrev": "无",
+        "page": "293"
+    },
+    "obstructive hypoventilation": {
+        "meaning": "阻塞性通气不足",
+        "abbrev": "无",
+        "page": "143"
+    },
+    "histamine": {
+        "meaning": "组胺",
+        "abbrev": "无",
+        "page": "175"
+    },
+    "gas exchange in tissue": {
+        "meaning": "组织换气",
+        "abbrev": "无",
+        "page": "147"
+    },
+    "interstitial fluid 或 tissue fluid": {
+        "meaning": "组织液",
+        "abbrev": "无",
+        "page": "117"
+    },
+    "tissue factor": {
+        "meaning": "组织因子",
+        "abbrev": "TF",
+        "page": "69"
+    },
+    "tissue factor pathway": {
+        "meaning": "组织因子途径",
+        "abbrev": "无",
+        "page": "69"
+    },
+    "tissue factor pathway inhibitor": {
+        "meaning": "组织因子途径抑制物",
+        "abbrev": "TFPI",
+        "page": "72"
+    },
+    "maximum  repolarization  potential": {
+        "meaning": "最大复极电位",
+        "abbrev": "MRP",
+        "page": "93"
+    },
+    "maximal hearing threshold": {
+        "meaning": "最大可听阈",
+        "abbrev": "无",
+        "page": "266"
+    },
+    "maximal voluntary ventilation": {
+        "meaning": "最大随意通气量",
+        "abbrev": "无",
+        "page": "145"
+    },
+    "final common path": {
+        "meaning": "最后公路",
+        "abbrev": "无",
+        "page": "309"
+    },
+    "optimal initial length": {
+        "meaning": "最适初长度",
+        "abbrev": "无",
+        "page": "48"
+    },
+    "left ventricular ejection fraction": {
+        "meaning": "左心室射血分数",
+        "abbrev": "LVEF",
+        "page": "88"
+    }
+}
