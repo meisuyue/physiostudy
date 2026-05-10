@@ -1,0 +1,2781 @@
+{
+  "-ase": {
+    "meaning": "酶",
+    "example": {
+      "word": "phosphodiesterase",
+      "translation": "磷酸二酯酶"
+    }
+  },
+  "-blast": {
+    "meaning": "未成熟细胞；母细胞",
+    "example": {
+      "word": "megaloblastic anemia",
+      "translation": "巨幼细胞贫血"
+    }
+  },
+  "-crine": {
+    "meaning": "分泌",
+    "example": {
+      "word": "endocrine",
+      "translation": "内分泌"
+    }
+  },
+  "-cyte": {
+    "meaning": "细胞",
+    "example": {
+      "word": "erythrocyte； red blood cell",
+      "translation": "红细胞"
+    }
+  },
+  "-emia": {
+    "meaning": "血液状态；血症",
+    "example": {
+      "word": "anemia",
+      "translation": "贫血"
+    }
+  },
+  "-gen": {
+    "meaning": "产生物；原；生成来源",
+    "example": {
+      "word": "agglutinogen",
+      "translation": "凝集原"
+    }
+  },
+  "-genesis": {
+    "meaning": "发生；生成",
+    "example": {
+      "word": "spermatogenesis",
+      "translation": "精子发生"
+    }
+  },
+  "-genic": {
+    "meaning": "产生的；源性的",
+    "example": {
+      "word": "myogenic mechanism",
+      "translation": "肌源性机制"
+    }
+  },
+  "-gram": {
+    "meaning": "记录图",
+    "example": {
+      "word": "electroencephalogram",
+      "translation": "脑电图"
+    }
+  },
+  "-graphia": {
+    "meaning": "书写",
+    "example": {
+      "word": "agraphia",
+      "translation": "失写症"
+    }
+  },
+  "-graphy": {
+    "meaning": "描记；成像检查",
+    "example": {
+      "word": "echocardiography",
+      "translation": "超声心动图"
+    }
+  },
+  "-in": {
+    "meaning": "物质；蛋白；激素常用后缀",
+    "example": {
+      "word": "renin",
+      "translation": "肾素"
+    }
+  },
+  "-kinesis/-kinesia": {
+    "meaning": "运动",
+    "example": {
+      "word": "chemokine",
+      "translation": "趋化因子"
+    }
+  },
+  "-lexia": {
+    "meaning": "阅读",
+    "example": {
+      "word": "alexia",
+      "translation": "失读症"
+    }
+  },
+  "-lysis": {
+    "meaning": "溶解；分解",
+    "example": {
+      "word": "fibrinolysis",
+      "translation": "纤维蛋白溶解"
+    }
+  },
+  "-metric/-metry": {
+    "meaning": "测量",
+    "example": {
+      "word": "isometric contraction",
+      "translation": "等长收缩"
+    }
+  },
+  "-oid": {
+    "meaning": "样；类似",
+    "example": {
+      "word": "steroid hormone",
+      "translation": "类固醇激素"
+    }
+  },
+  "-oma": {
+    "meaning": "肿瘤；瘤样",
+    "example": {
+      "word": "glaucoma",
+      "translation": "青光眼"
+    }
+  },
+  "-opia": {
+    "meaning": "视觉；视力状态",
+    "example": {
+      "word": "myopia",
+      "translation": "近视"
+    }
+  },
+  "-osis": {
+    "meaning": "状态；病理状态",
+    "example": {
+      "word": "cyanosis",
+      "translation": "发绀"
+    }
+  },
+  "-oxia": {
+    "meaning": "氧状态",
+    "example": {
+      "word": "hypoxia",
+      "translation": "低氧"
+    }
+  },
+  "-phage": {
+    "meaning": "吞噬；吞噬细胞",
+    "example": {
+      "word": "macrophage",
+      "translation": "巨噬细胞"
+    }
+  },
+  "-phasia": {
+    "meaning": "言语；语言障碍",
+    "example": {
+      "word": "conduction aphasia",
+      "translation": "传导性失语症"
+    }
+  },
+  "-phil": {
+    "meaning": "嗜……的；亲……的",
+    "example": {
+      "word": "eosinophil",
+      "translation": "嗜酸性粒细胞"
+    }
+  },
+  "-pnea": {
+    "meaning": "呼吸",
+    "example": {
+      "word": "eupnea",
+      "translation": "平静呼吸"
+    }
+  },
+  "-poiesis/-poietin": {
+    "meaning": "生成；造血",
+    "example": {
+      "word": "erythropoietin",
+      "translation": "促红细胞生成素"
+    }
+  },
+  "-porin": {
+    "meaning": "携带/转运蛋白",
+    "example": {
+      "word": "aquaporin",
+      "translation": "水通道蛋白"
+    }
+  },
+  "-praxia": {
+    "meaning": "动作执行",
+    "example": {
+      "word": "apraxia",
+      "translation": "失用症"
+    }
+  },
+  "-stasis": {
+    "meaning": "停滞；稳定；止血",
+    "example": {
+      "word": "hemostasis",
+      "translation": "止血"
+    }
+  },
+  "-tension": {
+    "meaning": "张力；压力",
+    "example": {
+      "word": "surface tension",
+      "translation": "表面张力"
+    }
+  },
+  "-tonic/-tonus": {
+    "meaning": "张力；紧张",
+    "example": {
+      "word": "muscle tonus",
+      "translation": "肌紧张"
+    }
+  },
+  "-trophy": {
+    "meaning": "营养；生长",
+    "example": {
+      "word": "neurotrophic factor； neurotrophin",
+      "translation": "神经营养因子"
+    }
+  },
+  "-tropin/-tropic": {
+    "meaning": "促；趋向；影响",
+    "example": {
+      "word": "ionotropic receptor",
+      "translation": "促离子型受体"
+    }
+  },
+  "-uria": {
+    "meaning": "尿中出现；尿症",
+    "example": {
+      "word": "albuminuria",
+      "translation": "白蛋白尿"
+    }
+  },
+  "a-/an-": {
+    "meaning": "无；缺乏；否定",
+    "example": {
+      "word": "anemia",
+      "translation": "贫血"
+    }
+  },
+  "absorpt-": {
+    "meaning": "吸收",
+    "example": {
+      "word": "reabsorption",
+      "translation": "重吸收"
+    }
+  },
+  "acetylcholin-/cholin-": {
+    "meaning": "乙酰胆碱；胆碱",
+    "example": {
+      "word": "cholinergic receptor",
+      "translation": "胆碱能受体"
+    }
+  },
+  "acoust-/acoustic": {
+    "meaning": "听觉；声学",
+    "example": {
+      "word": "acoustic impedance",
+      "translation": "声阻抗"
+    }
+  },
+  "actin-": {
+    "meaning": "肌动蛋白",
+    "example": {
+      "word": "actin",
+      "translation": "肌动蛋白"
+    }
+  },
+  "adapt-": {
+    "meaning": "适应",
+    "example": {
+      "word": "adaptation",
+      "translation": "适应"
+    }
+  },
+  "aden-/adeno-": {
+    "meaning": "腺苷；腺体",
+    "example": {
+      "word": "cyclic adenosine monophosphate",
+      "translation": "环磷酸腺苷"
+    }
+  },
+  "adip-/adipo-": {
+    "meaning": "脂肪",
+    "example": {
+      "word": "brown adipose tissue",
+      "translation": "褐色脂肪组织"
+    }
+  },
+  "adipose-": {
+    "meaning": "脂肪组织",
+    "example": {
+      "word": "brown adipose tissue",
+      "translation": "褐色脂肪组织"
+    }
+  },
+  "adren-/adreno-": {
+    "meaning": "肾上腺",
+    "example": {
+      "word": "adrenocortical hormone； corticoid",
+      "translation": "肾上腺皮质激素"
+    }
+  },
+  "agglutin-": {
+    "meaning": "凝集",
+    "example": {
+      "word": "agglutination",
+      "translation": "凝集"
+    }
+  },
+  "agon-": {
+    "meaning": "驱动；激动；作用于受体",
+    "example": {
+      "word": "agonist",
+      "translation": "激动剂"
+    }
+  },
+  "albumin-": {
+    "meaning": "白蛋白",
+    "example": {
+      "word": "albuminuria",
+      "translation": "白蛋白尿"
+    }
+  },
+  "alpha-": {
+    "meaning": "α；第一类或α型",
+    "example": {
+      "word": "alpha block",
+      "translation": "α阻断"
+    }
+  },
+  "alveol-/alveolar": {
+    "meaning": "肺泡",
+    "example": {
+      "word": "alveolar ventilation",
+      "translation": "肺泡通气量"
+    }
+  },
+  "amino-": {
+    "meaning": "氨基",
+    "example": {
+      "word": "gamma aminobutyric acid",
+      "translation": "γ-氨基丁酸"
+    }
+  },
+  "amyl-": {
+    "meaning": "淀粉",
+    "example": {
+      "word": "salivary amylase",
+      "translation": "唾液淀粉酶"
+    }
+  },
+  "andr-/andro-": {
+    "meaning": "雄激素；男性",
+    "example": {
+      "word": "androgen-binding protein",
+      "translation": "雄激素结合蛋白"
+    }
+  },
+  "angi-/angio-": {
+    "meaning": "血管",
+    "example": {
+      "word": "renin-angiotensin system",
+      "translation": "肾素- 血管紧张素系统"
+    }
+  },
+  "angiotensin-": {
+    "meaning": "血管紧张素",
+    "example": {
+      "word": "renin-angiotensin system",
+      "translation": "肾素- 血管紧张素系统"
+    }
+  },
+  "antagon-": {
+    "meaning": "对抗；拮抗",
+    "example": {
+      "word": "antagonist",
+      "translation": "拮抗剂"
+    }
+  },
+  "antero-": {
+    "meaning": "向前；顺行",
+    "example": {
+      "word": "anterograde transport",
+      "translation": "顺向运输"
+    }
+  },
+  "anti-": {
+    "meaning": "抗；反对；抑制",
+    "example": {
+      "word": "antidiuretic hormone",
+      "translation": "抗利尿激素"
+    }
+  },
+  "antiport-": {
+    "meaning": "反向转运",
+    "example": {
+      "word": "antiporter",
+      "translation": "反向转运体"
+    }
+  },
+  "anxiety-": {
+    "meaning": "焦虑",
+    "example": {
+      "word": "anxiety",
+      "translation": "焦虑"
+    }
+  },
+  "apnea-/apnoea": {
+    "meaning": "无呼吸；呼吸暂停",
+    "example": {
+      "word": "apneusis",
+      "translation": "长吸式呼吸"
+    }
+  },
+  "apparatus-": {
+    "meaning": "器；装置；复合结构",
+    "example": {
+      "word": "vestibular apparatus",
+      "translation": "前庭器官"
+    }
+  },
+  "arteri-/arterio-": {
+    "meaning": "动脉",
+    "example": {
+      "word": "arterial blood pressure",
+      "translation": "动脉血压"
+    }
+  },
+  "atri-/atrio-": {
+    "meaning": "心房",
+    "example": {
+      "word": "atrioventricular delay",
+      "translation": "房室延搁"
+    }
+  },
+  "auto-": {
+    "meaning": "自身；自动",
+    "example": {
+      "word": "autonomic nervous system",
+      "translation": "自主神经系统"
+    }
+  },
+  "autonom-": {
+    "meaning": "自主；自律",
+    "example": {
+      "word": "autonomic nervous system",
+      "translation": "自主神经系统"
+    }
+  },
+  "ax-/axial": {
+    "meaning": "轴；轴向",
+    "example": {
+      "word": "axial flow",
+      "translation": "轴流"
+    }
+  },
+  "axon-/axo-": {
+    "meaning": "轴突",
+    "example": {
+      "word": "axon",
+      "translation": "轴突"
+    }
+  },
+  "baro-": {
+    "meaning": "压力",
+    "example": {
+      "word": "baroreceptor",
+      "translation": "压力感受器"
+    }
+  },
+  "bas-/baso-": {
+    "meaning": "碱性；嗜碱",
+    "example": {
+      "word": "basophil",
+      "translation": "嗜碱性粒细胞"
+    }
+  },
+  "beta-": {
+    "meaning": "β；第二类或β型",
+    "example": {
+      "word": "β-endorphin",
+      "translation": "β-内啡肽"
+    }
+  },
+  "bi-/bin-": {
+    "meaning": "二；双",
+    "example": {
+      "word": "binocular vision",
+      "translation": "双眼视觉"
+    }
+  },
+  "bio-": {
+    "meaning": "生命；生物",
+    "example": {
+      "word": "bioelectricity",
+      "translation": "生物电"
+    }
+  },
+  "bolus-": {
+    "meaning": "食团",
+    "example": {
+      "word": "bolus",
+      "translation": "食团"
+    }
+  },
+  "brady-": {
+    "meaning": "慢",
+    "example": {
+      "word": "bradykinin",
+      "translation": "缓激肽"
+    }
+  },
+  "bronch-/broncho-": {
+    "meaning": "支气管",
+    "example": {
+      "word": "bronchial provocation test",
+      "translation": "支气管激发试验"
+    }
+  },
+  "bulb-/bulbo-": {
+    "meaning": "延髓；球部",
+    "example": {
+      "word": "corticobulbar tract",
+      "translation": "皮层脑干束"
+    }
+  },
+  "calci-/calc-": {
+    "meaning": "钙",
+    "example": {
+      "word": "calcium pump",
+      "translation": "钙泵"
+    }
+  },
+  "calcitonin-": {
+    "meaning": "降钙素",
+    "example": {
+      "word": "calcitonin",
+      "translation": "降钙素"
+    }
+  },
+  "calor-": {
+    "meaning": "热量",
+    "example": {
+      "word": "indirect calorimetry",
+      "translation": "间接测热法"
+    }
+  },
+  "carbamino-": {
+    "meaning": "氨基甲酰",
+    "example": {
+      "word": "carbaminohemoglobin",
+      "translation": "氨基甲酰血红蛋白"
+    }
+  },
+  "carbon-/carbo-": {
+    "meaning": "碳；二氧化碳；碳酸",
+    "example": {
+      "word": "carbon dioxide dissociation curve",
+      "translation": "CO2解离曲线"
+    }
+  },
+  "cardi-/cardio-": {
+    "meaning": "心脏",
+    "example": {
+      "word": "echocardiography",
+      "translation": "超声心动图"
+    }
+  },
+  "cascade-": {
+    "meaning": "级联反应",
+    "example": {
+      "word": "phosphorylation cascade",
+      "translation": "磷酸化级联反应"
+    }
+  },
+  "catechol-": {
+    "meaning": "儿茶酚",
+    "example": {
+      "word": "catecholamine",
+      "translation": "儿茶酚胺"
+    }
+  },
+  "center-": {
+    "meaning": "中枢；中心",
+    "example": {
+      "word": "respiratory center",
+      "translation": "呼吸中枢"
+    }
+  },
+  "central-": {
+    "meaning": "中心；中枢",
+    "example": {
+      "word": "central venous pressure",
+      "translation": "中心静脉压"
+    }
+  },
+  "cerebell-": {
+    "meaning": "小脑",
+    "example": {
+      "word": "spinocerebellum",
+      "translation": "脊髓小脑"
+    }
+  },
+  "cerebr-/cerebro-": {
+    "meaning": "大脑；脑",
+    "example": {
+      "word": "cerebrocerebellum",
+      "translation": "皮层小脑"
+    }
+  },
+  "channel-": {
+    "meaning": "通道",
+    "example": {
+      "word": "voltage-gated ion channel",
+      "translation": "电压门控通道"
+    }
+  },
+  "chemo-": {
+    "meaning": "化学",
+    "example": {
+      "word": "chemoreceptor",
+      "translation": "化学感受器"
+    }
+  },
+  "chlor-/chloro-": {
+    "meaning": "氯",
+    "example": {
+      "word": "chloride current",
+      "translation": "氯电流"
+    }
+  },
+  "chol-/chole-": {
+    "meaning": "胆；胆汁",
+    "example": {
+      "word": "cholecalciferol",
+      "translation": "胆钙化醇"
+    }
+  },
+  "chrom-/chromaffin": {
+    "meaning": "颜色；嗜铬",
+    "example": {
+      "word": "enterochromaffin-like cell",
+      "translation": "肠嗜铬样细胞"
+    }
+  },
+  "chymo-": {
+    "meaning": "糜；食糜相关",
+    "example": {
+      "word": "chymotrypsinogen",
+      "translation": "糜蛋白酶原"
+    }
+  },
+  "clamp-": {
+    "meaning": "钳制；钳夹",
+    "example": {
+      "word": "patch clamp",
+      "translation": "膜片钳"
+    }
+  },
+  "clearance-": {
+    "meaning": "清除",
+    "example": {
+      "word": "clearance rate",
+      "translation": "清除率"
+    }
+  },
+  "coagul-": {
+    "meaning": "凝固；凝血",
+    "example": {
+      "word": "coagulation factor； clotting factor",
+      "translation": "凝血因子"
+    }
+  },
+  "cochle-/cochleo-": {
+    "meaning": "耳蜗",
+    "example": {
+      "word": "cochlea",
+      "translation": "耳蜗"
+    }
+  },
+  "column-": {
+    "meaning": "柱",
+    "example": {
+      "word": "cortical column",
+      "translation": "皮层柱"
+    }
+  },
+  "conduct-": {
+    "meaning": "传导；导电",
+    "example": {
+      "word": "conduction",
+      "translation": "传导"
+    }
+  },
+  "contra-": {
+    "meaning": "相反；对侧",
+    "example": {
+      "word": "contraception",
+      "translation": "避孕"
+    }
+  },
+  "contract-": {
+    "meaning": "收缩",
+    "example": {
+      "word": "contractility",
+      "translation": "收缩性"
+    }
+  },
+  "coron-/coronary": {
+    "meaning": "冠状；冠脉",
+    "example": {
+      "word": "coronary circulation",
+      "translation": "冠脉循环"
+    }
+  },
+  "corpus-": {
+    "meaning": "体；小体",
+    "example": {
+      "word": "corpus luteum",
+      "translation": "黄体"
+    }
+  },
+  "cortic-/cortical": {
+    "meaning": "皮质；皮层",
+    "example": {
+      "word": "cortical nephron",
+      "translation": "皮质肾单位"
+    }
+  },
+  "cortic-/cortico-": {
+    "meaning": "皮层；皮质",
+    "example": {
+      "word": "corticospinal tract",
+      "translation": "皮层脊髓束"
+    }
+  },
+  "cotransport-": {
+    "meaning": "共转运",
+    "example": {
+      "word": "sodium-glucose linked cotransporter",
+      "translation": "Na+-葡萄糖耦联转运体"
+    }
+  },
+  "counter-": {
+    "meaning": "逆；相反",
+    "example": {
+      "word": "countercurrent exchange",
+      "translation": "逆流交换"
+    }
+  },
+  "coupl-/coupled": {
+    "meaning": "耦联",
+    "example": {
+      "word": "G protein-coupled receptor",
+      "translation": "G 蛋白耦联受体"
+    }
+  },
+  "crin-/crine": {
+    "meaning": "分泌",
+    "example": {
+      "word": "paracrine",
+      "translation": "旁分泌"
+    }
+  },
+  "cross-": {
+    "meaning": "交叉；横向",
+    "example": {
+      "word": "cross-match test",
+      "translation": "交叉配血试验"
+    }
+  },
+  "current-": {
+    "meaning": "电流",
+    "example": {
+      "word": "dark current",
+      "translation": "暗电流"
+    }
+  },
+  "cycl-/cyclic": {
+    "meaning": "环状；循环",
+    "example": {
+      "word": "cyclic adenosine monophosphate",
+      "translation": "环磷酸腺苷"
+    }
+  },
+  "cyclase-": {
+    "meaning": "环化酶",
+    "example": {
+      "word": "guanylyl cyclase",
+      "translation": "鸟苷酸环化酶"
+    }
+  },
+  "cyto-": {
+    "meaning": "细胞",
+    "example": {
+      "word": "adaptive cytoprotection",
+      "translation": "适应性细胞保护作用"
+    }
+  },
+  "cytokine-/kine": {
+    "meaning": "细胞因子/趋化因子相关",
+    "example": {
+      "word": "chemokine",
+      "translation": "趋化因子"
+    }
+  },
+  "de-": {
+    "meaning": "去除；降低；反向",
+    "example": {
+      "word": "depolarization",
+      "translation": "去极化"
+    }
+  },
+  "dead space": {
+    "meaning": "无效腔",
+    "example": {
+      "word": "anatomical dead space",
+      "translation": "解剖无效腔"
+    }
+  },
+  "dendr-/dendrito-": {
+    "meaning": "树突",
+    "example": {
+      "word": "dendrite",
+      "translation": "树突"
+    }
+  },
+  "depolar-": {
+    "meaning": "去极化",
+    "example": {
+      "word": "depolarization",
+      "translation": "去极化"
+    }
+  },
+  "di-": {
+    "meaning": "二；双；两个",
+    "example": {
+      "word": "diad",
+      "translation": "二联体"
+    }
+  },
+  "diastol-/diastole": {
+    "meaning": "舒张期",
+    "example": {
+      "word": "diastole",
+      "translation": "舒张期"
+    }
+  },
+  "digest-": {
+    "meaning": "消化",
+    "example": {
+      "word": "chemical digestion",
+      "translation": "化学性消化"
+    }
+  },
+  "diphospho-": {
+    "meaning": "二磷酸",
+    "example": {
+      "word": "2，3-diphosphoglycerate",
+      "translation": "2 ，3-二磷酸甘油酸"
+    }
+  },
+  "dis-": {
+    "meaning": "去；分离；解除",
+    "example": {
+      "word": "disinhibition",
+      "translation": "去抑制"
+    }
+  },
+  "distal-": {
+    "meaning": "远端",
+    "example": {
+      "word": "distal convoluted tubule",
+      "translation": "远曲小管"
+    }
+  },
+  "diures-/diuretic": {
+    "meaning": "利尿",
+    "example": {
+      "word": "osmotic diuresis",
+      "translation": "渗透性利尿"
+    }
+  },
+  "dopamin-": {
+    "meaning": "多巴胺",
+    "example": {
+      "word": "dopamine",
+      "translation": "多巴胺"
+    }
+  },
+  "dors-/dorsal": {
+    "meaning": "背侧",
+    "example": {
+      "word": "dorsal respiratory group",
+      "translation": "背侧呼吸组"
+    }
+  },
+  "dynorphin-": {
+    "meaning": "强啡肽",
+    "example": {
+      "word": "dynorphin",
+      "translation": "强啡肽"
+    }
+  },
+  "dys-": {
+    "meaning": "异常；困难",
+    "example": {
+      "word": "dyspnea",
+      "translation": "呼吸困难"
+    }
+  },
+  "dyspnea-": {
+    "meaning": "呼吸困难",
+    "example": {
+      "word": "dyspnea",
+      "translation": "呼吸困难"
+    }
+  },
+  "effector-": {
+    "meaning": "效应器",
+    "example": {
+      "word": "G protein effector",
+      "translation": "G 蛋白效应器"
+    }
+  },
+  "eject-": {
+    "meaning": "射出；射血",
+    "example": {
+      "word": "ejection fraction",
+      "translation": "射血分数"
+    }
+  },
+  "electr-/electro-": {
+    "meaning": "电",
+    "example": {
+      "word": "electrochemical driving force",
+      "translation": "电- 化学驱动力"
+    }
+  },
+  "emotion-": {
+    "meaning": "情绪",
+    "example": {
+      "word": "emotion",
+      "translation": "情绪"
+    }
+  },
+  "endo-": {
+    "meaning": "内；内部",
+    "example": {
+      "word": "endocrine",
+      "translation": "内分泌"
+    }
+  },
+  "endocyt-": {
+    "meaning": "入胞",
+    "example": {
+      "word": "endocytosis",
+      "translation": "入胞作用"
+    }
+  },
+  "endorphin-": {
+    "meaning": "内啡肽",
+    "example": {
+      "word": "endorphin",
+      "translation": "内啡肽"
+    }
+  },
+  "endothel-/endotheli-": {
+    "meaning": "内皮",
+    "example": {
+      "word": "endothelium-derived relaxing factor",
+      "translation": "内皮舒张因子"
+    }
+  },
+  "enter-/entero-": {
+    "meaning": "肠",
+    "example": {
+      "word": "enteric nervous system",
+      "translation": "肠神经系统"
+    }
+  },
+  "eosin-/eosino-": {
+    "meaning": "嗜酸",
+    "example": {
+      "word": "eosinophil",
+      "translation": "嗜酸性粒细胞"
+    }
+  },
+  "epi-": {
+    "meaning": "上；在……之上",
+    "example": {
+      "word": "epinephrine",
+      "translation": "肾上腺素"
+    }
+  },
+  "epinephr-": {
+    "meaning": "肾上腺素",
+    "example": {
+      "word": "epinephrine",
+      "translation": "肾上腺素"
+    }
+  },
+  "epitheli-/epithelial-": {
+    "meaning": "上皮",
+    "example": {
+      "word": "epithelial sodium channel",
+      "translation": "上皮钠通道"
+    }
+  },
+  "erythr-/erythro-": {
+    "meaning": "红；红细胞",
+    "example": {
+      "word": "erythrocyte； red blood cell",
+      "translation": "红细胞"
+    }
+  },
+  "estrogen-/estro-": {
+    "meaning": "雌激素；发情",
+    "example": {
+      "word": "estrogen",
+      "translation": "雌激素"
+    }
+  },
+  "eu-": {
+    "meaning": "正常；良好",
+    "example": {
+      "word": "eupnea",
+      "translation": "平静呼吸"
+    }
+  },
+  "exchange-": {
+    "meaning": "交换",
+    "example": {
+      "word": "Na+-Ca2+ exchange current",
+      "translation": "Na+-Ca2+交换电流"
+    }
+  },
+  "excret-": {
+    "meaning": "排泄",
+    "example": {
+      "word": "excretion",
+      "translation": "排泄"
+    }
+  },
+  "exo-": {
+    "meaning": "外；向外",
+    "example": {
+      "word": "exocytosis",
+      "translation": "出胞作用"
+    }
+  },
+  "exocyt-": {
+    "meaning": "出胞",
+    "example": {
+      "word": "exocytosis",
+      "translation": "出胞作用"
+    }
+  },
+  "expir-": {
+    "meaning": "呼气",
+    "example": {
+      "word": "expiration",
+      "translation": "呼气"
+    }
+  },
+  "extra-": {
+    "meaning": "外；额外",
+    "example": {
+      "word": "extracellular fluid",
+      "translation": "细胞外液"
+    }
+  },
+  "factor-": {
+    "meaning": "因子",
+    "example": {
+      "word": "tissue factor",
+      "translation": "组织因子"
+    }
+  },
+  "fast-": {
+    "meaning": "快",
+    "example": {
+      "word": "fast response cell",
+      "translation": "快反应细胞"
+    }
+  },
+  "fear-": {
+    "meaning": "恐惧",
+    "example": {
+      "word": "fear",
+      "translation": "恐惧"
+    }
+  },
+  "feed-forward": {
+    "meaning": "前馈",
+    "example": {
+      "word": "feed-forward",
+      "translation": "前馈"
+    }
+  },
+  "feedback-": {
+    "meaning": "反馈",
+    "example": {
+      "word": "negative feedback",
+      "translation": "负反馈"
+    }
+  },
+  "ferro-/ferr-": {
+    "meaning": "铁",
+    "example": {
+      "word": "iron deficiency anemia",
+      "translation": "缺铁性贫血"
+    }
+  },
+  "fertil-": {
+    "meaning": "受精；生育",
+    "example": {
+      "word": "fertilization",
+      "translation": "受精"
+    }
+  },
+  "fibrin-/fibro-": {
+    "meaning": "纤维；纤维蛋白",
+    "example": {
+      "word": "fibrinogen",
+      "translation": "纤维蛋白原"
+    }
+  },
+  "filtr-/filtration": {
+    "meaning": "滤过",
+    "example": {
+      "word": "filtration membrane",
+      "translation": "滤过膜"
+    }
+  },
+  "flow-": {
+    "meaning": "流量；流动",
+    "example": {
+      "word": "coronary blood flow",
+      "translation": "冠脉血流量"
+    }
+  },
+  "follicul-/follicle": {
+    "meaning": "卵泡；小囊",
+    "example": {
+      "word": "primary follicle",
+      "translation": "初级卵泡"
+    }
+  },
+  "gamma-": {
+    "meaning": "γ；第三类或γ型",
+    "example": {
+      "word": "gamma aminobutyric acid",
+      "translation": "γ-氨基丁酸"
+    }
+  },
+  "gangli-/ganglion-": {
+    "meaning": "神经节",
+    "example": {
+      "word": "dorsal root ganglia",
+      "translation": "背根神经节"
+    }
+  },
+  "gastr-/gastro-": {
+    "meaning": "胃",
+    "example": {
+      "word": "gastrin",
+      "translation": "促胃液素"
+    }
+  },
+  "gated-": {
+    "meaning": "门控",
+    "example": {
+      "word": "ligand-gated ion channel",
+      "translation": "配体门控通道"
+    }
+  },
+  "gen-/geno-": {
+    "meaning": "基因；产生",
+    "example": {
+      "word": "genotype",
+      "translation": "基因型"
+    }
+  },
+  "gest-/pregn-": {
+    "meaning": "妊娠；怀孕",
+    "example": {
+      "word": "pregnancy",
+      "translation": "妊娠"
+    }
+  },
+  "ghrel-": {
+    "meaning": "促生长激素释放素；饥饿相关",
+    "example": {
+      "word": "ghrelin",
+      "translation": "促生长激素释放素"
+    }
+  },
+  "glia-/glio-": {
+    "meaning": "胶质",
+    "example": {
+      "word": "neuroglial cell",
+      "translation": "神经胶质细胞"
+    }
+  },
+  "globulin-": {
+    "meaning": "球蛋白",
+    "example": {
+      "word": "thyroxine binding globulin",
+      "translation": "甲状腺素结合球蛋白"
+    }
+  },
+  "glomerul-/glomerulo-": {
+    "meaning": "肾小球",
+    "example": {
+      "word": "glomerular filtration rate",
+      "translation": "肾小球滤过率"
+    }
+  },
+  "gluc-/glyc-": {
+    "meaning": "糖；葡萄糖",
+    "example": {
+      "word": "glucose transporter",
+      "translation": "葡萄糖转运体"
+    }
+  },
+  "glycero-/glycer-": {
+    "meaning": "甘油；甘油酸",
+    "example": {
+      "word": "2，3-diphosphoglycerate",
+      "translation": "2 ，3-二磷酸甘油酸"
+    }
+  },
+  "gonad-/gonado-": {
+    "meaning": "性腺",
+    "example": {
+      "word": "human chorionic gonadotropin",
+      "translation": "人绒毛膜促性腺激素"
+    }
+  },
+  "granul-/granulo-": {
+    "meaning": "颗粒；粒细胞",
+    "example": {
+      "word": "granulocyte",
+      "translation": "粒细胞"
+    }
+  },
+  "growth-": {
+    "meaning": "生长",
+    "example": {
+      "word": "epidermal growth factor",
+      "translation": "表皮生长因子"
+    }
+  },
+  "guan-/guanylyl": {
+    "meaning": "鸟苷；鸟嘌呤",
+    "example": {
+      "word": "guanylyl cyclase",
+      "translation": "鸟苷酸环化酶"
+    }
+  },
+  "gust-": {
+    "meaning": "味觉",
+    "example": {
+      "word": "gustation",
+      "translation": "味觉"
+    }
+  },
+  "hem-/hemat-/hemo-": {
+    "meaning": "血；血液",
+    "example": {
+      "word": "hemoglobin",
+      "translation": "血红蛋白"
+    }
+  },
+  "hepat-/hepato-": {
+    "meaning": "肝",
+    "example": {
+      "word": "hepatic failure",
+      "translation": "肝衰竭"
+    }
+  },
+  "histamin-": {
+    "meaning": "组胺",
+    "example": {
+      "word": "histamine",
+      "translation": "组胺"
+    }
+  },
+  "homeo-": {
+    "meaning": "相同；稳定",
+    "example": {
+      "word": "homeostasis",
+      "translation": "稳态"
+    }
+  },
+  "homeostas-/homeostasis": {
+    "meaning": "稳态",
+    "example": {
+      "word": "homeostasis",
+      "translation": "稳态"
+    }
+  },
+  "hormon-": {
+    "meaning": "激素",
+    "example": {
+      "word": "thyroid hormone",
+      "translation": "甲状腺激素"
+    }
+  },
+  "hydro-": {
+    "meaning": "水；氢；液体",
+    "example": {
+      "word": "hydrogen sulfide",
+      "translation": "硫化氢"
+    }
+  },
+  "hydroxy-": {
+    "meaning": "羟基",
+    "example": {
+      "word": "5-hydroxytryptamine",
+      "translation": "5-羟色胺"
+    }
+  },
+  "hyper-": {
+    "meaning": "高；过度；超过正常",
+    "example": {
+      "word": "hyperpolarization",
+      "translation": "超极化"
+    }
+  },
+  "hyperpolar-": {
+    "meaning": "超极化",
+    "example": {
+      "word": "hyperpolarization",
+      "translation": "超极化"
+    }
+  },
+  "hypo-": {
+    "meaning": "低；不足；低于正常",
+    "example": {
+      "word": "hypoxia",
+      "translation": "低氧"
+    }
+  },
+  "hypothalam-": {
+    "meaning": "下丘脑",
+    "example": {
+      "word": "hypothalamic regulatory peptide",
+      "translation": "下丘脑调节肽"
+    }
+  },
+  "in-/im-": {
+    "meaning": "不；向内；在内",
+    "example": {
+      "word": "inactivated state",
+      "translation": "失活态"
+    }
+  },
+  "inspir-": {
+    "meaning": "吸气",
+    "example": {
+      "word": "inspiration",
+      "translation": "吸气"
+    }
+  },
+  "insul-/insulin": {
+    "meaning": "胰岛素；胰岛",
+    "example": {
+      "word": "preproinsulin",
+      "translation": "前胰岛素原"
+    }
+  },
+  "inter-": {
+    "meaning": "间；之间",
+    "example": {
+      "word": "interstitial fluid 或 tissue fluid",
+      "translation": "组织液"
+    }
+  },
+  "interstit-": {
+    "meaning": "间质；组织间隙",
+    "example": {
+      "word": "interstitial fluid 或 tissue fluid",
+      "translation": "组织液"
+    }
+  },
+  "intra-": {
+    "meaning": "内；内部",
+    "example": {
+      "word": "intracrine",
+      "translation": "胞内分泌"
+    }
+  },
+  "iod-/iodo-": {
+    "meaning": "碘",
+    "example": {
+      "word": "iodide trap",
+      "translation": "碘捕获"
+    }
+  },
+  "ion-": {
+    "meaning": "离子",
+    "example": {
+      "word": "ion channel receptor",
+      "translation": "离子通道型受体"
+    }
+  },
+  "iso-": {
+    "meaning": "相等；相同",
+    "example": {
+      "word": "isotonic solution",
+      "translation": "等张溶液"
+    }
+  },
+  "junction-": {
+    "meaning": "连接；接头",
+    "example": {
+      "word": "gap junction",
+      "translation": "缝隙连接"
+    }
+  },
+  "juxta-": {
+    "meaning": "近旁；邻近",
+    "example": {
+      "word": "juxtaglomerular apparatus",
+      "translation": "球旁器"
+    }
+  },
+  "kali-/potass-": {
+    "meaning": "钾",
+    "example": {
+      "word": "potassium leak channel",
+      "translation": "钾漏通道"
+    }
+  },
+  "kin-/kine-": {
+    "meaning": "运动；移动",
+    "example": {
+      "word": "protein kinase",
+      "translation": "蛋白激酶"
+    }
+  },
+  "kinase-": {
+    "meaning": "激酶；磷酸化酶",
+    "example": {
+      "word": "protein kinase",
+      "translation": "蛋白激酶"
+    }
+  },
+  "kinin-": {
+    "meaning": "激肽",
+    "example": {
+      "word": "bradykinin",
+      "translation": "缓激肽"
+    }
+  },
+  "lact-": {
+    "meaning": "乳；泌乳",
+    "example": {
+      "word": "milk ejection reflex",
+      "translation": "射乳反射"
+    }
+  },
+  "lact-/lacto-": {
+    "meaning": "乳；乳酸",
+    "example": {
+      "word": "human placental lactogen",
+      "translation": "人胎盘催乳素"
+    }
+  },
+  "lateral-": {
+    "meaning": "侧方；外侧",
+    "example": {
+      "word": "lateral inhibition",
+      "translation": "侧向抑制"
+    }
+  },
+  "learn-": {
+    "meaning": "学习",
+    "example": {
+      "word": "associative learning",
+      "translation": "联合型学习"
+    }
+  },
+  "lept-": {
+    "meaning": "瘦素；轻/薄",
+    "example": {
+      "word": "leptin",
+      "translation": "瘦素"
+    }
+  },
+  "leuk-/leuko-": {
+    "meaning": "白；白细胞",
+    "example": {
+      "word": "leukocyte； white blood cell",
+      "translation": "白细胞"
+    }
+  },
+  "ligand-": {
+    "meaning": "配体；结合分子",
+    "example": {
+      "word": "ligand-gated ion channel",
+      "translation": "配体门控通道"
+    }
+  },
+  "lipas-": {
+    "meaning": "脂肪酶",
+    "example": {
+      "word": "colipase",
+      "translation": "辅脂酶"
+    }
+  },
+  "lipase-": {
+    "meaning": "脂酶",
+    "example": {
+      "word": "phospholipase A2",
+      "translation": "磷脂酶A2"
+    }
+  },
+  "lipo-/lip-": {
+    "meaning": "脂肪；脂质",
+    "example": {
+      "word": "phospholipase C",
+      "translation": "磷脂酶C"
+    }
+  },
+  "load-": {
+    "meaning": "负荷",
+    "example": {
+      "word": "afterload",
+      "translation": "后负荷"
+    }
+  },
+  "long-": {
+    "meaning": "长；长期",
+    "example": {
+      "word": "long-term potentiation",
+      "translation": "长时程增强"
+    }
+  },
+  "longitudin-": {
+    "meaning": "纵向",
+    "example": {
+      "word": "longitudinal tubule",
+      "translation": "纵管"
+    }
+  },
+  "lute-/luteum": {
+    "meaning": "黄体；黄色",
+    "example": {
+      "word": "corpus luteum",
+      "translation": "黄体"
+    }
+  },
+  "lymph-/lympho-": {
+    "meaning": "淋巴",
+    "example": {
+      "word": "lymphocyte",
+      "translation": "淋巴细胞"
+    }
+  },
+  "macro-": {
+    "meaning": "大；巨噬",
+    "example": {
+      "word": "macrophage",
+      "translation": "巨噬细胞"
+    }
+  },
+  "mal-": {
+    "meaning": "坏；不良；异常",
+    "example": {
+      "word": "malignant hyperthermia",
+      "translation": "恶性高热"
+    }
+  },
+  "mechano-/mechan-": {
+    "meaning": "机械",
+    "example": {
+      "word": "mechanically-gated ion channel",
+      "translation": "机械门控通道"
+    }
+  },
+  "medull-/medulla": {
+    "meaning": "髓质；髓",
+    "example": {
+      "word": "juxtamedullary nephron",
+      "translation": "近髓肾单位"
+    }
+  },
+  "mega-/megakaryo-": {
+    "meaning": "巨核；大型细胞核",
+    "example": {
+      "word": "megakaryocyte",
+      "translation": "巨核细胞"
+    }
+  },
+  "mega-/megalo-": {
+    "meaning": "大；巨大",
+    "example": {
+      "word": "megakaryocyte",
+      "translation": "巨核细胞"
+    }
+  },
+  "membran-": {
+    "meaning": "膜",
+    "example": {
+      "word": "membrane potential",
+      "translation": "膜电位"
+    }
+  },
+  "memory-": {
+    "meaning": "记忆",
+    "example": {
+      "word": "long-term memory",
+      "translation": "长时程记忆"
+    }
+  },
+  "messenger-": {
+    "meaning": "信使",
+    "example": {
+      "word": "second messenger",
+      "translation": "第二信使"
+    }
+  },
+  "metabol-/metabo-": {
+    "meaning": "代谢",
+    "example": {
+      "word": "energy metabolism",
+      "translation": "能量代谢"
+    }
+  },
+  "micell-": {
+    "meaning": "胶束",
+    "example": {
+      "word": "mixed micelle",
+      "translation": "混合微胶粒"
+    }
+  },
+  "micro-": {
+    "meaning": "小；微小",
+    "example": {
+      "word": "cochlear microphonic potential",
+      "translation": "耳蜗微音器电位"
+    }
+  },
+  "micturit-": {
+    "meaning": "排尿",
+    "example": {
+      "word": "micturition reflex",
+      "translation": "排尿反射"
+    }
+  },
+  "modulat-": {
+    "meaning": "调节；调制",
+    "example": {
+      "word": "neuromodulator",
+      "translation": "神经调质"
+    }
+  },
+  "mon-/mono-": {
+    "meaning": "单；单核",
+    "example": {
+      "word": "monocyte",
+      "translation": "单核细胞"
+    }
+  },
+  "mono-": {
+    "meaning": "单；一个",
+    "example": {
+      "word": "monocyte",
+      "translation": "单核细胞"
+    }
+  },
+  "mot-/motor": {
+    "meaning": "运动",
+    "example": {
+      "word": "motor unit",
+      "translation": "运动单位"
+    }
+  },
+  "motor-": {
+    "meaning": "运动",
+    "example": {
+      "word": "primary motor cortex",
+      "translation": "初级运动皮层"
+    }
+  },
+  "mucos-/mucus-": {
+    "meaning": "黏液；黏膜",
+    "example": {
+      "word": "mucus-bicarbonate barrier",
+      "translation": "黏液- 碳酸氢盐屏障"
+    }
+  },
+  "multi-": {
+    "meaning": "多；多个",
+    "example": {
+      "word": "multiunit smooth muscle",
+      "translation": "多个单位平滑肌"
+    }
+  },
+  "muscarin-": {
+    "meaning": "毒蕈碱",
+    "example": {
+      "word": "muscarinic receptor",
+      "translation": "毒蕈碱受体"
+    }
+  },
+  "my-/myo-": {
+    "meaning": "肌肉",
+    "example": {
+      "word": "myosin",
+      "translation": "肌球蛋白"
+    }
+  },
+  "myel-/myelo-": {
+    "meaning": "髓；骨髓；脊髓",
+    "example": {
+      "word": "myelinated nerve fiber",
+      "translation": "有髓鞘神经纤维"
+    }
+  },
+  "myop-": {
+    "meaning": "近视",
+    "example": {
+      "word": "myopia",
+      "translation": "近视"
+    }
+  },
+  "myosin-": {
+    "meaning": "肌球蛋白",
+    "example": {
+      "word": "myosin light chain",
+      "translation": "肌球蛋白轻链"
+    }
+  },
+  "natri-/sodio-": {
+    "meaning": "钠",
+    "example": {
+      "word": "sodium-potassium pump",
+      "translation": "钠- 钾泵"
+    }
+  },
+  "natriuret-": {
+    "meaning": "排钠利尿",
+    "example": {
+      "word": "natriuretic peptide",
+      "translation": "利尿钠肽"
+    }
+  },
+  "nephr-/nephro-": {
+    "meaning": "肾；肾单位",
+    "example": {
+      "word": "nephron",
+      "translation": "肾单位"
+    }
+  },
+  "nerv-": {
+    "meaning": "神经",
+    "example": {
+      "word": "nervous system",
+      "translation": "神经系统"
+    }
+  },
+  "neur-/neuro-": {
+    "meaning": "神经",
+    "example": {
+      "word": "neurotransmitter",
+      "translation": "神经递质"
+    }
+  },
+  "neutr-/neutro-": {
+    "meaning": "中性",
+    "example": {
+      "word": "neutrophil",
+      "translation": "中性粒细胞"
+    }
+  },
+  "nicotin-": {
+    "meaning": "烟碱",
+    "example": {
+      "word": "neuron-type nicotinic receptor",
+      "translation": "神经元型烟碱受体"
+    }
+  },
+  "nocicept-": {
+    "meaning": "伤害感受；痛觉",
+    "example": {
+      "word": "nociceptor",
+      "translation": "伤害性感受器"
+    }
+  },
+  "non-": {
+    "meaning": "非；不",
+    "example": {
+      "word": "nondeclarative memory",
+      "translation": "非陈述性记忆"
+    }
+  },
+  "norepinephr-": {
+    "meaning": "去甲肾上腺素",
+    "example": {
+      "word": "norepinephrine",
+      "translation": "去甲肾上腺素"
+    }
+  },
+  "nucleotid-": {
+    "meaning": "核苷酸",
+    "example": {
+      "word": "hyperpolarization-activated cyclic nucleotide-gated cation channel",
+      "translation": "超极化激活的环核苷酸门控阳离子通道"
+    }
+  },
+  "nucleus-": {
+    "meaning": "核",
+    "example": {
+      "word": "nucleus tractus solitarii",
+      "translation": "孤束核"
+    }
+  },
+  "olfact-/odor-": {
+    "meaning": "嗅觉；气味",
+    "example": {
+      "word": "odorant receptor",
+      "translation": "气味物质受体"
+    }
+  },
+  "oligo-": {
+    "meaning": "少；少量",
+    "example": {
+      "word": "oligodendrocyte",
+      "translation": "少突胶质细胞"
+    }
+  },
+  "oligodendro-": {
+    "meaning": "少突胶质",
+    "example": {
+      "word": "oligodendrocyte",
+      "translation": "少突胶质细胞"
+    }
+  },
+  "opioid-": {
+    "meaning": "阿片样",
+    "example": {
+      "word": "opioid peptide",
+      "translation": "阿片肽"
+    }
+  },
+  "ops-/opsin": {
+    "meaning": "视觉；视蛋白",
+    "example": {
+      "word": "opsin",
+      "translation": "视蛋白"
+    }
+  },
+  "optic-/opto-": {
+    "meaning": "眼；视觉",
+    "example": {
+      "word": "supraoptic nucleus",
+      "translation": "视上核"
+    }
+  },
+  "orex-/orexin": {
+    "meaning": "食欲",
+    "example": {
+      "word": "orexin",
+      "translation": "促食欲素"
+    }
+  },
+  "organ-": {
+    "meaning": "器官",
+    "example": {
+      "word": "sense organ",
+      "translation": "感觉器官"
+    }
+  },
+  "osmo-/osm-": {
+    "meaning": "渗透；渗透压",
+    "example": {
+      "word": "osmotic pressure",
+      "translation": "渗透压"
+    }
+  },
+  "osteo-": {
+    "meaning": "骨",
+    "example": {
+      "word": "osteocalcin",
+      "translation": "骨钙素"
+    }
+  },
+  "ovar-/ovari-/ovul-": {
+    "meaning": "卵巢；排卵",
+    "example": {
+      "word": "ovulation",
+      "translation": "排卵"
+    }
+  },
+  "oxidase-": {
+    "meaning": "氧化酶",
+    "example": {
+      "word": "cyclooxygenase",
+      "translation": "环氧合酶"
+    }
+  },
+  "oxy-/ox-": {
+    "meaning": "氧；氧化",
+    "example": {
+      "word": "oxygen saturation of Hb",
+      "translation": "Hb 氧饱和度"
+    }
+  },
+  "pacemaker-": {
+    "meaning": "起搏",
+    "example": {
+      "word": "latent pacemaker",
+      "translation": "潜在起搏点"
+    }
+  },
+  "pancreat-/pancreo-": {
+    "meaning": "胰腺；胰",
+    "example": {
+      "word": "pancreozymin",
+      "translation": "促胰酶素"
+    }
+  },
+  "para-": {
+    "meaning": "旁；副；类似",
+    "example": {
+      "word": "paracrine",
+      "translation": "旁分泌"
+    }
+  },
+  "parasympath-": {
+    "meaning": "副交感",
+    "example": {
+      "word": "parasympathetic nervous system",
+      "translation": "副交感神经系统"
+    }
+  },
+  "parathyroid-": {
+    "meaning": "甲状旁腺",
+    "example": {
+      "word": "parathyroid hormone",
+      "translation": "甲状旁腺激素"
+    }
+  },
+  "pariet-": {
+    "meaning": "壁；壁细胞相关",
+    "example": {
+      "word": "parietal cell",
+      "translation": "壁细胞"
+    }
+  },
+  "parturit-": {
+    "meaning": "分娩",
+    "example": {
+      "word": "parturition",
+      "translation": "分娩"
+    }
+  },
+  "path-/pathway": {
+    "meaning": "通路；途径",
+    "example": {
+      "word": "intrinsic pathway",
+      "translation": "内源性凝血途径"
+    }
+  },
+  "pept-/peptide": {
+    "meaning": "肽",
+    "example": {
+      "word": "opioid peptide",
+      "translation": "阿片肽"
+    }
+  },
+  "peri-": {
+    "meaning": "周围",
+    "example": {
+      "word": "peripheral nervous system",
+      "translation": "周围神经系统"
+    }
+  },
+  "peripher-": {
+    "meaning": "周围",
+    "example": {
+      "word": "peripheral nervous system",
+      "translation": "周围神经系统"
+    }
+  },
+  "peristal-": {
+    "meaning": "蠕动",
+    "example": {
+      "word": "peristalsis",
+      "translation": "蠕动"
+    }
+  },
+  "phag-/phago-": {
+    "meaning": "吞噬",
+    "example": {
+      "word": "mononuclear phagocyte system",
+      "translation": "单核吞噬细胞系统"
+    }
+  },
+  "phosphatase-": {
+    "meaning": "磷酸酶；去磷酸化酶",
+    "example": {
+      "word": "protein phosphatase",
+      "translation": "蛋白磷酸酶"
+    }
+  },
+  "phospho-": {
+    "meaning": "磷酸；磷酰",
+    "example": {
+      "word": "protein phosphorylation",
+      "translation": "蛋白磷酸化"
+    }
+  },
+  "photo-/photopic": {
+    "meaning": "光；明视觉",
+    "example": {
+      "word": "photopic vision",
+      "translation": "明视觉"
+    }
+  },
+  "physio-": {
+    "meaning": "生理；自然功能",
+    "example": {
+      "word": "physiology",
+      "translation": "生理学"
+    }
+  },
+  "placent-/placental": {
+    "meaning": "胎盘",
+    "example": {
+      "word": "human placental lactogen",
+      "translation": "人胎盘催乳素"
+    }
+  },
+  "plasmin-/plasm-": {
+    "meaning": "血浆；纤溶酶相关",
+    "example": {
+      "word": "α2-antiplasmin",
+      "translation": "α2-抗纤溶酶"
+    }
+  },
+  "pleur-/pleuro-": {
+    "meaning": "胸膜",
+    "example": {
+      "word": "pleural cavity",
+      "translation": "胸膜腔"
+    }
+  },
+  "plex-/plexus": {
+    "meaning": "丛；网络",
+    "example": {
+      "word": "myenteric plexus",
+      "translation": "肌间神经丛"
+    }
+  },
+  "pneum-/pneumo-": {
+    "meaning": "肺；气；呼吸",
+    "example": {
+      "word": "pneumothorax",
+      "translation": "气胸"
+    }
+  },
+  "polar-": {
+    "meaning": "极化",
+    "example": {
+      "word": "polarization",
+      "translation": "极化"
+    }
+  },
+  "poly-": {
+    "meaning": "多；多个",
+    "example": {
+      "word": "polysynaptic reflex",
+      "translation": "多突触反射"
+    }
+  },
+  "pont-/pontine": {
+    "meaning": "脑桥",
+    "example": {
+      "word": "pontine respiratory group",
+      "translation": "脑桥呼吸组"
+    }
+  },
+  "post-": {
+    "meaning": "后；之后",
+    "example": {
+      "word": "postjunctional membrane",
+      "translation": "接头后膜"
+    }
+  },
+  "potential-": {
+    "meaning": "电位；潜能",
+    "example": {
+      "word": "action potential",
+      "translation": "动作电位"
+    }
+  },
+  "pre-": {
+    "meaning": "前；预先",
+    "example": {
+      "word": "preload",
+      "translation": "前负荷"
+    }
+  },
+  "presby-": {
+    "meaning": "老年；老化",
+    "example": {
+      "word": "presbyopia",
+      "translation": "老视"
+    }
+  },
+  "press-/pressure": {
+    "meaning": "压力",
+    "example": {
+      "word": "arterial blood pressure",
+      "translation": "动脉血压"
+    }
+  },
+  "pro-": {
+    "meaning": "前；先；促进",
+    "example": {
+      "word": "prothrombin time",
+      "translation": "凝血酶原时间"
+    }
+  },
+  "progest-/progester-": {
+    "meaning": "孕激素",
+    "example": {
+      "word": "progesterone",
+      "translation": "孕酮"
+    }
+  },
+  "propriocept-": {
+    "meaning": "本体感觉",
+    "example": {
+      "word": "proprioception",
+      "translation": "本体感觉"
+    }
+  },
+  "prostacyclin-": {
+    "meaning": "前列环素",
+    "example": {
+      "word": "prostacyclin",
+      "translation": "前列环素"
+    }
+  },
+  "prostagland-": {
+    "meaning": "前列腺素",
+    "example": {
+      "word": "prostaglandin",
+      "translation": "前列腺素"
+    }
+  },
+  "prote-/protein": {
+    "meaning": "蛋白质",
+    "example": {
+      "word": "protein kinase",
+      "translation": "蛋白激酶"
+    }
+  },
+  "proteas-/protease": {
+    "meaning": "蛋白酶",
+    "example": {
+      "word": "protease activated receptor2",
+      "translation": "蛋白酶活化受体2"
+    }
+  },
+  "proximal-": {
+    "meaning": "近端",
+    "example": {
+      "word": "proximal convoluted tubule",
+      "translation": "近曲小管"
+    }
+  },
+  "pulmon-/pulmonary": {
+    "meaning": "肺",
+    "example": {
+      "word": "pulmonary ventilation",
+      "translation": "肺通气"
+    }
+  },
+  "pulse-": {
+    "meaning": "脉搏",
+    "example": {
+      "word": "arterial pulse",
+      "translation": "动脉脉搏"
+    }
+  },
+  "pump-": {
+    "meaning": "泵",
+    "example": {
+      "word": "ion pump",
+      "translation": "离子泵"
+    }
+  },
+  "re-": {
+    "meaning": "再；重新；回",
+    "example": {
+      "word": "reabsorption",
+      "translation": "重吸收"
+    }
+  },
+  "reabsorpt-": {
+    "meaning": "重吸收",
+    "example": {
+      "word": "reabsorption",
+      "translation": "重吸收"
+    }
+  },
+  "recept-/receptor": {
+    "meaning": "受体；接受",
+    "example": {
+      "word": "membrane receptor",
+      "translation": "胞膜受体"
+    }
+  },
+  "rectif-": {
+    "meaning": "整流",
+    "example": {
+      "word": "inward rectification",
+      "translation": "内向整流"
+    }
+  },
+  "reflex-": {
+    "meaning": "反射",
+    "example": {
+      "word": "stretch reflex",
+      "translation": "牵张反射"
+    }
+  },
+  "regulat-": {
+    "meaning": "调节",
+    "example": {
+      "word": "long-term regulation",
+      "translation": "长期调节"
+    }
+  },
+  "relax-": {
+    "meaning": "松弛；舒张",
+    "example": {
+      "word": "relaxin",
+      "translation": "松弛素"
+    }
+  },
+  "ren-/renal": {
+    "meaning": "肾",
+    "example": {
+      "word": "renal blood flow",
+      "translation": "肾血流量"
+    }
+  },
+  "renin-": {
+    "meaning": "肾素",
+    "example": {
+      "word": "renin",
+      "translation": "肾素"
+    }
+  },
+  "repolar-": {
+    "meaning": "复极化",
+    "example": {
+      "word": "repolarization",
+      "translation": "复极化"
+    }
+  },
+  "respir-/respiratory": {
+    "meaning": "呼吸",
+    "example": {
+      "word": "respiratory system",
+      "translation": "呼吸系统"
+    }
+  },
+  "retin-/retino-": {
+    "meaning": "视网膜；视黄",
+    "example": {
+      "word": "retina",
+      "translation": "视网膜"
+    }
+  },
+  "retino-/retin-": {
+    "meaning": "视黄醇/视网膜相关",
+    "example": {
+      "word": "retina",
+      "translation": "视网膜"
+    }
+  },
+  "retro-": {
+    "meaning": "向后；逆行",
+    "example": {
+      "word": "retrograde transport",
+      "translation": "逆向运输"
+    }
+  },
+  "reward-": {
+    "meaning": "奖赏",
+    "example": {
+      "word": "reward system",
+      "translation": "奖赏系统"
+    }
+  },
+  "rhythm-": {
+    "meaning": "节律",
+    "example": {
+      "word": "sinus rhythm",
+      "translation": "窦性节律"
+    }
+  },
+  "rigid-/rigor": {
+    "meaning": "僵直",
+    "example": {
+      "word": "decerebrate rigidity",
+      "translation": "去大脑僵直"
+    }
+  },
+  "root-": {
+    "meaning": "根",
+    "example": {
+      "word": "dorsal root ganglia",
+      "translation": "背根神经节"
+    }
+  },
+  "sarc-/sarco-": {
+    "meaning": "肌肉；肉",
+    "example": {
+      "word": "sarcomere",
+      "translation": "肌节"
+    }
+  },
+  "satiet-": {
+    "meaning": "饱足",
+    "example": {
+      "word": "satiety center",
+      "translation": "饱中枢"
+    }
+  },
+  "schwann-": {
+    "meaning": "施万细胞相关",
+    "example": {
+      "word": "Schwann cell",
+      "translation": "施万细胞"
+    }
+  },
+  "scoto-/scotopic": {
+    "meaning": "暗视觉",
+    "example": {
+      "word": "scotopic vision",
+      "translation": "暗视觉"
+    }
+  },
+  "secr-/secret-": {
+    "meaning": "分泌",
+    "example": {
+      "word": "secretion",
+      "translation": "分泌"
+    }
+  },
+  "semi-": {
+    "meaning": "半；半数",
+    "example": {
+      "word": "semicircular canal",
+      "translation": "半规管"
+    }
+  },
+  "sens-/sensor-": {
+    "meaning": "感觉",
+    "example": {
+      "word": "sensory receptor",
+      "translation": "感受器"
+    }
+  },
+  "seroton-/tryptamin-": {
+    "meaning": "色胺；5-羟色胺相关",
+    "example": {
+      "word": "5-hydroxytryptamine",
+      "translation": "5-羟色胺"
+    }
+  },
+  "short-": {
+    "meaning": "短；短期",
+    "example": {
+      "word": "short-term memory",
+      "translation": "短时程记忆"
+    }
+  },
+  "slow-": {
+    "meaning": "慢",
+    "example": {
+      "word": "slow wave",
+      "translation": "慢波"
+    }
+  },
+  "somat-/somato-": {
+    "meaning": "躯体；身体",
+    "example": {
+      "word": "somatic sense",
+      "translation": "躯体感觉"
+    }
+  },
+  "somato-": {
+    "meaning": "身体；躯体；生长激素相关",
+    "example": {
+      "word": "somatostatin",
+      "translation": "生长抑素"
+    }
+  },
+  "spasm-/spastic": {
+    "meaning": "痉挛",
+    "example": {
+      "word": "spastic paralysis",
+      "translation": "痉挛性瘫痪"
+    }
+  },
+  "spermat-/spermato-": {
+    "meaning": "精子",
+    "example": {
+      "word": "spermatogenesis",
+      "translation": "精子发生"
+    }
+  },
+  "spino-/spinal": {
+    "meaning": "脊髓",
+    "example": {
+      "word": "spinal shock",
+      "translation": "脊髓休克"
+    }
+  },
+  "steroid-/sterol-": {
+    "meaning": "甾体；固醇",
+    "example": {
+      "word": "steroid hormone",
+      "translation": "类固醇激素"
+    }
+  },
+  "sub-": {
+    "meaning": "下；次级；低于",
+    "example": {
+      "word": "subthalamic nucleus",
+      "translation": "丘脑底核"
+    }
+  },
+  "sulf-": {
+    "meaning": "硫；硫化物",
+    "example": {
+      "word": "hydrogen sulfide",
+      "translation": "硫化氢"
+    }
+  },
+  "summat-/summation": {
+    "meaning": "总和；叠加",
+    "example": {
+      "word": "temporal summation",
+      "translation": "时间总和"
+    }
+  },
+  "supra-": {
+    "meaning": "上方；超过",
+    "example": {
+      "word": "supranormal period",
+      "translation": "超常期"
+    }
+  },
+  "surfact-": {
+    "meaning": "表面活性",
+    "example": {
+      "word": "pulmonary surfactant",
+      "translation": "肺表面活性物质"
+    }
+  },
+  "sympath-": {
+    "meaning": "交感",
+    "example": {
+      "word": "sympathetic nervous system",
+      "translation": "交感神经系统"
+    }
+  },
+  "symport-": {
+    "meaning": "同向转运",
+    "example": {
+      "word": "sodium-iodide symporter",
+      "translation": "钠碘同向转运体"
+    }
+  },
+  "syn-/synapt-": {
+    "meaning": "突触；连接",
+    "example": {
+      "word": "chemical synapse",
+      "translation": "化学突触"
+    }
+  },
+  "syncyti-": {
+    "meaning": "合胞体；多核细胞样结构",
+    "example": {
+      "word": "functional syncytium",
+      "translation": "功能性合胞体"
+    }
+  },
+  "systol-/systole": {
+    "meaning": "收缩期",
+    "example": {
+      "word": "systole",
+      "translation": "收缩期"
+    }
+  },
+  "tendon-/teno-": {
+    "meaning": "腱",
+    "example": {
+      "word": "tendon reflex",
+      "translation": "腱反射"
+    }
+  },
+  "tetan-": {
+    "meaning": "强直",
+    "example": {
+      "word": "incomplete tetanus",
+      "translation": "不完全强直收缩"
+    }
+  },
+  "tetra-": {
+    "meaning": "四；四个",
+    "example": {
+      "word": "tetraethylammonium",
+      "translation": "四乙铵"
+    }
+  },
+  "thalam-": {
+    "meaning": "丘脑",
+    "example": {
+      "word": "subthalamic nucleus",
+      "translation": "丘脑底核"
+    }
+  },
+  "therm-/thermo-": {
+    "meaning": "热；体温",
+    "example": {
+      "word": "non-shivering thermogenesis",
+      "translation": "非战栗产热"
+    }
+  },
+  "thermo-/thermal": {
+    "meaning": "热；温度",
+    "example": {
+      "word": "autonomic thermoregulation",
+      "translation": "自主性体温调节"
+    }
+  },
+  "thorac-/thoraco-": {
+    "meaning": "胸；胸腔",
+    "example": {
+      "word": "pneumothorax",
+      "translation": "气胸"
+    }
+  },
+  "threshold-": {
+    "meaning": "阈；阈值",
+    "example": {
+      "word": "electrical threshold",
+      "translation": "电阈"
+    }
+  },
+  "thromb-/thrombo-": {
+    "meaning": "凝血；血栓",
+    "example": {
+      "word": "thrombin",
+      "translation": "凝血酶"
+    }
+  },
+  "thyroid-/thyro-": {
+    "meaning": "甲状腺",
+    "example": {
+      "word": "thyroid hormone",
+      "translation": "甲状腺激素"
+    }
+  },
+  "tidal-": {
+    "meaning": "潮气；潮汐样",
+    "example": {
+      "word": "tidal volume",
+      "translation": "潮气量"
+    }
+  },
+  "ton-/tono-": {
+    "meaning": "张力；紧张",
+    "example": {
+      "word": "muscle tonus",
+      "translation": "肌紧张"
+    }
+  },
+  "tract-": {
+    "meaning": "束；通路",
+    "example": {
+      "word": "corticospinal tract",
+      "translation": "皮层脊髓束"
+    }
+  },
+  "trans-": {
+    "meaning": "跨；转运；穿过",
+    "example": {
+      "word": "transmembrane potential",
+      "translation": "跨膜电位"
+    }
+  },
+  "transduct-": {
+    "meaning": "转导；换能",
+    "example": {
+      "word": "transmembrane signal transduction",
+      "translation": "跨膜信号转导"
+    }
+  },
+  "transfer-/transporter": {
+    "meaning": "转运；转运体",
+    "example": {
+      "word": "glucose transporter",
+      "translation": "葡萄糖转运体"
+    }
+  },
+  "transmembran-": {
+    "meaning": "跨膜",
+    "example": {
+      "word": "transmembrane signal transduction",
+      "translation": "跨膜信号转导"
+    }
+  },
+  "transverse-": {
+    "meaning": "横向",
+    "example": {
+      "word": "transverse tubule",
+      "translation": "横管"
+    }
+  },
+  "tri-": {
+    "meaning": "三；三个",
+    "example": {
+      "word": "triad",
+      "translation": "三联体"
+    }
+  },
+  "troph-/trophic": {
+    "meaning": "营养；促生长",
+    "example": {
+      "word": "trophic hormone",
+      "translation": "促激素"
+    }
+  },
+  "tropo-/tropon-": {
+    "meaning": "肌钙蛋白/转向相关",
+    "example": {
+      "word": "troponin",
+      "translation": "肌钙蛋白"
+    }
+  },
+  "tryps-/trypsin": {
+    "meaning": "胰蛋白酶相关",
+    "example": {
+      "word": "chymotrypsin",
+      "translation": "糜蛋白酶"
+    }
+  },
+  "tubul-/tubulo-": {
+    "meaning": "小管；管",
+    "example": {
+      "word": "proximal convoluted tubule",
+      "translation": "近曲小管"
+    }
+  },
+  "ultra-": {
+    "meaning": "超；极",
+    "example": {
+      "word": "ultrashort-loop feedback",
+      "translation": "超短反馈"
+    }
+  },
+  "uni-": {
+    "meaning": "单一；一个",
+    "example": {
+      "word": "single-unit smooth muscle",
+      "translation": "单个单位平滑肌"
+    }
+  },
+  "ure-/uro-/urin-": {
+    "meaning": "尿；泌尿",
+    "example": {
+      "word": "urine retention",
+      "translation": "尿潴留"
+    }
+  },
+  "vag-/vago-": {
+    "meaning": "迷走神经",
+    "example": {
+      "word": "vago-vagal reflex",
+      "translation": "迷走- 迷走反射"
+    }
+  },
+  "vas-/vaso-": {
+    "meaning": "血管",
+    "example": {
+      "word": "vasodilator nerve",
+      "translation": "舒血管神经"
+    }
+  },
+  "vasopress-": {
+    "meaning": "升压；抗利尿",
+    "example": {
+      "word": "arginine vasopressin",
+      "translation": "精氨酸升压素"
+    }
+  },
+  "ven-/veno-": {
+    "meaning": "静脉",
+    "example": {
+      "word": "central venous pressure",
+      "translation": "中心静脉压"
+    }
+  },
+  "ventilat-": {
+    "meaning": "通气",
+    "example": {
+      "word": "alveolar ventilation",
+      "translation": "肺泡通气量"
+    }
+  },
+  "ventr-/ventral": {
+    "meaning": "腹侧；心室相关需结合语境",
+    "example": {
+      "word": "ventral respiratory group",
+      "translation": "腹侧呼吸组"
+    }
+  },
+  "ventric-/ventriculo-": {
+    "meaning": "心室；脑室",
+    "example": {
+      "word": "ventricular compliance",
+      "translation": "心室顺应性"
+    }
+  },
+  "vesicul-": {
+    "meaning": "囊泡",
+    "example": {
+      "word": "vesicular transport",
+      "translation": "膜泡运输"
+    }
+  },
+  "vestibul-/vestibulo-": {
+    "meaning": "前庭",
+    "example": {
+      "word": "vestibular apparatus",
+      "translation": "前庭器官"
+    }
+  },
+  "viscer-/viscero-": {
+    "meaning": "内脏",
+    "example": {
+      "word": "visceral pain",
+      "translation": "内脏痛"
+    }
+  },
+  "vital-": {
+    "meaning": "生命；重要",
+    "example": {
+      "word": "vital capacity",
+      "translation": "肺活量"
+    }
+  },
+  "volt-/voltage": {
+    "meaning": "电压",
+    "example": {
+      "word": "voltage clamp",
+      "translation": "电压钳"
+    }
+  }
+}

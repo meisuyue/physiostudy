@@ -1,0 +1,309 @@
+{
+"title": "PhysioStudy Chapter 3 High-Yield Blood Exam",
+"source": {
+"file": "第3章.txt",
+"generated_at": "2026-05-06 00:00:00"
+},
+"questions": [
+{
+"id": 1,
+"question_en": "What are the major physiological functions of blood?",
+"answer_en": "Transport, buffering, thermoregulation, defense, and hemostasis",
+"analysis_zh": "血液运输气体、激素、营养物质和代谢产物，并参与酸碱缓冲、体温维持、防御免疫和生理性止血。"
+},
+{
+"id": 2,
+"question_en": "What is the main difference between plasma and interstitial fluid?",
+"answer_en": "Plasma has much more protein",
+"analysis_zh": "血浆蛋白分子大，不易透过毛细血管壁，因此组织液中蛋白含量很少。"
+},
+{
+"id": 3,
+"question_en": "Which plasma protein contributes most to plasma colloid osmotic pressure?",
+"answer_en": "Albumin",
+"analysis_zh": "白蛋白分子量较小、数量最多，因此血浆胶体渗透压主要来自白蛋白。"
+},
+{
+"id": 4,
+"question_en": "Why does a decrease in plasma protein concentration cause edema?",
+"answer_en": "Decreased plasma colloid osmotic pressure",
+"analysis_zh": "血浆胶体渗透压降低时，毛细血管内保水能力下降，组织液生成增多而发生水肿。"
+},
+{
+"id": 5,
+"question_en": "What does hematocrit mainly reflect in normal blood?",
+"answer_en": "Relative red blood cell concentration",
+"analysis_zh": "白细胞和血小板所占容积极小，因此血细胞比容主要反映红细胞在血液中的相对浓度。"
+},
+{
+"id": 6,
+"question_en": "What mainly determines whole-blood viscosity?",
+"answer_en": "Hematocrit",
+"analysis_zh": "全血黏滞度主要受血细胞比容影响；血浆黏滞度主要受血浆蛋白含量影响。"
+},
+{
+"id": 7,
+"question_en": "Which component contributes most to plasma crystal osmotic pressure?",
+"answer_en": "Na+ and Cl-",
+"analysis_zh": "血浆晶体渗透压主要来自晶体物质，其中约80%来自Na+和Cl-。"
+},
+{
+"id": 8,
+"question_en": "Why is 0.9% NaCl considered both iso-osmotic and isotonic for red blood cells?",
+"answer_en": "NaCl cannot freely cross RBC membranes",
+"analysis_zh": "0.9% NaCl与血浆等渗，且NaCl不易自由通过红细胞膜，因此能维持红细胞正常形态。"
+},
+{
+"id": 9,
+"question_en": "Why does an iso-osmotic urea solution still cause hemolysis?",
+"answer_en": "Urea freely enters red blood cells",
+"analysis_zh": "尿素可自由进入红细胞，使细胞内渗透压升高，水进入细胞后导致红细胞胀破。"
+},
+{
+"id": 10,
+"question_en": "What is the most important buffer pair in plasma?",
+"answer_en": "NaHCO3/H2CO3",
+"analysis_zh": "血浆主要缓冲对包括碳酸氢盐、蛋白质和磷酸盐缓冲对，其中NaHCO3/H2CO3最重要。"
+},
+{
+"id": 11,
+"question_en": "What are the two major types of immunity described in blood physiology?",
+"answer_en": "Innate and acquired immunity",
+"analysis_zh": "固有免疫无抗原特异性，是第一道防线；获得性免疫具有特异性，包括体液免疫和细胞免疫。"
+},
+{
+"id": 12,
+"question_en": "Which cells are the main executors of acquired immunity?",
+"answer_en": "T and B lymphocytes",
+"analysis_zh": "B细胞分化为浆细胞产生抗体，主要参与体液免疫；T细胞主要参与细胞免疫。"
+},
+{
+"id": 13,
+"question_en": "What are the key abilities of hematopoietic stem cells?",
+"answer_en": "Self-renewal and multilineage differentiation",
+"analysis_zh": "造血干细胞可自我更新、多向分化，并具有重建长期造血的能力。"
+},
+{
+"id": 14,
+"question_en": "What is the main pathological change in aplastic anemia?",
+"answer_en": "Pancytopenia",
+"analysis_zh": "造血干细胞数量减少、功能异常或造血微环境缺陷，可导致全血细胞减少。"
+},
+{
+"id": 15,
+"question_en": "What is the only energy-producing pathway in mature red blood cells?",
+"answer_en": "Glycolysis",
+"analysis_zh": "成熟红细胞没有线粒体，只能通过糖酵解产生ATP，以维持钠泵和双凹圆碟形。"
+},
+{
+"id": 16,
+"question_en": "What shape do normal mature red blood cells have?",
+"answer_en": "Biconcave disc",
+"analysis_zh": "双凹圆碟形使红细胞具有较大的表面积与体积比，有利于气体交换和变形通过毛细血管。"
+},
+{
+"id": 17,
+"question_en": "What is the most important property for red blood cells to pass through narrow capillaries and splenic sinuses?",
+"answer_en": "Plastic deformability",
+"analysis_zh": "红细胞必须变形才能通过比自身直径更小的毛细血管和脾窦孔隙。"
+},
+{
+"id": 18,
+"question_en": "What mainly determines red blood cell deformability?",
+"answer_en": "Biconcave geometry",
+"analysis_zh": "红细胞变形性取决于几何形状、细胞内黏滞度和膜弹性，其中双凹圆碟形最重要。"
+},
+{
+"id": 19,
+"question_en": "What does an increased erythrocyte sedimentation rate usually indicate at the plasma level?",
+"answer_en": "Increased rouleaux formation",
+"analysis_zh": "红细胞叠连使总表面积与总体积之比下降，摩擦力减小，血沉加快。"
+},
+{
+"id": 20,
+"question_en": "Which plasma proteins tend to increase erythrocyte sedimentation rate?",
+"answer_en": "Fibrinogen and globulins",
+"analysis_zh": "纤维蛋白原和球蛋白可中和红细胞表面负电荷，促进叠连，使血沉加快。"
+},
+{
+"id": 21,
+"question_en": "What is red blood cell osmotic fragility?",
+"answer_en": "Tendency to hemolyze in hypotonic saline",
+"analysis_zh": "红细胞在低渗盐溶液中吸水膨胀并破裂的特性称为渗透脆性。"
+},
+{
+"id": 22,
+"question_en": "What is the main function of red blood cells?",
+"answer_en": "Transport O2 and CO2",
+"analysis_zh": "红细胞主要运输氧和二氧化碳，也参与酸碱缓冲和免疫复合物清除。"
+},
+{
+"id": 23,
+"question_en": "What type of anemia results from iron deficiency?",
+"answer_en": "Iron deficiency anemia",
+"analysis_zh": "铁是合成血红蛋白的必需原料，缺铁会使血红蛋白合成减少。"
+},
+{
+"id": 24,
+"question_en": "What type of anemia results from folate or vitamin B12 deficiency?",
+"answer_en": "Megaloblastic anemia",
+"analysis_zh": "叶酸或维生素B12缺乏导致DNA合成障碍，细胞核发育滞后，红细胞体积增大。"
+},
+{
+"id": 25,
+"question_en": "Which gastric factor is required for vitamin B12 absorption?",
+"answer_en": "Intrinsic factor",
+"analysis_zh": "内因子由胃壁细胞分泌，与维生素B12结合后促进其在回肠远端吸收。"
+},
+{
+"id": 26,
+"question_en": "Which hormone is the main regulator of red blood cell production?",
+"answer_en": "Erythropoietin",
+"analysis_zh": "EPO主要作用于晚期红系祖细胞，促进其存活、分化和红细胞生成。"
+},
+{
+"id": 27,
+"question_en": "Which organ is the main source of erythropoietin in adults?",
+"answer_en": "Kidney",
+"analysis_zh": "EPO主要由肾皮质肾小管周围间质细胞产生，组织缺氧是其分泌的重要刺激。"
+},
+{
+"id": 28,
+"question_en": "Why do patients with advanced kidney disease often develop renal anemia?",
+"answer_en": "Erythropoietin deficiency",
+"analysis_zh": "晚期肾脏病时肾实质破坏，EPO生成不足，骨髓红细胞生成减少。"
+},
+{
+"id": 29,
+"question_en": "What is the average lifespan of normal red blood cells?",
+"answer_en": "120 days",
+"analysis_zh": "衰老红细胞主要因变形能力下降和脆性增高，被脾、肝、骨髓中的巨噬细胞吞噬。"
+},
+{
+"id": 30,
+"question_en": "Which white blood cells are the first major phagocytes to arrive at an acute bacterial infection site?",
+"answer_en": "Neutrophils",
+"analysis_zh": "中性粒细胞游走速度快、吞噬活性强，是急性炎症早期首先到达的主要效应细胞。"
+},
+{
+"id": 31,
+"question_en": "What do blood monocytes become after entering tissues?",
+"answer_en": "Macrophages",
+"analysis_zh": "单核细胞进入组织后发育为巨噬细胞，吞噬能力增强，并可呈递抗原、分泌细胞因子。"
+},
+{
+"id": 32,
+"question_en": "Which leukocytes are especially important in defense against helminth larvae and in allergic disease?",
+"answer_en": "Eosinophils",
+"analysis_zh": "嗜酸性粒细胞可杀伤蠕虫幼体，也参与过敏反应和哮喘中的组织损伤。"
+},
+{
+"id": 33,
+"question_en": "Which leukocytes release histamine, heparin, and leukotrienes during allergic reactions?",
+"answer_en": "Basophils",
+"analysis_zh": "嗜碱性粒细胞释放组胺、白三烯等，引起毛细血管通透性增加和支气管平滑肌收缩。"
+},
+{
+"id": 34,
+"question_en": "From which bone marrow cells are platelets derived?",
+"answer_en": "Megakaryocytes",
+"analysis_zh": "血小板是骨髓成熟巨核细胞胞质裂解脱落形成的小块胞质。"
+},
+{
+"id": 35,
+"question_en": "Which hormone is the most important physiological regulator of platelet production?",
+"answer_en": "Thrombopoietin",
+"analysis_zh": "TPO主要由肝细胞产生，可促进巨核系祖细胞存活、增殖和不成熟巨核细胞分化。"
+},
+{
+"id": 36,
+"question_en": "Which platelet receptor complex mediates adhesion through von Willebrand factor?",
+"answer_en": "GP Ib/IX/V",
+"analysis_zh": "vWF先结合暴露的胶原，再与血小板GPⅠb/Ⅸ/Ⅴ结合，是血小板黏附的桥梁。"
+},
+{
+"id": 37,
+"question_en": "Which platelet receptor mediates aggregation by binding fibrinogen?",
+"answer_en": "GP IIb/IIIa",
+"analysis_zh": "血小板活化后GPⅡb/Ⅲa亲和力增高，纤维蛋白原在Ca2+参与下连接相邻血小板。"
+},
+{
+"id": 38,
+"question_en": "Which platelet product promotes aggregation and vasoconstriction?",
+"answer_en": "Thromboxane A2",
+"analysis_zh": "TXA2可促进血小板聚集和血管收缩，并降低血小板内cAMP，形成正反馈。"
+},
+{
+"id": 39,
+"question_en": "How do PGI2 and nitric oxide inhibit platelet aggregation?",
+"answer_en": "PGI2 increases cAMP; NO increases cGMP",
+"analysis_zh": "PGI2通过提高血小板cAMP抑制聚集；NO通过提高cGMP抑制聚集。"
+},
+{
+"id": 40,
+"question_en": "What are the three basic processes of physiological hemostasis?",
+"answer_en": "Vasoconstriction, platelet plug formation, and coagulation",
+"analysis_zh": "生理性止血包括血管收缩、血小板止血栓形成和血液凝固，三者相互促进。"
+},
+{
+"id": 41,
+"question_en": "What is the essential change during blood coagulation?",
+"answer_en": "Fibrinogen becomes fibrin",
+"analysis_zh": "血液凝固的实质是可溶性纤维蛋白原转变为不溶性纤维蛋白，形成血凝块。"
+},
+{
+"id": 42,
+"question_en": "Which coagulation factors require vitamin K for synthesis?",
+"answer_en": "II, VII, IX, and X",
+"analysis_zh": "FⅡ、FⅦ、FⅨ、FⅩ为维生素K依赖性凝血因子，华法林可抑制其合成。"
+},
+{
+"id": 43,
+"question_en": "Which coagulation pathway is initiated by tissue factor?",
+"answer_en": "Extrinsic pathway",
+"analysis_zh": "组织因子暴露于血液后与FⅦa结合，启动外源性凝血途径。"
+},
+{
+"id": 44,
+"question_en": "Which pathway is considered the key initiator of physiological coagulation in vivo?",
+"answer_en": "Tissue factor pathway",
+"analysis_zh": "体内生理性凝血主要由组织因子启动，截短的内源性途径主要参与放大和维持凝血反应。"
+},
+{
+"id": 45,
+"question_en": "Deficiency of which coagulation factor causes hemophilia A?",
+"answer_en": "Factor VIII",
+"analysis_zh": "血友病A为FⅧ缺陷；血友病B为FⅨ缺陷，均可导致严重凝血障碍。"
+},
+{
+"id": 46,
+"question_en": "Which natural anticoagulant inactivates most thrombin and is greatly enhanced by heparin?",
+"answer_en": "Antithrombin",
+"analysis_zh": "抗凝血酶可灭活凝血酶及多种活化凝血因子，肝素可显著增强其抗凝作用。"
+},
+{
+"id": 47,
+"question_en": "How does the protein C system limit coagulation spread?",
+"answer_en": "Inactivates factors Va and VIIIa",
+"analysis_zh": "凝血酶与内皮细胞凝血酶调节蛋白结合后激活蛋白C，后者水解灭活FⅤa和FⅧa。"
+},
+{
+"id": 48,
+"question_en": "Which enzyme directly degrades fibrin during fibrinolysis?",
+"answer_en": "Plasmin",
+"analysis_zh": "纤溶酶可降解纤维蛋白和纤维蛋白原，生成纤维蛋白降解产物FDP。"
+},
+{
+"id": 49,
+"question_en": "What antibodies are found in the serum of a person with type O blood?",
+"answer_en": "Anti-A and anti-B antibodies",
+"analysis_zh": "O型红细胞无A、B抗原，血清中含抗A和抗B抗体。"
+},
+{
+"id": 50,
+"question_en": "Why is cross-match testing required even when donor and recipient have the same ABO blood type?",
+"answer_en": "To detect other incompatibilities",
+"analysis_zh": "交叉配血可检验血型鉴定是否有误，并发现ABO以外其他不相容抗原或抗体。"
+}
+]
+}

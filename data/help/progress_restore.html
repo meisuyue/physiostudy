@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>进度复原 - PhysioStudy</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="main">
+    <div class="hero">
+      <h1>进度复原</h1>
+      <p>软件的学习记录按用户保存，只要原来的用户数据目录还在，就可以把学习进度恢复回来。</p>
+    </div>
+    <div class="section">
+      <h2>主要记录位置</h2>
+      <div class="code">D:\claude\physiowords\data\user\&lt;用户名&gt;\</div>
+      <ul>
+        <li>c_key\past\words.json：中文方向已学记录</li>
+        <li>c_key\important\words.json：中文方向重点词</li>
+        <li>e_key\past\words.json：英文方向已学记录</li>
+        <li>e_key\important\words.json：英文方向重点词</li>
+        <li>roots_affixes\past\words.json：词根词缀已学记录</li>
+        <li>usage_stats.json：每日软件使用时长</li>
+      </ul>
+    </div>
+    <div class="section">
+      <h2>如何复原</h2>
+      <ul>
+        <li>如果只是换机器：把原来的用户目录复制回 data/user 下即可。</li>
+        <li>如果只是重装软件：保留 data 目录中的用户数据即可。</li>
+        <li>如果需要重新开始：删除对应用户目录中的记录文件前，建议先备份。</li>
+      </ul>
+    </div>
+  </div>
+</body>
+</html>

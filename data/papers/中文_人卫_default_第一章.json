@@ -1,0 +1,189 @@
+{
+"title": "PhysioStudy Chapter 1 High-Yield Physiology Questions",
+"source": {
+"file": "第1章.txt",
+"generated_at": "2026-05-06 00:00:00"
+},
+"questions": [
+{
+"id": 1,
+"question_en": "What does physiology study?",
+"answer_en": "Functions of living organisms",
+"analysis_zh": "生理学研究机体生命活动现象及其功能活动规律，是理解正常生命活动的基础。"
+},
+{
+"id": 2,
+"question_en": "Why is physiology considered a bridge between basic medicine and clinical medicine?",
+"answer_en": "It links normal function with disease",
+"analysis_zh": "生理学研究正常功能活动及机制，可帮助理解疾病状态下功能异常和治疗干预效果。"
+},
+{
+"id": 3,
+"question_en": "What is the most basic structural and functional unit of the human body?",
+"answer_en": "Cell",
+"analysis_zh": "细胞是人体最基本的结构和功能单位，组织、器官、系统都建立在细胞功能基础上。"
+},
+{
+"id": 4,
+"question_en": "At which three levels should physiological functions be studied?",
+"answer_en": "Cellular-molecular, organ-system, and whole-body levels",
+"analysis_zh": "三个层次相互补充：微观机制需要结合器官系统和整体水平验证。"
+},
+{
+"id": 5,
+"question_en": "Why must cellular and molecular physiological findings be verified at higher levels?",
+"answer_en": "Isolated results may not represent intact function",
+"analysis_zh": "细胞和分子研究多为离体研究，其结果不一定等同于完整机体内的真实功能。"
+},
+{
+"id": 6,
+"question_en": "Who discovered blood circulation and helped establish physiology as an experimental science?",
+"answer_en": "William Harvey",
+"analysis_zh": "哈维通过动物实验发现血液循环，使生理学走上实验科学道路。"
+},
+{
+"id": 7,
+"question_en": "What are the three ethical principles for animal experiments?",
+"answer_en": "Reduction, replacement, and refinement",
+"analysis_zh": "3R原则要求减少动物数量、尽量替代动物实验，并优化实验以减轻动物痛苦。"
+},
+{
+"id": 8,
+"question_en": "What are the two main types of animal experiments in physiology?",
+"answer_en": "Acute and chronic experiments",
+"analysis_zh": "急性实验适合短时间、条件可控的观察；慢性实验更接近完整机体的长期生理活动。"
+},
+{
+"id": 9,
+"question_en": "What is the main advantage of chronic physiological experiments?",
+"answer_en": "They better reflect whole-body physiology",
+"analysis_zh": "慢性实验通常在清醒完整动物中进行，较能反映整体正常生理功能。"
+},
+{
+"id": 10,
+"question_en": "What is the basic scientific workflow used in physiological research?",
+"answer_en": "Question, hypothesis, experiment, analysis, conclusion",
+"analysis_zh": "生理学研究通常遵循提出问题、建立假设、设计实验、实施实验、分析并得出结论的过程。"
+},
+{
+"id": 11,
+"question_en": "What is metabolism?",
+"answer_en": "Self-renewal through matter and energy exchange",
+"analysis_zh": "新陈代谢包括物质合成、分解和能量转化，是生命活动最基本的特征。"
+},
+{
+"id": 12,
+"question_en": "Why is metabolism considered the most basic characteristic of life?",
+"answer_en": "Life ends when metabolism stops",
+"analysis_zh": "机体生命活动依赖持续的物质和能量交换，新陈代谢停止即意味着生命活动终止。"
+},
+{
+"id": 13,
+"question_en": "What is excitability?",
+"answer_en": "Ability to respond to stimuli",
+"analysis_zh": "兴奋性是活组织或细胞接受刺激并产生反应的能力。"
+},
+{
+"id": 14,
+"question_en": "In modern physiology, what event is usually regarded as excitation in excitable tissues?",
+"answer_en": "Action potential generation",
+"analysis_zh": "神经、肌肉等可兴奋组织受刺激后产生动作电位，现代生理学常将其称为兴奋。"
+},
+{
+"id": 15,
+"question_en": "What three conditions must a stimulus meet to evoke a physiological response?",
+"answer_en": "Adequate intensity, duration, and rate of change",
+"analysis_zh": "刺激必须有足够强度、足够作用时间和适当的强度-时间变化率，才能引起反应。"
+},
+{
+"id": 16,
+"question_en": "How is excitability related to threshold intensity?",
+"answer_en": "Inversely related",
+"analysis_zh": "兴奋性越高，所需阈值越低；兴奋性越低，所需阈值越高。"
+},
+{
+"id": 17,
+"question_en": "What is adaptation in physiology?",
+"answer_en": "Functional adjustment to environmental change",
+"analysis_zh": "适应是机体根据环境变化调整自身生理功能的过程。"
+},
+{
+"id": 18,
+"question_en": "What type of adaptation is increased red blood cell count in people living at high altitude?",
+"answer_en": "Physiological adaptation",
+"analysis_zh": "高原低氧可使红细胞和血红蛋白增加，以提高携氧能力，属于生理性适应。"
+},
+{
+"id": 19,
+"question_en": "What is the internal environment of the human body?",
+"answer_en": "Extracellular fluid",
+"analysis_zh": "体内细胞直接接触并赖以生存的环境是细胞外液，因此细胞外液称为内环境。"
+},
+{
+"id": 20,
+"question_en": "What percentage of body weight is body fluid in a typical adult?",
+"answer_en": "About 60%",
+"analysis_zh": "人体体液约占体重60%，其中约2/3为细胞内液，约1/3为细胞外液。"
+},
+{
+"id": 21,
+"question_en": "Which fluids are included in extracellular fluid?",
+"answer_en": "Plasma, interstitial fluid, lymph, and cerebrospinal fluid",
+"analysis_zh": "细胞外液包括血浆、组织液、淋巴液和脑脊液等，是细胞生存的直接环境。"
+},
+{
+"id": 22,
+"question_en": "What is homeostasis?",
+"answer_en": "Relative constancy of the internal environment",
+"analysis_zh": "稳态指内环境理化性质如温度、pH、渗透压和成分保持相对恒定。"
+},
+{
+"id": 23,
+"question_en": "Is homeostasis a fixed static state or a dynamic equilibrium?",
+"answer_en": "Dynamic equilibrium",
+"analysis_zh": "稳态不是绝对不变，而是在调节作用下维持于一定范围内的动态平衡。"
+},
+{
+"id": 24,
+"question_en": "Who introduced the term homeostasis in physiology?",
+"answer_en": "Walter B. Cannon",
+"analysis_zh": "坎农提出homeostasis一词，用于概括内环境相对稳定这一重要生理学概念。"
+},
+{
+"id": 25,
+"question_en": "Why is homeostasis essential for normal cellular function?",
+"answer_en": "Enzymatic reactions require stable conditions",
+"analysis_zh": "细胞代谢多为酶促反应，需要适宜的温度、pH、离子浓度和渗透压等条件。"
+},
+{
+"id": 26,
+"question_en": "What is biological rhythm?",
+"answer_en": "Periodic change in body functions",
+"analysis_zh": "生物节律是机体功能活动按一定时间顺序发生的周期性变化。"
+},
+{
+"id": 27,
+"question_en": "Which brain structures are closely related to mammalian biological rhythms?",
+"answer_en": "Pineal gland and suprachiasmatic nucleus",
+"analysis_zh": "松果体和下丘脑视交叉上核与哺乳动物生物节律密切相关。"
+},
+{
+"id": 28,
+"question_en": "What are the three main modes of physiological regulation?",
+"answer_en": "Nervous, humoral, and autoregulation",
+"analysis_zh": "机体通过神经调节、体液调节和自身调节维持内环境稳态并适应环境变化。"
+},
+{
+"id": 29,
+"question_en": "What are the five components of a reflex arc?",
+"answer_en": "Receptor, afferent nerve, center, efferent nerve, and effector",
+"analysis_zh": "反射弧是神经调节的结构基础，任一环节受损都会影响反射活动。"
+},
+{
+"id": 30,
+"question_en": "What is the main difference between negative feedback and positive feedback?",
+"answer_en": "Negative feedback stabilizes; positive feedback amplifies",
+"analysis_zh": "负反馈使受控活动向相反方向改变，主要维持稳态；正反馈使活动继续增强，常推动某一过程完成，如排尿、分娩和凝血。"
+}
+]
+}

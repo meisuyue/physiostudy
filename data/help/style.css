@@ -1,0 +1,103 @@
+﻿:root {
+  --bg1: #f6f9ff;
+  --bg2: #fdf3ff;
+  --panel: rgba(255,255,255,0.86);
+  --border: rgba(198,210,255,0.95);
+  --title: #2443a5;
+  --text: #4f5f8b;
+  --accent1: #5f91ff;
+  --accent2: #d17cff;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: 'Microsoft YaHei UI', 'Segoe UI', sans-serif;
+  color: var(--text);
+  background: linear-gradient(135deg, var(--bg1), var(--bg2));
+}
+.main {
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 40px 28px 60px;
+}
+.hero {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 28px;
+  padding: 28px 30px;
+  box-shadow: 0 20px 50px rgba(148, 162, 255, 0.12);
+}
+.hero h1 {
+  margin: 0 0 10px;
+  font-size: 36px;
+  color: var(--title);
+}
+.hero p {
+  margin: 0;
+  font-size: 17px;
+  line-height: 1.85;
+}
+.section {
+  margin-top: 24px;
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 24px;
+  padding: 24px 26px;
+}
+.section h2 {
+  margin: 0 0 14px;
+  color: var(--title);
+  font-size: 24px;
+}
+.section h3 {
+  margin: 18px 0 10px;
+  color: #3d56ba;
+  font-size: 18px;
+}
+.section p, .section li {
+  line-height: 1.9;
+  font-size: 15px;
+}
+ul {
+  margin: 8px 0 0 20px;
+  padding: 0;
+}
+.kbd-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 14px;
+  margin-top: 16px;
+}
+.kbd-card {
+  background: rgba(255,255,255,0.76);
+  border: 1px solid rgba(214,223,255,0.98);
+  border-radius: 18px;
+  padding: 16px 18px;
+}
+kbd {
+  display: inline-block;
+  min-width: 36px;
+  padding: 6px 10px;
+  border-radius: 10px;
+  background: linear-gradient(135deg, var(--accent1), var(--accent2));
+  color: white;
+  font-weight: 800;
+  text-align: center;
+  box-shadow: 0 8px 20px rgba(123, 134, 255, 0.18);
+}
+.note {
+  margin-top: 14px;
+  padding: 14px 16px;
+  border-radius: 16px;
+  background: rgba(103, 145, 255, 0.10);
+  color: #4357a5;
+}
+.code {
+  padding: 12px 14px;
+  border-radius: 14px;
+  background: rgba(245,247,255,0.95);
+  border: 1px solid rgba(221,228,255,1);
+  font-family: 'Consolas', 'Cascadia Mono', monospace;
+  font-size: 14px;
+  white-space: pre-wrap;
+}

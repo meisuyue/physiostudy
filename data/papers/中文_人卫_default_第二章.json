@@ -1,0 +1,309 @@
+{
+"title": "PhysioStudy Chapter 2 High-Yield Cell Function Exam",
+"source": {
+"file": "第2章.txt",
+"generated_at": "2026-05-06 00:00:00"
+},
+"questions": [
+{
+"id": 1,
+"question_en": "What basic functions are shared by all cells?",
+"answer_en": "Membrane transport, signal transduction, and bioelectricity",
+"analysis_zh": "本章核心是细胞的普遍功能：物质跨膜转运、信号转导和生物电现象。"
+},
+{
+"id": 2,
+"question_en": "According to the fluid mosaic model, what forms the basic framework of the cell membrane?",
+"answer_en": "Lipid bilayer",
+"analysis_zh": "液态镶嵌模型认为脂质双层构成膜的基本骨架，蛋白质镶嵌其中。"
+},
+{
+"id": 3,
+"question_en": "Which molecules can easily pass through the hydrophobic region of the lipid bilayer by simple diffusion?",
+"answer_en": "O2, CO2, and ethanol",
+"analysis_zh": "脂溶性小分子容易穿过膜内部疏水区；葡萄糖、氨基酸和带电离子不能自由通过。"
+},
+{
+"id": 4,
+"question_en": "Which membrane components mainly determine the functional activities of the cell membrane?",
+"answer_en": "Membrane proteins",
+"analysis_zh": "膜的转运、受体、离子泵、通道等功能主要由膜蛋白完成。"
+},
+{
+"id": 5,
+"question_en": "What is simple diffusion across the cell membrane?",
+"answer_en": "Passive movement down a concentration gradient",
+"analysis_zh": "单纯扩散不需要载体、不耗能，物质从高浓度侧向低浓度侧移动。"
+},
+{
+"id": 6,
+"question_en": "What is facilitated diffusion?",
+"answer_en": "Passive transport mediated by membrane proteins",
+"analysis_zh": "易化扩散依赖通道或载体，但仍顺浓度梯度或电位梯度转运，不直接消耗ATP。"
+},
+{
+"id": 7,
+"question_en": "What are the two major basic properties of ion channels?",
+"answer_en": "Ion selectivity and gating",
+"analysis_zh": "离子通道的重要特征是选择性通透特定离子，并可受刺激控制开放或关闭。"
+},
+{
+"id": 8,
+"question_en": "Which type of ion channel is mainly responsible for generating action potentials in nerves and muscles?",
+"answer_en": "Voltage-gated ion channel",
+"analysis_zh": "电压门控通道受膜电位变化调控，是神经和肌肉产生动作电位的基本机制。"
+},
+{
+"id": 9,
+"question_en": "Which ligand-gated channel is found on the skeletal muscle end-plate membrane?",
+"answer_en": "N2 acetylcholine receptor channel",
+"analysis_zh": "骨骼肌终板膜上的N2型ACh受体是化学门控阳离子通道，主要引起Na+内流。"
+},
+{
+"id": 10,
+"question_en": "Which mammalian membrane protein mediates mechanical force sensation?",
+"answer_en": "Piezo protein",
+"analysis_zh": "Piezo蛋白是机械门控通道，可感受牵张、压迫等机械刺激。"
+},
+{
+"id": 11,
+"question_en": "Which TRP channel can be activated by heat above 42°C, acidic pH, and capsaicin?",
+"answer_en": "TRPV1",
+"analysis_zh": "TRPV1兼具温度门控和化学门控特性，是热痛和辣椒素刺激的重要感受通道。"
+},
+{
+"id": 12,
+"question_en": "Which membrane protein forms highly permeable water channels?",
+"answer_en": "Aquaporin",
+"analysis_zh": "水通道蛋白AQP可使水快速跨膜转运，在红细胞、肾小管和集合管等处很重要。"
+},
+{
+"id": 13,
+"question_en": "What are the main characteristics of carrier-mediated facilitated diffusion?",
+"answer_en": "Specificity, saturation, and competitive inhibition",
+"analysis_zh": "载体转运需与底物结合并构象改变，因此具有结构特异性、饱和现象和竞争性抑制。"
+},
+{
+"id": 14,
+"question_en": "Which glucose transporter is mainly found in skeletal muscle, cardiac muscle, and adipose tissue?",
+"answer_en": "GLUT4",
+"analysis_zh": "GLUT4分布于横纹肌和脂肪组织，数量或功能下降可参与胰岛素抵抗。"
+},
+{
+"id": 15,
+"question_en": "What is active transport across the cell membrane?",
+"answer_en": "Energy-dependent transport against an electrochemical gradient",
+"analysis_zh": "主动转运依靠细胞代谢供能，使物质逆浓度梯度或电位梯度跨膜转运。"
+},
+{
+"id": 16,
+"question_en": "How many sodium and potassium ions are transported by the Na+-K+ pump per ATP molecule?",
+"answer_en": "3 Na+ out and 2 K+ in",
+"analysis_zh": "钠泵每分解1个ATP，将3个Na+泵出细胞，同时将2个K+泵入细胞。"
+},
+{
+"id": 17,
+"question_en": "Why is the Na+-K+ pump considered electrogenic?",
+"answer_en": "It moves one net positive charge outward",
+"analysis_zh": "每个转运周期净移出1个正电荷，使膜内负值增大，具有生电效应。"
+},
+{
+"id": 18,
+"question_en": "What is the most important direct effect of the Na+-K+ pump?",
+"answer_en": "Maintaining Na+ and K+ gradients",
+"analysis_zh": "钠泵维持细胞内高K+、细胞外高Na+，这是静息电位、动作电位和继发性主动转运的基础。"
+},
+{
+"id": 19,
+"question_en": "Which drug can inhibit the Na+-K+ pump?",
+"answer_en": "Ouabain",
+"analysis_zh": "哇巴因可与钠泵结合并抑制其活动。"
+},
+{
+"id": 20,
+"question_en": "What is the main function of calcium pumps such as PMCA and SERCA?",
+"answer_en": "Maintain low cytosolic Ca2+",
+"analysis_zh": "钙泵将Ca2+转运出胞质或回收到肌质网/内质网，使胞质Ca2+维持低水平。"
+},
+{
+"id": 21,
+"question_en": "Which proton pump is inhibited by omeprazole to reduce gastric acid secretion?",
+"answer_en": "H+-K+-ATPase",
+"analysis_zh": "胃壁细胞H+-K+-ATP酶负责胃酸分泌，奥美拉唑抑制该质子泵。"
+},
+{
+"id": 22,
+"question_en": "What energy source directly drives secondary active transport?",
+"answer_en": "Ion concentration gradient",
+"analysis_zh": "继发性主动转运不直接水解ATP，而利用Na+或H+顺梯度扩散释放的势能。"
+},
+{
+"id": 23,
+"question_en": "Which transporter mediates intestinal glucose absorption and renal tubular glucose reabsorption together with sodium?",
+"answer_en": "Na+-glucose symporter",
+"analysis_zh": "葡萄糖在小肠和近端肾小管上皮细胞中常通过Na+-葡萄糖同向转运进入细胞。"
+},
+{
+"id": 24,
+"question_en": "Which antiporter helps remove Ca2+ from cardiomyocytes after excitation-contraction coupling?",
+"answer_en": "Na+-Ca2+ exchanger",
+"analysis_zh": "Na+-Ca2+交换体利用Na+内流的势能，将细胞内Ca2+逆浓度梯度排出。"
+},
+{
+"id": 25,
+"question_en": "What type of transport moves large molecules and particles by vesicle formation?",
+"answer_en": "Vesicular transport",
+"analysis_zh": "大分子和颗粒物质通过膜包裹、融合和离断形成囊泡完成转运。"
+},
+{
+"id": 26,
+"question_en": "Which endocytic mechanism allows selective uptake of LDL into cells?",
+"answer_en": "Receptor-mediated endocytosis",
+"analysis_zh": "LDL主要经LDL受体介导入胞；受体缺乏或LDL过高可导致血浆LDL升高。"
+},
+{
+"id": 27,
+"question_en": "What is cellular signal transduction?",
+"answer_en": "Conversion and transmission of biological information",
+"analysis_zh": "信号转导是细胞间或细胞内生物学信息的转换、传递并产生效应的过程。"
+},
+{
+"id": 28,
+"question_en": "What are the main membrane receptor pathways for signal transduction?",
+"answer_en": "Ion channel, GPCR, enzyme-linked, and recruitment receptor pathways",
+"analysis_zh": "膜受体介导的主要通路包括离子通道型受体、G蛋白耦联受体、酶联型受体和招募型受体。"
+},
+{
+"id": 29,
+"question_en": "Why is ion channel receptor signaling faster than GPCR signaling?",
+"answer_en": "It directly changes ion permeability",
+"analysis_zh": "离子通道型受体开放后迅速改变膜电位，而GPCR需多级信号分子中继。"
+},
+{
+"id": 30,
+"question_en": "What structural feature is typical of G protein-coupled receptors?",
+"answer_en": "Seven transmembrane segments",
+"analysis_zh": "GPCR又称七次跨膜受体，配体结合后通过构象改变激活G蛋白。"
+},
+{
+"id": 31,
+"question_en": "In GPCR signaling, what is the active nucleotide-bound state of a G protein?",
+"answer_en": "GTP-bound state",
+"analysis_zh": "G蛋白结合GDP时失活，结合GTP时激活，起分子开关作用。"
+},
+{
+"id": 32,
+"question_en": "Which second messenger is produced by adenylyl cyclase in the GPCR pathway?",
+"answer_en": "cAMP",
+"analysis_zh": "AC催化生成cAMP；Gs激活AC升高cAMP，Gi抑制AC降低cAMP。"
+},
+{
+"id": 33,
+"question_en": "Which protein kinase is mainly activated by cAMP?",
+"answer_en": "PKA",
+"analysis_zh": "cAMP多数效应通过激活蛋白激酶A完成，进而磷酸化靶蛋白。"
+},
+{
+"id": 34,
+"question_en": "Which two second messengers are produced when PLC hydrolyzes PIP2?",
+"answer_en": "IP3 and DG",
+"analysis_zh": "PLC分解PIP2生成IP3和DG；IP3促使胞内钙库释放Ca2+，DG激活PKC。"
+},
+{
+"id": 35,
+"question_en": "Which intracellular protein is the most important calcium-binding protein in Ca2+ signaling?",
+"answer_en": "Calmodulin",
+"analysis_zh": "Ca2+与钙调蛋白CaM结合形成复合物，可激活CaMK、钙调磷酸酶等。"
+},
+{
+"id": 36,
+"question_en": "Which receptor type commonly mediates growth factor signaling through tyrosine phosphorylation?",
+"answer_en": "Tyrosine kinase receptor",
+"analysis_zh": "酪氨酸激酶受体被生长因子激活后，使下游蛋白酪氨酸残基磷酸化。"
+},
+{
+"id": 37,
+"question_en": "How do nuclear receptors usually produce their cellular effects?",
+"answer_en": "Regulate gene transcription",
+"analysis_zh": "类固醇激素、甲状腺激素等脂溶性配体进入细胞后结合核受体，调控靶基因转录。"
+},
+{
+"id": 38,
+"question_en": "What is the resting membrane potential?",
+"answer_en": "Stable transmembrane potential at rest",
+"analysis_zh": "静息电位是细胞静息状态下膜内外存在的电位差，通常表现为内负外正。"
+},
+{
+"id": 39,
+"question_en": "Which ion is mainly responsible for generating the resting membrane potential?",
+"answer_en": "K+",
+"analysis_zh": "静息时膜对K+通透性最高，K+外流形成的扩散电位是静息电位的主要来源。"
+},
+{
+"id": 40,
+"question_en": "What happens to the resting membrane potential when extracellular K+ concentration increases?",
+"answer_en": "It becomes less negative",
+"analysis_zh": "细胞外K+升高使K+平衡电位负值减小，静息电位随之去极化。"
+},
+{
+"id": 41,
+"question_en": "What is an action potential?",
+"answer_en": "Rapid propagating membrane potential change",
+"analysis_zh": "动作电位是在静息电位基础上由有效刺激触发、可向远处传播的快速膜电位波动。"
+},
+{
+"id": 42,
+"question_en": "What are the three major features of action potentials?",
+"answer_en": "All-or-none, nondecremental propagation, and pulse-like firing",
+"analysis_zh": "动作电位一旦产生幅度固定，可不衰减传播，并以一个个分离脉冲形式出现。"
+},
+{
+"id": 43,
+"question_en": "Which ion current mainly causes the rapid depolarizing phase of a typical nerve action potential?",
+"answer_en": "Na+ influx",
+"analysis_zh": "电压门控Na+通道开放，Na+快速内流，引起动作电位升支。"
+},
+{
+"id": 44,
+"question_en": "Which ion current mainly contributes to repolarization of a typical nerve action potential?",
+"answer_en": "K+ efflux",
+"analysis_zh": "Na+通道失活和K+通道开放使K+外流增强，共同导致复极化。"
+},
+{
+"id": 45,
+"question_en": "What is the threshold potential?",
+"answer_en": "Membrane potential that triggers regenerative depolarization",
+"analysis_zh": "阈电位是刚好启动膜去极化与Na+电导正反馈的临界膜电位。"
+},
+{
+"id": 46,
+"question_en": "Why does low extracellular Ca2+ increase cellular excitability?",
+"answer_en": "It lowers the threshold potential",
+"analysis_zh": "细胞外Ca2+降低使钠通道较易激活，阈电位下移，细胞兴奋性升高，可导致低钙惊厥。"
+},
+{
+"id": 47,
+"question_en": "What is the absolute refractory period?",
+"answer_en": "Period when no new action potential can occur",
+"analysis_zh": "绝对不应期内电压门控Na+或Ca2+通道已激活或失活，无论刺激多强都不能再次兴奋。"
+},
+{
+"id": 48,
+"question_en": "What is saltatory conduction?",
+"answer_en": "Action potential jumping between nodes of Ranvier",
+"analysis_zh": "有髓神经纤维动作电位只在郎飞结产生，可显著提高传导速度并减少能量消耗。"
+},
+{
+"id": 49,
+"question_en": "Which cell junction allows direct electrical spread between adjacent cells?",
+"answer_en": "Gap junction",
+"analysis_zh": "缝隙连接由连接蛋白形成跨细胞孔道，可使离子和小分子通过，是心肌电传导的重要结构基础。"
+},
+{
+"id": 50,
+"question_en": "What are the main features of local potentials?",
+"answer_en": "Graded, decremental, and summable",
+"analysis_zh": "局部电位不具有全或无特点，可随距离衰减，无不应期，并可发生时间总和和空间总和。"
+}
+]
+}

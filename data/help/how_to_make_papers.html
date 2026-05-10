@@ -1,0 +1,90 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>如何制作试卷 - PhysioStudy</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="main">
+    <div class="hero">
+      <h1>如何制作试卷</h1>
+      <p>如果你有新的 <code>docx</code>、<code>txt</code> 或整理好的题目材料，可以按照下面的规则让 ChatGPT 或其他模型帮你转换成 PhysioStudy 可直接读取的试卷 JSON 文件。</p>
+    </div>
+    <div class="section">
+      <h2>目标格式</h2>
+      <p>输出必须是标准 JSON，顶层结构固定如下：</p>
+      <div class="code">{
+  "title": "试卷标题",
+  "source": {
+    "file": "原始文件名.docx",
+    "generated_at": "YYYY-MM-DD HH:mm:ss"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question_en": "英文题干",
+      "answer_en": "英文答案",
+      "analysis_zh": "中文解析或 无"
+    }
+  ]
+}</div>
+    </div>
+    <div class="section">
+      <h2>整理规则</h2>
+      <ul>
+        <li>题干必须使用英文，并且要写成真正的试题问法。</li>
+        <li>答案必须使用英文，尽量简洁，几个词或短语即可。</li>
+        <li>解析使用中文；如果题目很直接、不需要解析，就写 <code>无</code>。</li>
+        <li>如果原始材料是选择题，不要保留 A/B/C/D/E 选项，而是改写成问答式题目。</li>
+        <li>如果题目过于残缺、无法判断题意，不要硬编，可以跳过。</li>
+        <li>机制题、易混题、临床联系较强的题，尽量补上简短中文解析。</li>
+      </ul>
+    </div>
+    <div class="section">
+      <h2>推荐提示词</h2>
+      <div class="code">请根据我上传的文件，把内容整理成适合 PhysioStudy 软件使用的试题 json 文件，要求严格如下：
+
+1. 输出格式必须是 JSON。
+2. 顶层结构必须为：
+{
+  "title": "试卷标题",
+  "source": {
+    "file": "原始文件名.docx",
+    "generated_at": "YYYY-MM-DD HH:mm:ss"
+  },
+  "questions": [ ... ]
+}
+
+3. questions 里的每一道题都必须写成：
+{
+  "id": 1,
+  "question_en": "英文题干，必须写成真正的试题问法，不要只是关键词拼接",
+  "answer_en": "英文答案，尽量是几个单词或短语",
+  "analysis_zh": "必要时补中文解析；如果题目很直接、不需要解析，就写 无"
+}
+
+4. 题目整理规则：
+- 题干必须用英文。
+- 答案必须用英文。
+- 解析用中文。
+- 如果原题是选择题，不要保留 A/B/C/D/E 选项，而是改写成真正的问答式试题。
+- 不要写出处，不要写页码，不要写“本题答案是”。
+- 对机制题、易混题、临床联系强的题，尽量补中文解析。
+- 对过于残缺、无法确定题意的题目，不要硬编，可以跳过。
+
+5. 风格要求：
+- question_en 要像真正考试会问的问题。
+- answer_en 要简洁准确。
+- analysis_zh 要简明，不要长篇大论。
+
+6. 请直接输出完整 JSON，不要加 markdown 代码块，不要加多余解释。</div>
+    </div>
+    <div class="section">
+      <h2>放置位置</h2>
+      <p>生成好的试卷文件保存到下面这个目录即可被软件读取：</p>
+      <div class="code">physiowords\data\papers</div>
+    </div>
+  </div>
+</body>
+</html>

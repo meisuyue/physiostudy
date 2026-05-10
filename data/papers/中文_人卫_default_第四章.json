@@ -1,0 +1,369 @@
+{
+"title": "PhysioStudy Chapter 4 High-Yield Blood Circulation Exam",
+"source": {
+"file": "第4章.txt",
+"generated_at": "2026-05-06 00:00:00"
+},
+"questions": [
+{
+"id": 1,
+"question_en": "What is the main function of blood circulation?",
+"answer_en": "Material transport",
+"analysis_zh": "血液循环将O2、营养物质和激素运送到组织，并把CO2和代谢产物送至排泄器官，是维持内环境稳态的基础。"
+},
+{
+"id": 2,
+"question_en": "What is a cardiac cycle?",
+"answer_en": "One contraction-relaxation cycle",
+"analysis_zh": "一次心脏收缩和舒张构成一个心动周期，通常以心室活动周期为代表。"
+},
+{
+"id": 3,
+"question_en": "When heart rate increases, which part of the cardiac cycle shortens more?",
+"answer_en": "Diastole",
+"analysis_zh": "心率加快时收缩期和舒张期都缩短，但舒张期缩短更明显，过快心率会影响心室充盈。"
+},
+{
+"id": 4,
+"question_en": "During isovolumic ventricular contraction, what is the state of the atrioventricular and semilunar valves?",
+"answer_en": "Both are closed",
+"analysis_zh": "房室瓣已关闭而半月瓣尚未开放，心室成为封闭腔，容积不变而室内压急剧升高。"
+},
+{
+"id": 5,
+"question_en": "Which phase of ventricular systole ejects most of the stroke volume?",
+"answer_en": "Rapid ejection phase",
+"analysis_zh": "快速射血期射出的血量约占总射血量的2/3，是心室射血最主要的阶段。"
+},
+{
+"id": 6,
+"question_en": "During which phase does ventricular pressure fall rapidly while ventricular volume remains unchanged?",
+"answer_en": "Isovolumic relaxation",
+"analysis_zh": "等容舒张期半月瓣已关闭、房室瓣尚未开放，心室容积不变但室内压迅速下降。"
+},
+{
+"id": 7,
+"question_en": "Which phase contributes most to ventricular filling during diastole?",
+"answer_en": "Rapid filling phase",
+"analysis_zh": "快速充盈期因心室主动舒张形成抽吸作用，约占心室总充盈量的2/3。"
+},
+{
+"id": 8,
+"question_en": "What is the approximate contribution of atrial contraction to ventricular filling at rest?",
+"answer_en": "About 25%",
+"analysis_zh": "安静状态下心房收缩只起辅助泵作用，但在心率快或心室顺应性下降时更重要。"
+},
+{
+"id": 9,
+"question_en": "How is stroke volume calculated from ventricular volumes?",
+"answer_en": "EDV minus ESV",
+"analysis_zh": "每搏输出量等于心室舒张末期容积减去收缩末期容积。"
+},
+{
+"id": 10,
+"question_en": "What is ejection fraction?",
+"answer_en": "Stroke volume divided by EDV",
+"analysis_zh": "射血分数比单纯搏出量更能反映心室泵血功能，正常成人约55%–65%。"
+},
+{
+"id": 11,
+"question_en": "How is cardiac output calculated?",
+"answer_en": "Heart rate times stroke volume",
+"analysis_zh": "心输出量是一侧心室每分钟射出的血量，等于心率乘以每搏输出量。"
+},
+{
+"id": 12,
+"question_en": "What are the two main components of cardiac reserve?",
+"answer_en": "Stroke volume reserve and heart rate reserve",
+"analysis_zh": "心力储备取决于搏出量和心率可增加的程度，其中收缩期储备通常大于舒张期储备。"
+},
+{
+"id": 13,
+"question_en": "What is ventricular preload mainly represented by?",
+"answer_en": "End-diastolic volume",
+"analysis_zh": "心室肌初长度取决于舒张末期充盈量，临床和实验中也常用舒张末期压力或心房压反映前负荷。"
+},
+{
+"id": 14,
+"question_en": "What does the Frank-Starling mechanism describe?",
+"answer_en": "Greater filling increases contraction",
+"analysis_zh": "在一定范围内，前负荷增加使心肌初长度增加，收缩力和搏出量随之增加。"
+},
+{
+"id": 15,
+"question_en": "What is the main physiological role of heterometric autoregulation in the heart?",
+"answer_en": "Matches output to venous return",
+"analysis_zh": "异长自身调节可精细调节搏出量，使心室射血量与静脉回心血量保持平衡。"
+},
+{
+"id": 16,
+"question_en": "What is ventricular afterload mainly represented by?",
+"answer_en": "Aortic pressure",
+"analysis_zh": "心室收缩必须克服大动脉压才能射血，因此大动脉压是心室后负荷。"
+},
+{
+"id": 17,
+"question_en": "What is the immediate effect of increased aortic pressure on stroke volume if contractility is unchanged?",
+"answer_en": "Stroke volume decreases",
+"analysis_zh": "后负荷升高使等容收缩期延长、射血期缩短，射血速度和搏出量暂时下降。"
+},
+{
+"id": 18,
+"question_en": "What is myocardial contractility?",
+"answer_en": "Load-independent contractile ability",
+"analysis_zh": "心肌收缩能力是不依赖前负荷和后负荷而改变收缩强度和速度的内在特性。"
+},
+{
+"id": 19,
+"question_en": "How do catecholamines increase myocardial contractility?",
+"answer_en": "Increase Ca2+ influx",
+"analysis_zh": "儿茶酚胺激活β1受体，经cAMP-PKA通路增强L型钙通道开放，并促进钙致钙释放。"
+},
+{
+"id": 20,
+"question_en": "Why can an excessively high heart rate reduce cardiac output?",
+"answer_en": "Insufficient ventricular filling",
+"analysis_zh": "心率过快时舒张期过短，心室充盈明显不足，搏出量下降，心输出量反而减少。"
+},
+{
+"id": 21,
+"question_en": "Which clinical index is commonly preferred for evaluating left ventricular systolic function?",
+"answer_en": "LVEF",
+"analysis_zh": "左心室射血分数是临床评价多数患者左室收缩功能的首选指标。"
+},
+{
+"id": 22,
+"question_en": "What event does the first heart sound mainly mark?",
+"answer_en": "Start of ventricular systole",
+"analysis_zh": "第一心音主要与房室瓣关闭及心室射血振动有关，标志心室收缩开始。"
+},
+{
+"id": 23,
+"question_en": "What event does the second heart sound mainly mark?",
+"answer_en": "Start of ventricular diastole",
+"analysis_zh": "第二心音主要由主动脉瓣和肺动脉瓣关闭引起，标志心室舒张开始。"
+},
+{
+"id": 24,
+"question_en": "What ion is mainly responsible for the resting potential of ventricular working cells?",
+"answer_en": "K+",
+"analysis_zh": "心肌工作细胞静息时主要对K+通透，IK1介导的K+外流是静息电位的主要基础。"
+},
+{
+"id": 25,
+"question_en": "Which ion current mainly causes phase 0 depolarization in ventricular myocytes?",
+"answer_en": "Na+ influx",
+"analysis_zh": "快钠通道开放引起Na+快速内流，形成心室肌动作电位0期快速去极化。"
+},
+{
+"id": 26,
+"question_en": "What is the main ionic basis of the plateau phase in ventricular myocytes?",
+"answer_en": "Ca2+ influx balanced by K+ efflux",
+"analysis_zh": "平台期主要由L型Ca2+内流和K+外流相对平衡形成，是心肌动作电位时程长的关键。"
+},
+{
+"id": 27,
+"question_en": "What is the main ionic current responsible for phase 0 depolarization in sinoatrial node cells?",
+"answer_en": "L-type Ca2+ current",
+"analysis_zh": "窦房结为慢反应细胞，0期由L型Ca2+通道开放引起，而不是快Na+通道。"
+},
+{
+"id": 28,
+"question_en": "What is the electrical basis of automaticity in pacemaker cells?",
+"answer_en": "Phase 4 spontaneous depolarization",
+"analysis_zh": "自律细胞4期膜电位不稳定并自动去极化，达到阈电位后产生节律性动作电位。"
+},
+{
+"id": 29,
+"question_en": "Which structure is the normal pacemaker of the heart?",
+"answer_en": "Sinoatrial node",
+"analysis_zh": "窦房结自律性最高，正常情况下控制心脏节律，形成窦性心律。"
+},
+{
+"id": 30,
+"question_en": "What is the physiological significance of atrioventricular delay?",
+"answer_en": "Allows ventricular filling",
+"analysis_zh": "房室延搁使心室收缩发生在心房收缩之后，有利于心室充分充盈和有效射血。"
+},
+{
+"id": 31,
+"question_en": "Why can cardiac muscle not produce complete tetanus?",
+"answer_en": "Long effective refractory period",
+"analysis_zh": "心肌有效不应期特别长，延续到舒张早期，保证心脏收缩和舒张交替进行。"
+},
+{
+"id": 32,
+"question_en": "What is a compensatory pause after a premature ventricular contraction?",
+"answer_en": "Prolonged diastolic interval",
+"analysis_zh": "期前兴奋后有自身有效不应期，下一次窦性兴奋可能落入其中而脱失，形成较长舒张期。"
+},
+{
+"id": 33,
+"question_en": "What structures allow electrical excitation to spread directly between cardiomyocytes?",
+"answer_en": "Gap junctions",
+"analysis_zh": "闰盘中的缝隙连接形成低电阻通道，使心肌细胞形成电活动上的功能合胞体。"
+},
+{
+"id": 34,
+"question_en": "Why is cardiac contraction highly dependent on extracellular calcium?",
+"answer_en": "Extracellular Ca2+ triggers SR Ca2+ release",
+"analysis_zh": "心肌肌质网不如骨骼肌发达，需依赖外Ca2+内流触发钙致钙释放。"
+},
+{
+"id": 35,
+"question_en": "What does the P wave of the ECG represent?",
+"answer_en": "Atrial depolarization",
+"analysis_zh": "P波反映左右心房去极化，左房肥大常见P波增宽或双峰，右房肥大常见P波振幅增高。"
+},
+{
+"id": 36,
+"question_en": "What does the QRS complex of the ECG represent?",
+"answer_en": "Ventricular depolarization",
+"analysis_zh": "QRS波群反映心室快速同步去极化，增宽常提示室内传导阻滞或室性起源。"
+},
+{
+"id": 37,
+"question_en": "What does the PR interval represent?",
+"answer_en": "Atrioventricular conduction time",
+"analysis_zh": "PR间期从P波起点到QRS起点，反映兴奋从窦房结经心房和房室交界传至心室的时间。"
+},
+{
+"id": 38,
+"question_en": "What does QT interval prolongation increase the risk of?",
+"answer_en": "Torsades de pointes",
+"analysis_zh": "QT延长提示心室去极到复极时间延长，易发生早期后除极并诱发尖端扭转型室速。"
+},
+{
+"id": 39,
+"question_en": "What does the ST segment mainly correspond to in ventricular action potentials?",
+"answer_en": "Plateau phase",
+"analysis_zh": "ST段代表心室各部分细胞多处于去极化平台期，正常应接近等电位线；抬高或压低常提示心肌损伤或缺血。"
+},
+{
+"id": 40,
+"question_en": "According to Poiseuille's law, which vessel factor has the greatest effect on blood flow resistance?",
+"answer_en": "Vessel radius",
+"analysis_zh": "血流阻力与血管半径的四次方成反比，血管口径微小变化即可显著改变阻力和血流量。"
+},
+{
+"id": 41,
+"question_en": "Which vessels are the main resistance vessels in systemic circulation?",
+"answer_en": "Small arteries and arterioles",
+"analysis_zh": "小动脉和微动脉管径小、平滑肌丰富，是形成外周阻力和调节器官血流量的主要部位。"
+},
+{
+"id": 42,
+"question_en": "What is the main function of elastic reservoir vessels?",
+"answer_en": "Convert pulsatile flow to continuous flow",
+"analysis_zh": "主动脉和大动脉的弹性贮器作用可缓冲血压波动，并在舒张期继续推动血流。"
+},
+{
+"id": 43,
+"question_en": "What are the essential conditions for arterial blood pressure formation?",
+"answer_en": "Blood filling, cardiac ejection, peripheral resistance, and arterial elasticity",
+"analysis_zh": "足够血液充盈是前提，心脏射血是必要条件，外周阻力和大动脉弹性共同维持动脉压。"
+},
+{
+"id": 44,
+"question_en": "Which factor mainly affects systolic arterial pressure under ordinary conditions?",
+"answer_en": "Stroke volume",
+"analysis_zh": "每搏输出量增加时，收缩期进入大动脉的血量增加，收缩压升高更明显。"
+},
+{
+"id": 45,
+"question_en": "Which factor mainly affects diastolic arterial pressure under ordinary conditions?",
+"answer_en": "Peripheral resistance",
+"analysis_zh": "外周阻力增大使舒张期血液外流变慢，舒张压升高更明显。"
+},
+{
+"id": 46,
+"question_en": "What does central venous pressure mainly reflect clinically?",
+"answer_en": "Balance between cardiac pumping and venous return",
+"analysis_zh": "中心静脉压取决于心脏射血能力和静脉回流量，可用于判断心功能及指导补液。"
+},
+{
+"id": 47,
+"question_en": "What is the main effect of the skeletal muscle pump on venous return?",
+"answer_en": "Increases venous return",
+"analysis_zh": "骨骼肌节律性收缩挤压静脉，配合静脉瓣使血液向心流动，减少下肢淤血。"
+},
+{
+"id": 48,
+"question_en": "What is the main exchange pathway in microcirculation?",
+"answer_en": "Circuitous channel",
+"analysis_zh": "迂回通路经真毛细血管网，管壁薄、通透性大、血流慢，是物质交换的主要场所。"
+},
+{
+"id": 49,
+"question_en": "What forces promote capillary filtration into the interstitial space?",
+"answer_en": "Capillary pressure and interstitial colloid osmotic pressure",
+"analysis_zh": "毛细血管血压和组织液胶体渗透压促使液体滤出；血浆胶体渗透压和组织液静水压促使重吸收。"
+},
+{
+"id": 50,
+"question_en": "What are the major causes of edema from altered capillary fluid exchange?",
+"answer_en": "Increased capillary pressure, decreased plasma oncotic pressure, increased permeability, or lymphatic obstruction",
+"analysis_zh": "这些因素均可使有效滤过压增大或回流受阻，导致组织间液过多积聚。"
+},
+{
+"id": 51,
+"question_en": "What is the major physiological role of lymphatic return?",
+"answer_en": "Returns proteins and excess interstitial fluid",
+"analysis_zh": "淋巴回流可回收蛋白质和大分子物质，运输脂肪，调节体液平衡并参与防御免疫。"
+},
+{
+"id": 52,
+"question_en": "What is the immediate reflex response to a sudden rise in arterial pressure?",
+"answer_en": "Baroreceptor reflex lowers pressure",
+"analysis_zh": "动脉压升高牵张颈动脉窦和主动脉弓压力感受器，使迷走紧张增强、交感紧张减弱，血压回降。"
+},
+{
+"id": 53,
+"question_en": "What is the main physiological role of the arterial baroreceptor reflex?",
+"answer_en": "Short-term blood pressure stabilization",
+"analysis_zh": "压力感受性反射对快速血压变化敏感，主要缓冲短期血压波动，不是长期血压调节的主要机制。"
+},
+{
+"id": 54,
+"question_en": "What cardiovascular effects does cardiac sympathetic stimulation produce?",
+"answer_en": "Increases heart rate, contractility, and conduction",
+"analysis_zh": "心交感神经释放去甲肾上腺素作用于β1受体，产生正性变时、变力和变传导作用。"
+},
+{
+"id": 55,
+"question_en": "What cardiovascular effects does cardiac vagal stimulation produce?",
+"answer_en": "Decreases heart rate and AV conduction",
+"analysis_zh": "心迷走神经释放ACh作用于M受体，降低窦房结自律性并减慢房室传导，对心室肌收缩力影响较小。"
+},
+{
+"id": 56,
+"question_en": "Which substance is the most important effector of the renin-angiotensin system on blood pressure?",
+"answer_en": "Angiotensin II",
+"analysis_zh": "AngⅡ可收缩微动脉和静脉，促进交感递质释放，并促进醛固酮分泌，使血压升高。"
+},
+{
+"id": 57,
+"question_en": "What is the main long-term mechanism for arterial blood pressure regulation?",
+"answer_en": "Renal-body fluid control",
+"analysis_zh": "长期血压稳态主要依赖肾脏调节细胞外液量和循环血量，核心是水盐摄入与排出的平衡。"
+},
+{
+"id": 58,
+"question_en": "What primarily determines coronary blood flow under normal conditions?",
+"answer_en": "Myocardial metabolic level",
+"analysis_zh": "心肌耗氧率高，提高摄氧余地小，因此冠脉血流主要随心肌代谢水平变化。"
+},
+{
+"id": 59,
+"question_en": "During which part of the cardiac cycle is left coronary blood flow greatest?",
+"answer_en": "Early diastole",
+"analysis_zh": "左室收缩压迫冠脉小分支，舒张期压迫解除，冠脉阻力下降，左冠脉血流在舒张早期达到高峰。"
+},
+{
+"id": 60,
+"question_en": "How does alveolar hypoxia affect pulmonary circulation?",
+"answer_en": "Causes pulmonary vasoconstriction",
+"analysis_zh": "肺循环中低氧引起局部血管收缩，与体循环相反，可将血流转向通气较好的肺泡区域。"
+}
+]
+}
